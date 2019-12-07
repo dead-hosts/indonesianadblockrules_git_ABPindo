@@ -1,6 +1,8 @@
 {
     "currently_under_test": false,
-    "custom_pyfunceble_config": {},
+    "custom_pyfunceble_config": {
+        "adblock": true
+    },
     "days_until_next_test": 4,
     "name": "dead-hosts/indonesianadblockrules_git_ABPindo",
     "own_management": false,
