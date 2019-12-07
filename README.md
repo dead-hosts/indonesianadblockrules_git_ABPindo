@@ -1,9 +1,17 @@
-# About [repository-name]
+# About indonesianadblockrules_git_ABPindo
 
-[![Build Status](https://travis-ci.org/[repository-slug].svg?branch=master)](https://travis-ci.org/[repository-slug])
+[![Build Status](https://travis-ci.org/dead-hosts/indonesianadblockrules_git_ABPindo.svg?branch=master)](https://travis-ci.org/dead-hosts/indonesianadblockrules_git_ABPindo)
 
 ```
-[description]
+! Title: ABPindo
+! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
+! Expires: 4 days (update frequency)
+! Homepage: http://abpindo.blogspot.com/
+! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
+! 
+! Please report any unblocked adverts or problems
+! GitHub issues: https://github.com/ABPindo/indonesianadblockrules/issues
+! GitHub pull requests: https://github.com/ABPindo/indonesianadblockrules/pulls
 ```
 
 --------------------------------------------------------------------------------
