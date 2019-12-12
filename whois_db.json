@@ -2214,6 +2214,11 @@
         "expiration_date": "13-apr-2020",
         "state": "future"
     },
+    "iklanbarisgratis.com": {
+        "epoch": 1587168000.0,
+        "expiration_date": "18-apr-2020",
+        "state": "future"
+    },
     "iklanbarismu.com": {
         "epoch": 1591488000.0,
         "expiration_date": "07-jun-2020",
@@ -2232,6 +2237,11 @@
     "iklandenpasar.com": {
         "epoch": 1576281600.0,
         "expiration_date": "14-dec-2019",
+        "state": "future"
+    },
+    "iklangratis.com": {
+        "epoch": 1582156800.0,
+        "expiration_date": "20-feb-2020",
         "state": "future"
     },
     "iklangratis88.com": {
@@ -2439,9 +2449,34 @@
         "expiration_date": "14-nov-2020",
         "state": "future"
     },
+    "istana-impian.com": {
+        "epoch": 1590451200.0,
+        "expiration_date": "26-may-2020",
+        "state": "future"
+    },
+    "istana-impian2.com": {
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
+        "state": "future"
+    },
     "istanaiklan.com": {
         "epoch": 1604188800.0,
         "expiration_date": "01-nov-2020",
+        "state": "future"
+    },
+    "istanaimpian1.com": {
+        "epoch": 1596844800.0,
+        "expiration_date": "08-aug-2020",
+        "state": "future"
+    },
+    "istanaimpian2.com": {
+        "epoch": 1577059200.0,
+        "expiration_date": "23-dec-2019",
+        "state": "future"
+    },
+    "istanaimpian3.com": {
+        "epoch": 1582502400.0,
+        "expiration_date": "24-feb-2020",
         "state": "future"
     },
     "iupqelechcmj.com": {
@@ -3935,8 +3970,8 @@
         "state": "future"
     },
     "pc3ads.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "peevopoy.com": {
@@ -5290,8 +5325,8 @@
         "state": "future"
     },
     "trndoffers.com": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "truepoker.com": {
@@ -5412,6 +5447,11 @@
     "vomitgirl.org": {
         "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
+    "vrewpywootyu.com": {
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
         "state": "future"
     },
     "walkthedinosaur.com": {

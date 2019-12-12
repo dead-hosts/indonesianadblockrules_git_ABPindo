@@ -5,76 +5,36 @@
             "66cpwgln.space": "INACTIVE",
             "690179b5160e450.com": "INACTIVE",
             "6a0e2d19ac28.com": "INACTIVE",
-            "8a333bc2b4d6.com": "INACTIVE",
-            "9icmzvn6.website": "INACTIVE"
+            "8a333bc2b4d6.com": "INACTIVE"
         },
         "1575753912": {
-            ".wp.com": "INVALID",
             "bakaratonline.": "INVALID",
-            "bellaads.com": "INACTIVE",
-            "bp.blogspot.com": "INACTIVE",
-            "c-stat.eu": "INACTIVE",
-            "cfs1.uzone.id": "INACTIVE",
-            "coblos.net": "INACTIVE",
             "dgnvmw.xyz": "INACTIVE",
-            "dulcetcgvcxr.com": "INACTIVE",
-            "fnkyyrgraizy.com": "INACTIVE",
-            "gahhlbxdgw.com": "INACTIVE",
-            "gerwen.info": "INACTIVE",
-            "gjeyqtunbnap.com": "INACTIVE",
-            "gxwjkbxubfjd.com": "INACTIVE",
             "hclccadfmkpw.com": "INACTIVE",
-            "idfl.*": "INVALID",
             "iklan-indo.": "INVALID",
             "iklanbarisgratis.": "INVALID",
             "iklanbarisgratispasang.": "INVALID",
             "iklanbisnispro.com": "INACTIVE",
-            "iklandiweb.com": "INACTIVE",
             "iklangratis.": "INVALID",
             "iklangratismu.com": "INACTIVE",
             "iklanonlinemu.com": "INACTIVE",
             "iklanpasanggratis.com": "INACTIVE",
-            "iklantop.net": "INACTIVE",
-            "ikoh6ie.top": "INACTIVE",
-            "images.gameweb.co.id": "INACTIVE",
             "istana-impian.": "INVALID",
             "istana-impian2.": "INVALID",
             "istanaimpian1.": "INVALID",
             "istanaimpian2.": "INVALID",
             "istanaimpian3.": "INVALID",
-            "jagopromo.com": "INACTIVE",
-            "jjxsdkphpcwu.com": "INACTIVE",
-            "juruiklan.com": "INACTIVE",
-            "keripikcadas.com": "INACTIVE",
             "klikabadi.": "INVALID",
-            "l9tdhe6.com": "INACTIVE",
-            "link.ganool.co.in": "INACTIVE",
             "macarier.review": "INACTIVE",
             "pasangiklangratisbaris.": "INVALID",
-            "replase.gq": "INACTIVE",
             "runreproducerow.com": "INACTIVE",
-            "s2pops.club": "INACTIVE",
-            "scriptall.ml": "INACTIVE",
-            "sebar.idblognetwork.com": "INACTIVE",
-            "themobiletracker.": "INVALID",
-            "tracker.lazada.co.id": "INACTIVE",
-            "vrewpywootyu.com": "INACTIVE",
-            "weblogiklan.com": "INACTIVE",
-            "window-close.cf": "INACTIVE",
-            "window-close.ga": "INACTIVE",
-            "xbfk51p7.review": "INACTIVE"
-        },
-        "1575753913": {
-            "173.199.167.192": "INACTIVE",
-            "nontonbox.tv": "INACTIVE",
-            "ns21.*": "INVALID"
+            "themobiletracker.": "INVALID"
         },
         "1575755446": {
             "filmbagus21.web.id": "INACTIVE",
             "sinema21.id": "INACTIVE"
         },
         "1575755447": {
-            "173.199.189.86": "INACTIVE",
             "filmbioskop.my.id": "INACTIVE"
         },
         "1575755448": {
@@ -1952,6 +1912,57 @@
         "1575767734": {
             "oralse.ca": "INACTIVE",
             "tubgirl.org": "INACTIVE"
+        },
+        "1576149680": {
+            "9icmzvn6.website": "INACTIVE",
+            "adbsys.icu": "INACTIVE"
+        },
+        "1576149681": {
+            "bellaads.com": "INACTIVE",
+            "dulcetcgvcxr.com": "INACTIVE",
+            "fnkyyrgraizy.com": "INACTIVE",
+            "gahhlbxdgw.com": "INACTIVE",
+            "gjeyqtunbnap.com": "INACTIVE",
+            "gxwjkbxubfjd.com": "INACTIVE",
+            "iklanbarisgratispasang.com": "INACTIVE"
+        },
+        "1576149682": {
+            "iklandiweb.com": "INACTIVE",
+            "iklantop.net": "INACTIVE",
+            "ikoh6ie.top": "INACTIVE",
+            "jagopromo.com": "INACTIVE",
+            "jjxsdkphpcwu.com": "INACTIVE",
+            "juruiklan.com": "INACTIVE",
+            "l9tdhe6.com": "INACTIVE",
+            "replase.gq": "INACTIVE"
+        },
+        "1576149683": {
+            ".wp.com": "INVALID",
+            "bp.blogspot.com": "INACTIVE",
+            "c-stat.eu": "INACTIVE",
+            "cfs1.uzone.id": "INACTIVE",
+            "coblos.net": "INACTIVE",
+            "s2pops.club": "INACTIVE",
+            "scriptall.ml": "INACTIVE",
+            "sebar.idblognetwork.com": "INACTIVE",
+            "tracker.lazada.co.id": "INACTIVE",
+            "weblogiklan.com": "INACTIVE",
+            "window-close.cf": "INACTIVE",
+            "window-close.ga": "INACTIVE",
+            "xbfk51p7.review": "INACTIVE"
+        },
+        "1576149684": {
+            "gerwen.info": "INACTIVE",
+            "idfl.*": "INVALID",
+            "images.gameweb.co.id": "INACTIVE",
+            "keripikcadas.com": "INACTIVE",
+            "link.ganool.co.in": "INACTIVE",
+            "nontonbox.tv": "INACTIVE",
+            "ns21.*": "INVALID"
+        },
+        "1576149686": {
+            "173.199.167.192": "INACTIVE",
+            "173.199.189.86": "INACTIVE"
         }
     }
 }
