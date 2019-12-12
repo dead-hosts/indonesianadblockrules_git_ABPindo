@@ -54,6 +54,11 @@
         "expiration_date": "29-jun-2020",
         "state": "future"
     },
+    "1priest1nun.com": {
+        "epoch": 1589587200.0,
+        "expiration_date": "16-may-2020",
+        "state": "future"
+    },
     "1priest1nun.net": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
@@ -2785,9 +2790,9 @@
         "state": "future"
     },
     "kids-in-sandbox.com": {
-        "epoch": 1575676800.0,
-        "expiration_date": "07-dec-2019",
-        "state": "past"
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "state": "future"
     },
     "kidsinsandbox.info": {
         "epoch": 1627344000.0,
@@ -3880,8 +3885,8 @@
         "state": "future"
     },
     "oralse.cx": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "otakufile.com": {
@@ -4050,8 +4055,8 @@
         "state": "future"
     },
     "planetjudi.com": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
         "state": "future"
     },
     "playwebgame.com": {
