@@ -869,6 +869,11 @@
         "expiration_date": "01-feb-2020",
         "state": "future"
     },
+    "bioskopkeren.fun": {
+        "epoch": 1588982400.0,
+        "expiration_date": "09-may-2020",
+        "state": "future"
+    },
     "bioskopkerenin.com": {
         "epoch": 1592092800.0,
         "expiration_date": "14-jun-2020",
@@ -2769,6 +2774,11 @@
         "expiration_date": "31-jan-2020",
         "state": "future"
     },
+    "kawanfilm21.online": {
+        "epoch": 1602028800.0,
+        "expiration_date": "07-oct-2020",
+        "state": "future"
+    },
     "kazefuri.web.id": {
         "epoch": 1583107200.0,
         "expiration_date": "02-mar-2020",
@@ -2897,6 +2907,11 @@
     "kumpulblogger.com": {
         "epoch": 1577491200.0,
         "expiration_date": "28-dec-2019",
+        "state": "future"
+    },
+    "kumpulmanga.org": {
+        "epoch": 1599696000.0,
+        "expiration_date": "10-sep-2020",
         "state": "future"
     },
     "kurikulum.co.id": {
@@ -3520,9 +3535,9 @@
         "state": "future"
     },
     "neonime.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
-        "state": "past"
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "state": "future"
     },
     "neonime.net": {
         "epoch": 1607299200.0,
@@ -3777,6 +3792,11 @@
     "ns21.tv": {
         "epoch": 1578528000.0,
         "expiration_date": "09-jan-2020",
+        "state": "future"
+    },
+    "ns21.us": {
+        "epoch": 1578441600.0,
+        "expiration_date": "08-jan-2020",
         "state": "future"
     },
     "nt1.co": {
@@ -4639,6 +4659,11 @@
         "expiration_date": "14-jun-2020",
         "state": "future"
     },
+    "semi168.xyz": {
+        "epoch": 1597708800.0,
+        "expiration_date": "18-aug-2020",
+        "state": "future"
+    },
     "semprot.com": {
         "epoch": 1583193600.0,
         "expiration_date": "03-mar-2020",
@@ -5282,6 +5307,11 @@
     "torjack.net": {
         "epoch": 1584576000.0,
         "expiration_date": "19-mar-2020",
+        "state": "future"
+    },
+    "totalgame.online": {
+        "epoch": 1601856000.0,
+        "expiration_date": "05-oct-2020",
         "state": "future"
     },
     "totalpoker.com": {
