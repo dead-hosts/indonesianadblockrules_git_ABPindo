@@ -689,6 +689,11 @@
         "expiration_date": "19-feb-2020",
         "state": "future"
     },
+    "bebasjudi.com": {
+        "epoch": 1593820800.0,
+        "expiration_date": "04-jul-2020",
+        "state": "future"
+    },
     "belajarbro.id": {
         "epoch": 1580688000.0,
         "expiration_date": "03-feb-2020",
@@ -2464,6 +2469,11 @@
         "expiration_date": "19-jan-2020",
         "state": "future"
     },
+    "initogel.net": {
+        "epoch": 1606262400.0,
+        "expiration_date": "25-nov-2020",
+        "state": "future"
+    },
     "ipoker.com": {
         "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
@@ -2617,7 +2627,7 @@
     "jtogel.com": {
         "epoch": 1576281600.0,
         "expiration_date": "14-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "judiagenonline.com": {
         "epoch": 1623628800.0,
