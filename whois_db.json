@@ -1044,6 +1044,11 @@
         "expiration_date": "23-apr-2020",
         "state": "future"
     },
+    "cat3movie.us": {
+        "epoch": 1637971200.0,
+        "expiration_date": "27-nov-2021",
+        "state": "future"
+    },
     "cdpoker.com": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
@@ -2257,7 +2262,7 @@
     "iklandenpasar.com": {
         "epoch": 1576281600.0,
         "expiration_date": "14-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "iklangratis.com": {
         "epoch": 1582156800.0,
@@ -2737,6 +2742,11 @@
     "kabar24.com": {
         "epoch": 1623974400.0,
         "expiration_date": "18-jun-2021",
+        "state": "future"
+    },
+    "kampus.us": {
+        "epoch": 1589760000.0,
+        "expiration_date": "18-may-2020",
         "state": "future"
     },
     "kapanlagi.com": {
@@ -4432,6 +4442,11 @@
     "razerflixs.com": {
         "epoch": 1604880000.0,
         "expiration_date": "09-nov-2020",
+        "state": "future"
+    },
+    "razorlink.us": {
+        "epoch": 1580428800.0,
+        "expiration_date": "31-jan-2020",
         "state": "future"
     },
     "realizerecess.com": {

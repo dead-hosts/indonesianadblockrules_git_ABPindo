@@ -98,57 +98,6 @@
         "1575765177": {
             "web-taruhanbola.com": "INACTIVE"
         },
-        "1576149680": {
-            "9icmzvn6.website": "INACTIVE",
-            "adbsys.icu": "INACTIVE"
-        },
-        "1576149681": {
-            "bellaads.com": "INACTIVE",
-            "dulcetcgvcxr.com": "INACTIVE",
-            "fnkyyrgraizy.com": "INACTIVE",
-            "gahhlbxdgw.com": "INACTIVE",
-            "gjeyqtunbnap.com": "INACTIVE",
-            "gxwjkbxubfjd.com": "INACTIVE",
-            "iklanbarisgratispasang.com": "INACTIVE"
-        },
-        "1576149682": {
-            "iklandiweb.com": "INACTIVE",
-            "iklantop.net": "INACTIVE",
-            "ikoh6ie.top": "INACTIVE",
-            "jagopromo.com": "INACTIVE",
-            "jjxsdkphpcwu.com": "INACTIVE",
-            "juruiklan.com": "INACTIVE",
-            "l9tdhe6.com": "INACTIVE",
-            "replase.gq": "INACTIVE"
-        },
-        "1576149683": {
-            ".wp.com": "INVALID",
-            "bp.blogspot.com": "INACTIVE",
-            "c-stat.eu": "INACTIVE",
-            "cfs1.uzone.id": "INACTIVE",
-            "coblos.net": "INACTIVE",
-            "s2pops.club": "INACTIVE",
-            "scriptall.ml": "INACTIVE",
-            "sebar.idblognetwork.com": "INACTIVE",
-            "tracker.lazada.co.id": "INACTIVE",
-            "weblogiklan.com": "INACTIVE",
-            "window-close.cf": "INACTIVE",
-            "window-close.ga": "INACTIVE",
-            "xbfk51p7.review": "INACTIVE"
-        },
-        "1576149684": {
-            "gerwen.info": "INACTIVE",
-            "idfl.*": "INVALID",
-            "images.gameweb.co.id": "INACTIVE",
-            "keripikcadas.com": "INACTIVE",
-            "link.ganool.co.in": "INACTIVE",
-            "nontonbox.tv": "INACTIVE",
-            "ns21.*": "INVALID"
-        },
-        "1576149686": {
-            "173.199.167.192": "INACTIVE",
-            "173.199.189.86": "INACTIVE"
-        },
         "1576153688": {
             "filmbagus21.web.id": "INACTIVE",
             "sinema21.id": "INACTIVE"
@@ -2013,6 +1962,57 @@
         },
         "1576160579": {
             "tubgirl.org": "INACTIVE"
+        },
+        "1576357931": {
+            "9icmzvn6.website": "INACTIVE",
+            "adbsys.icu": "INACTIVE",
+            "bellaads.com": "INACTIVE"
+        },
+        "1576357932": {
+            "dulcetcgvcxr.com": "INACTIVE",
+            "fnkyyrgraizy.com": "INACTIVE",
+            "gahhlbxdgw.com": "INACTIVE",
+            "gjeyqtunbnap.com": "INACTIVE",
+            "gxwjkbxubfjd.com": "INACTIVE",
+            "iklanbarisgratispasang.com": "INACTIVE",
+            "iklandiweb.com": "INACTIVE",
+            "iklantop.net": "INACTIVE",
+            "ikoh6ie.top": "INACTIVE",
+            "jagopromo.com": "INACTIVE",
+            "jjxsdkphpcwu.com": "INACTIVE",
+            "juruiklan.com": "INACTIVE",
+            "l9tdhe6.com": "INACTIVE"
+        },
+        "1576357933": {
+            "replase.gq": "INACTIVE",
+            "s2pops.club": "INACTIVE",
+            "scriptall.ml": "INACTIVE",
+            "sebar.idblognetwork.com": "INACTIVE"
+        },
+        "1576357934": {
+            ".wp.com": "INVALID",
+            "bp.blogspot.com": "INACTIVE",
+            "c-stat.eu": "INACTIVE",
+            "cfs1.uzone.id": "INACTIVE",
+            "coblos.net": "INACTIVE",
+            "gerwen.info": "INACTIVE",
+            "idfl.*": "INVALID",
+            "images.gameweb.co.id": "INACTIVE",
+            "tracker.lazada.co.id": "INACTIVE",
+            "weblogiklan.com": "INACTIVE",
+            "window-close.cf": "INACTIVE",
+            "window-close.ga": "INACTIVE",
+            "xbfk51p7.review": "INACTIVE"
+        },
+        "1576357935": {
+            "keripikcadas.com": "INACTIVE",
+            "link.ganool.co.in": "INACTIVE",
+            "nontonbox.tv": "INACTIVE",
+            "ns21.*": "INVALID"
+        },
+        "1576357937": {
+            "173.199.167.192": "INACTIVE",
+            "173.199.189.86": "INACTIVE"
         }
     }
 }
