@@ -98,36 +98,6 @@
         "1575765177": {
             "web-taruhanbola.com": "INACTIVE"
         },
-        "1576358617": {
-            "sinema21.id": "INACTIVE"
-        },
-        "1576358618": {
-            "filmbioskop.my.id": "INACTIVE"
-        },
-        "1576358620": {
-            "22cinema.download": "INACTIVE",
-            "clip.cewecewe.com": "INACTIVE",
-            "embed.dramanices.com": "INACTIVE",
-            "filmbaru.in": "INACTIVE",
-            "www.ganol.si": "INACTIVE"
-        },
-        "1576358621": {
-            "128.199.102.111": "INACTIVE",
-            "bioskop99.me": "INACTIVE",
-            "ganoollk21.info": "INACTIVE",
-            "zonapanaz.net": "INACTIVE"
-        },
-        "1576358622": {
-            "128.199.232.232": "INACTIVE",
-            "indonesiamovies21.com": "INACTIVE",
-            "nontondramaonline.net": "INACTIVE"
-        },
-        "1576358623": {
-            "filmterbaru.id": "INACTIVE",
-            "sashahillfilm.com": "INACTIVE",
-            "satujiwa.net": "INACTIVE",
-            "www.nontondramas.net": "INACTIVE"
-        },
         "1576358624": {
             "116poker.": "INVALID",
             "11juni.": "INVALID",
@@ -141,12 +111,7 @@
             "1xbet.": "INVALID",
             "1xbet250.": "INVALID",
             "1xbetnew.": "INVALID",
-            "1xliga.": "INVALID",
-            "46.166.167.16": "INACTIVE",
-            "forums.mangafox.me": "INACTIVE",
-            "lk-21.me": "INACTIVE",
-            "www.nontondramas.com": "INACTIVE",
-            "www1.lk-21.me": "INACTIVE"
+            "1xliga.": "INVALID"
         },
         "1576358625": {
             "228poker.": "INVALID",
@@ -2010,6 +1975,42 @@
         "1576580159": {
             "filmbagus21.web.id": "INACTIVE",
             "layarkaca21.web.id": "INACTIVE"
+        },
+        "1576582643": {
+            "filmbioskop.my.id": "INACTIVE",
+            "sinema21.id": "INACTIVE"
+        },
+        "1576582645": {
+            "22cinema.download": "INACTIVE",
+            "clip.cewecewe.com": "INACTIVE",
+            "embed.dramanices.com": "INACTIVE",
+            "filmbaru.in": "INACTIVE",
+            "www.ganol.si": "INACTIVE"
+        },
+        "1576582646": {
+            "128.199.102.111": "INACTIVE",
+            "bioskop99.me": "INACTIVE",
+            "ganoollk21.info": "INACTIVE",
+            "indonesiamovies21.com": "INACTIVE",
+            "zonapanaz.net": "INACTIVE"
+        },
+        "1576582647": {
+            "128.199.232.232": "INACTIVE",
+            "nontondramaonline.net": "INACTIVE",
+            "www.ibugil.net": "INACTIVE",
+            "www.nontondramas.net": "INACTIVE"
+        },
+        "1576582648": {
+            "46.166.167.16": "INACTIVE",
+            "filmterbaru.id": "INACTIVE",
+            "lk-21.me": "INACTIVE",
+            "sashahillfilm.com": "INACTIVE",
+            "satujiwa.net": "INACTIVE",
+            "www.nontondramas.com": "INACTIVE"
+        },
+        "1576582649": {
+            "forums.mangafox.me": "INACTIVE",
+            "www1.lk-21.me": "INACTIVE"
         }
     }
 }
