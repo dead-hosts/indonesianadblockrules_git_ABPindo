@@ -65,9 +65,9 @@
         "state": "future"
     },
     "22cinema.com": {
-        "epoch": 1576800000.0,
-        "expiration_date": "20-dec-2019",
-        "state": "past"
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
+        "state": "future"
     },
     "24hpoker.com": {
         "epoch": 1577404800.0,
@@ -4012,6 +4012,11 @@
     "olmsoneenh.info": {
         "epoch": 1602460800.0,
         "expiration_date": "12-oct-2020",
+        "state": "future"
+    },
+    "omberbagi.com": {
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
         "state": "future"
     },
     "onclkds.com": {
