@@ -804,6 +804,11 @@
         "expiration_date": "23-aug-2020",
         "state": "future"
     },
+    "bioskop168.online": {
+        "epoch": 1595721600.0,
+        "expiration_date": "26-jul-2020",
+        "state": "future"
+    },
     "bioskop168.pro": {
         "epoch": 1588032000.0,
         "expiration_date": "28-apr-2020",
@@ -1267,6 +1272,11 @@
     "cpmstar.com": {
         "epoch": 1629590400.0,
         "expiration_date": "22-aug-2021",
+        "state": "future"
+    },
+    "craydark.pw": {
+        "epoch": 1580774400.0,
+        "expiration_date": "04-feb-2020",
         "state": "future"
     },
     "cryaptall.club": {
@@ -2657,7 +2667,7 @@
     "javapic.com": {
         "epoch": 1576972800.0,
         "expiration_date": "22-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "jayapoker.com": {
         "epoch": 1632009600.0,
@@ -3780,8 +3790,8 @@
         "state": "future"
     },
     "nontonbp.com": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
         "state": "future"
     },
     "nontoncinema.org": {
@@ -5310,8 +5320,8 @@
         "state": "future"
     },
     "tinggalklik.com": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "tinyurl.com": {
