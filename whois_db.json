@@ -3289,6 +3289,11 @@
         "expiration_date": "17-sep-2020",
         "state": "future"
     },
+    "lpkiukiu.pw": {
+        "epoch": 1604448000.0,
+        "expiration_date": "04-nov-2020",
+        "state": "future"
+    },
     "luckyacepoker.com": {
         "epoch": 1700956800.0,
         "expiration_date": "26-nov-2023",
