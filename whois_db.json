@@ -72,7 +72,7 @@
     "24hpoker.com": {
         "epoch": 1577404800.0,
         "expiration_date": "27-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "2girls1cup-free.com": {
         "epoch": 1583712000.0,
@@ -3394,6 +3394,11 @@
         "expiration_date": "11-may-2021",
         "state": "future"
     },
+    "manganime.in": {
+        "epoch": 1604966400.0,
+        "expiration_date": "10-nov-2020",
+        "state": "future"
+    },
     "mangapark.net": {
         "epoch": 1606348800.0,
         "expiration_date": "26-nov-2020",
@@ -3815,8 +3820,8 @@
         "state": "future"
     },
     "nontoncinema.org": {
-        "epoch": 1577145600.0,
-        "expiration_date": "24-dec-2019",
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
         "state": "future"
     },
     "nontondrama.me": {
@@ -3827,7 +3832,7 @@
     "nontondramaonline.co": {
         "epoch": 1577404800.0,
         "expiration_date": "27-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "nontondramaseri.com": {
         "epoch": 1588291200.0,
