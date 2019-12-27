@@ -164,6 +164,11 @@
         "expiration_date": "09-oct-2019",
         "state": "past"
     },
+    "9eb10b7a3d04a.com": {
+        "epoch": 1589241600.0,
+        "expiration_date": "12-may-2020",
+        "state": "future"
+    },
     "a63t9o1azf.com": {
         "epoch": 1591574400.0,
         "expiration_date": "08-jun-2020",
@@ -552,6 +557,11 @@
     "anoboy.org": {
         "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
+        "state": "future"
+    },
+    "anoboy.us": {
+        "epoch": 1606003200.0,
+        "expiration_date": "22-nov-2020",
         "state": "future"
     },
     "aopxnvrugx.com": {
@@ -1145,8 +1155,8 @@
         "state": "future"
     },
     "chidsimp.com": {
-        "epoch": 1577145600.0,
-        "expiration_date": "24-dec-2019",
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
         "state": "future"
     },
     "chilipoker.com": {
@@ -2595,8 +2605,8 @@
         "state": "future"
     },
     "istanaimpian2.com": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
         "state": "future"
     },
     "istanaimpian3.com": {
@@ -2665,9 +2675,9 @@
         "state": "future"
     },
     "javapic.com": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
-        "state": "past"
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
+        "state": "future"
     },
     "jayapoker.com": {
         "epoch": 1632009600.0,
@@ -3659,6 +3669,11 @@
         "expiration_date": "07-mar-2020",
         "state": "future"
     },
+    "negumo.com": {
+        "epoch": 1595894400.0,
+        "expiration_date": "28-jul-2020",
+        "state": "future"
+    },
     "nekopoi.care": {
         "epoch": 1588982400.0,
         "expiration_date": "09-may-2020",
@@ -3760,8 +3775,8 @@
         "state": "future"
     },
     "nonton33.com": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
         "state": "future"
     },
     "nonton33.net": {
