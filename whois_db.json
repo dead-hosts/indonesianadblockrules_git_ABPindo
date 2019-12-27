@@ -4905,8 +4905,8 @@
         "state": "future"
     },
     "sgptogel.com": {
-        "epoch": 1577145600.0,
-        "expiration_date": "24-dec-2019",
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
         "state": "future"
     },
     "sgptoto.com": {
@@ -5397,6 +5397,11 @@
     "togel99.com": {
         "epoch": 1601164800.0,
         "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
+    "togelanak.com": {
+        "epoch": 1605312000.0,
+        "expiration_date": "14-nov-2020",
         "state": "future"
     },
     "togelangka.com": {
