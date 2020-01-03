@@ -304,6 +304,16 @@
         "expiration_date": "14-feb-2027",
         "state": "future"
     },
+    "adscpm.site": {
+        "epoch": 1599868800.0,
+        "expiration_date": "12-sep-2020",
+        "state": "future"
+    },
+    "adshost.site": {
+        "epoch": 1599868800.0,
+        "expiration_date": "12-sep-2020",
+        "state": "future"
+    },
     "adskom.com": {
         "epoch": 1675209600.0,
         "expiration_date": "01-feb-2023",
@@ -332,6 +342,11 @@
     "adtival.network": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
+        "state": "future"
+    },
+    "aenan.pw": {
+        "epoch": 1580774400.0,
+        "expiration_date": "04-feb-2020",
         "state": "future"
     },
     "afapoker.com": {
@@ -554,6 +569,11 @@
         "expiration_date": "23-jul-2020",
         "state": "future"
     },
+    "animexin.xyz": {
+        "epoch": 1588550400.0,
+        "expiration_date": "04-may-2020",
+        "state": "future"
+    },
     "anitoki.com": {
         "epoch": 1593907200.0,
         "expiration_date": "05-jul-2020",
@@ -622,6 +642,11 @@
     "ashaidbit.club": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
+        "state": "future"
+    },
+    "ashamparm.site": {
+        "epoch": 1601769600.0,
+        "expiration_date": "04-oct-2020",
         "state": "future"
     },
     "asiaforbet8.com": {
@@ -1349,6 +1374,11 @@
         "expiration_date": "04-may-2020",
         "state": "future"
     },
+    "daero.pw": {
+        "epoch": 1580774400.0,
+        "expiration_date": "04-feb-2020",
+        "state": "future"
+    },
     "dafa.io": {
         "epoch": 1616803200.0,
         "expiration_date": "27-mar-2021",
@@ -1577,6 +1607,11 @@
     "dramaqu.net": {
         "epoch": 1588982400.0,
         "expiration_date": "09-may-2020",
+        "state": "future"
+    },
+    "dramaserial.xyz": {
+        "epoch": 1595289600.0,
+        "expiration_date": "21-jul-2020",
         "state": "future"
     },
     "dream.co.id": {
@@ -2194,6 +2229,11 @@
         "expiration_date": "21-feb-2020",
         "state": "future"
     },
+    "hesftig.site": {
+        "epoch": 1586044800.0,
+        "expiration_date": "05-apr-2020",
+        "state": "future"
+    },
     "hexafile.net": {
         "epoch": 1596931200.0,
         "expiration_date": "09-aug-2020",
@@ -2435,8 +2475,8 @@
         "state": "future"
     },
     "iklaninter.net": {
-        "epoch": 1577923200.0,
-        "expiration_date": "02-jan-2020",
+        "epoch": 1609545600.0,
+        "expiration_date": "02-jan-2021",
         "state": "future"
     },
     "iklanoke.com": {
@@ -2537,6 +2577,11 @@
     "indosiar.com": {
         "epoch": 1727222400.0,
         "expiration_date": "25-sep-2024",
+        "state": "future"
+    },
+    "indostreamings.xyz": {
+        "epoch": 1586390400.0,
+        "expiration_date": "09-apr-2020",
         "state": "future"
     },
     "indotelko.com": {
@@ -2772,6 +2817,11 @@
     "jiztini.com": {
         "epoch": 1605398400.0,
         "expiration_date": "15-nov-2020",
+        "state": "future"
+    },
+    "jomys.xyz": {
+        "epoch": 1581120000.0,
+        "expiration_date": "08-feb-2020",
         "state": "future"
     },
     "josbet.bid": {
@@ -3020,8 +3070,8 @@
         "state": "future"
     },
     "klikajadeh.com": {
-        "epoch": 1578009600.0,
-        "expiration_date": "03-jan-2020",
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
         "state": "future"
     },
     "klikseru.com": {
@@ -3249,6 +3299,11 @@
         "expiration_date": "29-jan-2020",
         "state": "future"
     },
+    "linkgenerator.xyz": {
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
+        "state": "future"
+    },
     "lintastogel.com": {
         "epoch": 1584662400.0,
         "expiration_date": "20-mar-2020",
@@ -3285,6 +3340,11 @@
         "state": "future"
     },
     "lk21.org": {
+        "epoch": 1602028800.0,
+        "expiration_date": "07-oct-2020",
+        "state": "future"
+    },
+    "lk21.pw": {
         "epoch": 1602028800.0,
         "expiration_date": "07-oct-2020",
         "state": "future"
@@ -3584,6 +3644,11 @@
         "expiration_date": "22-mar-2020",
         "state": "future"
     },
+    "merdekaid.online": {
+        "epoch": 1584489600.0,
+        "expiration_date": "18-mar-2020",
+        "state": "future"
+    },
     "merryholidays.org": {
         "epoch": 1607040000.0,
         "expiration_date": "04-dec-2020",
@@ -3727,6 +3792,11 @@
     "mypayingads.com": {
         "epoch": 1738886400.0,
         "expiration_date": "07-feb-2025",
+        "state": "future"
+    },
+    "naetoris.pw": {
+        "epoch": 1580774400.0,
+        "expiration_date": "04-feb-2020",
         "state": "future"
     },
     "naga-poker.com": {
@@ -4229,6 +4299,11 @@
         "expiration_date": "01-nov-2020",
         "state": "future"
     },
+    "oxload.icu": {
+        "epoch": 1606176000.0,
+        "expiration_date": "24-nov-2020",
+        "state": "future"
+    },
     "pacificpoker.com": {
         "epoch": 1721174400.0,
         "expiration_date": "17-jul-2024",
@@ -4322,7 +4397,7 @@
     "phastoag.com": {
         "epoch": 1578009600.0,
         "expiration_date": "03-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "pheersie.com": {
         "epoch": 1593820800.0,
@@ -4629,6 +4704,11 @@
         "expiration_date": "05-feb-2020",
         "state": "future"
     },
+    "presbanise.pw": {
+        "epoch": 1580774400.0,
+        "expiration_date": "04-feb-2020",
+        "state": "future"
+    },
     "pressurespot.com": {
         "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
@@ -4639,6 +4719,11 @@
         "expiration_date": "15-jul-2020",
         "state": "future"
     },
+    "proglack.site": {
+        "epoch": 1586044800.0,
+        "expiration_date": "05-apr-2020",
+        "state": "future"
+    },
     "prolapseman.com": {
         "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
@@ -4647,7 +4732,7 @@
     "promobagus.com": {
         "epoch": 1578009600.0,
         "expiration_date": "03-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "promotioncamp.com": {
         "epoch": 1627948800.0,
