@@ -664,6 +664,11 @@
         "expiration_date": "07-sep-2020",
         "state": "future"
     },
+    "auredzeon.com": {
+        "epoch": 1588118400.0,
+        "expiration_date": "29-apr-2020",
+        "state": "future"
+    },
     "autonetmagz.com": {
         "epoch": 1644019200.0,
         "expiration_date": "05-feb-2022",
@@ -4395,9 +4400,9 @@
         "state": "future"
     },
     "phastoag.com": {
-        "epoch": 1578009600.0,
-        "expiration_date": "03-jan-2020",
-        "state": "past"
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
+        "state": "future"
     },
     "pheersie.com": {
         "epoch": 1593820800.0,
@@ -4735,9 +4740,9 @@
         "state": "future"
     },
     "promobagus.com": {
-        "epoch": 1578009600.0,
-        "expiration_date": "03-jan-2020",
-        "state": "past"
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
+        "state": "future"
     },
     "promotioncamp.com": {
         "epoch": 1627948800.0,
@@ -5915,8 +5920,8 @@
         "state": "future"
     },
     "videocrot.org": {
-        "epoch": 1578096000.0,
-        "expiration_date": "04-jan-2020",
+        "epoch": 1609718400.0,
+        "expiration_date": "04-jan-2021",
         "state": "future"
     },
     "videopoker.com": {

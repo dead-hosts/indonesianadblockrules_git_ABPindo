@@ -347,9 +347,6 @@
         "1578047281": {
             "173.199.167.192": "INACTIVE"
         },
-        "1578047282": {
-            "bioskopmovie.tv": "INACTIVE"
-        },
         "1578047283": {
             "173.199.189.86": "INACTIVE",
             "filmbagus21.web.id": "INACTIVE",
@@ -358,13 +355,7 @@
         },
         "1578047284": {
             "bioskop99.me": "INACTIVE",
-            "movie76.net": "INACTIVE",
-            "www.filmdewasa.me": "INACTIVE",
-            "www.ibugil.net": "INACTIVE"
-        },
-        "1578047285": {
-            "46.166.167.16": "INACTIVE",
-            "layarkaca21.web.id": "INACTIVE"
+            "www.filmdewasa.me": "INACTIVE"
         },
         "1578048417": {
             "22cinema.download": "INACTIVE",
@@ -2085,6 +2076,15 @@
         "1578049259": {
             "oralse.ca": "INACTIVE",
             "tubgirl.org": "INACTIVE"
+        },
+        "1578133900": {
+            "layarkaca21.web.id": "INACTIVE",
+            "www.ibugil.net": "INACTIVE"
+        },
+        "1578133901": {
+            "46.166.167.16": "INACTIVE",
+            "bioskopmovie.tv": "INACTIVE",
+            "movie76.net": "INACTIVE"
         }
     }
 }
