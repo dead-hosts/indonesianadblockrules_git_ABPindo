@@ -297,56 +297,6 @@
         "1577877827": {
             "texaspokercc.": "INVALID"
         },
-        "1578133900": {
-            "layarkaca21.web.id": "INACTIVE",
-            "www.ibugil.net": "INACTIVE"
-        },
-        "1578133901": {
-            "46.166.167.16": "INACTIVE",
-            "bioskopmovie.tv": "INACTIVE",
-            "movie76.net": "INACTIVE"
-        },
-        "1578135262": {
-            "9icmzvn6.website": "INACTIVE",
-            "bellaads.com": "INACTIVE",
-            "fnkyyrgraizy.com": "INACTIVE",
-            "iklantop.net": "INACTIVE",
-            "juruiklan.com": "INACTIVE"
-        },
-        "1578135263": {
-            ".wp.com": "INVALID",
-            "173.199.167.192": "INACTIVE",
-            "173.199.189.86": "INACTIVE",
-            "bioskop99.me": "INACTIVE",
-            "bp.blogspot.com": "INACTIVE",
-            "c-stat.eu": "INACTIVE",
-            "cfs1.uzone.id": "INACTIVE",
-            "coblos.net": "INACTIVE",
-            "filmbagus21.web.id": "INACTIVE",
-            "filmbioskop.my.id": "INACTIVE",
-            "gerwen.info": "INACTIVE",
-            "get.web.id": "INACTIVE",
-            "idfl.*": "INVALID",
-            "images.gameweb.co.id": "INACTIVE",
-            "img.sukipli.com": "INACTIVE",
-            "keripikcadas.com": "INACTIVE",
-            "l9tdhe6.com": "INACTIVE",
-            "link.ganool.co.in": "INACTIVE",
-            "nontonbox.tv": "INACTIVE",
-            "ns21.*": "INVALID",
-            "popunderjs.club": "INACTIVE",
-            "q1xyxm89.com": "INACTIVE",
-            "replase.gq": "INACTIVE",
-            "s2pops.club": "INACTIVE",
-            "scriptall.ml": "INACTIVE",
-            "sebar.idblognetwork.com": "INACTIVE",
-            "sinema21.id": "INACTIVE",
-            "tracker.lazada.co.id": "INACTIVE",
-            "weblogiklan.com": "INACTIVE",
-            "window-close.cf": "INACTIVE",
-            "window-close.ga": "INACTIVE",
-            "www.filmdewasa.me": "INACTIVE"
-        },
         "1578135265": {
             "forums.mangafox.me": "INACTIVE"
         },
@@ -773,7 +723,6 @@
         "1578136269": {
             "128.199.102.111": "INACTIVE",
             "128.199.232.232": "INACTIVE",
-            "22cinema.download": "INACTIVE",
             "bioskopxxi.net": "INACTIVE",
             "bola24.": "INVALID",
             "bola777.": "INVALID",
@@ -822,7 +771,6 @@
             "cahayaqq.": "INVALID",
             "clip.cewecewe.com": "INACTIVE",
             "embed.dramanices.com": "INACTIVE",
-            "filmbaru.in": "INACTIVE",
             "filmterbaru.id": "INACTIVE",
             "ganoollk21.info": "INACTIVE",
             "indonesiamovies21.com": "INACTIVE",
@@ -2150,6 +2098,70 @@
             "killerijo.net": "INACTIVE",
             "oralse.ca": "INACTIVE",
             "tubgirl.org": "INACTIVE"
+        },
+        "1578518458": {
+            "9icmzvn6.website": "INACTIVE"
+        },
+        "1578518459": {
+            "bellaads.com": "INACTIVE",
+            "fnkyyrgraizy.com": "INACTIVE",
+            "iklantop.net": "INACTIVE",
+            "juruiklan.com": "INACTIVE",
+            "l9tdhe6.com": "INACTIVE"
+        },
+        "1578518460": {
+            ".wp.com": "INVALID",
+            "c-stat.eu": "INACTIVE",
+            "cfs1.uzone.id": "INACTIVE",
+            "popunderjs.club": "INACTIVE",
+            "q1xyxm89.com": "INACTIVE",
+            "replase.gq": "INACTIVE",
+            "s2pops.club": "INACTIVE",
+            "scriptall.ml": "INACTIVE",
+            "sebar.idblognetwork.com": "INACTIVE",
+            "tracker.lazada.co.id": "INACTIVE",
+            "weblogiklan.com": "INACTIVE",
+            "window-close.cf": "INACTIVE",
+            "window-close.ga": "INACTIVE"
+        },
+        "1578518461": {
+            "bp.blogspot.com": "INACTIVE",
+            "coblos.net": "INACTIVE",
+            "gerwen.info": "INACTIVE",
+            "idfl.*": "INVALID",
+            "images.gameweb.co.id": "INACTIVE",
+            "img.sukipli.com": "INACTIVE",
+            "keripikcadas.com": "INACTIVE",
+            "link.ganool.co.in": "INACTIVE"
+        },
+        "1578518462": {
+            "get.web.id": "INACTIVE",
+            "nontonbox.tv": "INACTIVE",
+            "ns21.*": "INVALID"
+        },
+        "1578518463": {
+            "173.199.167.192": "INACTIVE"
+        },
+        "1578518465": {
+            "173.199.189.86": "INACTIVE",
+            "filmbagus21.web.id": "INACTIVE",
+            "filmbioskop.my.id": "INACTIVE",
+            "sinema21.id": "INACTIVE"
+        },
+        "1578518466": {
+            "bioskop99.me": "INACTIVE",
+            "www.filmdewasa.me": "INACTIVE",
+            "www.ibugil.net": "INACTIVE"
+        },
+        "1578518467": {
+            "46.166.167.16": "INACTIVE",
+            "layarkaca21.web.id": "INACTIVE"
+        },
+        "1578518468": {
+            "22cinema.download": "INACTIVE",
+            "bioskopmovie.tv": "INACTIVE",
+            "filmbaru.in": "INACTIVE",
+            "movie76.net": "INACTIVE"
         }
     }
 }
