@@ -1799,6 +1799,11 @@
         "expiration_date": "16-apr-2020",
         "state": "future"
     },
+    "eze99.me": {
+        "epoch": 1584057600.0,
+        "expiration_date": "13-mar-2020",
+        "state": "future"
+    },
     "faktabali.com": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
