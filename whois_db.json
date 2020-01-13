@@ -204,6 +204,11 @@
         "expiration_date": "01-jul-2020",
         "state": "future"
     },
+    "ad4msan.com": {
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
+        "state": "future"
+    },
     "adaranth.com": {
         "epoch": 1583366400.0,
         "expiration_date": "05-mar-2020",
@@ -490,8 +495,8 @@
         "state": "future"
     },
     "anibatch.me": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "animanganews.com": {
@@ -527,6 +532,11 @@
     "animeindo.id": {
         "epoch": 1583712000.0,
         "expiration_date": "09-mar-2020",
+        "state": "future"
+    },
+    "animeindo.io": {
+        "epoch": 1585180800.0,
+        "expiration_date": "26-mar-2020",
         "state": "future"
     },
     "animeindo.moe": {
@@ -680,8 +690,8 @@
         "state": "future"
     },
     "awsubs.co": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
         "state": "future"
     },
     "awsubs.id": {
@@ -1847,7 +1857,7 @@
     "film-ganool.co": {
         "epoch": 1578787200.0,
         "expiration_date": "12-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "film-ganool.com": {
         "epoch": 1593648000.0,
@@ -1895,8 +1905,8 @@
         "state": "future"
     },
     "filmku.net": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
         "state": "future"
     },
     "filmroster.online": {
@@ -2370,8 +2380,8 @@
         "state": "future"
     },
     "idbioskop.com": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "idblognetwork.com": {
@@ -2425,8 +2435,8 @@
         "state": "future"
     },
     "iklan-laris.com": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "iklan-sukses.com": {
@@ -3065,8 +3075,8 @@
         "state": "future"
     },
     "kikil.net": {
-        "epoch": 1578700800.0,
-        "expiration_date": "11-jan-2020",
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
         "state": "future"
     },
     "kingtogel.com": {
@@ -3340,8 +3350,8 @@
         "state": "future"
     },
     "lk21.io": {
-        "epoch": 1578700800.0,
-        "expiration_date": "11-jan-2020",
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
         "state": "future"
     },
     "lk21.me": {
@@ -4275,8 +4285,8 @@
         "state": "future"
     },
     "oploverz.in": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "oralse.cx": {
@@ -5005,8 +5015,8 @@
         "state": "future"
     },
     "samehadaku.tv": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "samkokpoker.com": {
@@ -5840,8 +5850,8 @@
         "state": "future"
     },
     "tribunnews.com": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1673568000.0,
+        "expiration_date": "13-jan-2023",
         "state": "future"
     },
     "trndoffers.com": {
