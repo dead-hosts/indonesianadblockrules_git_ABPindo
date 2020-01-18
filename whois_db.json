@@ -1434,6 +1434,11 @@
         "expiration_date": "14-nov-2020",
         "state": "future"
     },
+    "daftarvip.xyz": {
+        "epoch": 1601337600.0,
+        "expiration_date": "29-sep-2020",
+        "state": "future"
+    },
     "dairouzy.net": {
         "epoch": 1589500800.0,
         "expiration_date": "15-may-2020",
@@ -4838,6 +4843,11 @@
         "epoch": 1570665600.0,
         "expiration_date": "10-oct-2019",
         "state": "past"
+    },
+    "qq8778.online": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
+        "state": "future"
     },
     "qqcinema21.com": {
         "epoch": 1643241600.0,
