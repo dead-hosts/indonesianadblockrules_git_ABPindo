@@ -1287,7 +1287,7 @@
     "cinemaindo.stream": {
         "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "cinemaindo.tv": {
         "epoch": 1609977600.0,
@@ -3840,8 +3840,8 @@
         "state": "future"
     },
     "nagapoker.biz": {
-        "epoch": 1579305600.0,
-        "expiration_date": "18-jan-2020",
+        "epoch": 1610928000.0,
+        "expiration_date": "18-jan-2021",
         "state": "future"
     },
     "nagapoker.com": {
@@ -3867,7 +3867,7 @@
     "nama.web.id": {
         "epoch": 1579305600.0,
         "expiration_date": "18-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "nanime.in": {
         "epoch": 1583539200.0,
@@ -4625,8 +4625,8 @@
         "state": "future"
     },
     "pokernetonline.com": {
-        "epoch": 1579132800.0,
-        "expiration_date": "16-jan-2020",
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
         "state": "future"
     },
     "pokerplayerus.com": {

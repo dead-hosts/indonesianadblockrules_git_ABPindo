@@ -303,53 +303,7 @@
         "1578519810": {
             "eze99.": "INVALID"
         },
-        "1579043836": {
-            "22cinema.download": "INACTIVE",
-            "filmbaru.in": "INACTIVE"
-        },
-        "1579047624": {
-            "clip.cewecewe.com": "INACTIVE",
-            "embed.dramanices.com": "INACTIVE"
-        },
-        "1579047625": {
-            "128.199.102.111": "INACTIVE",
-            "128.199.232.232": "INACTIVE",
-            "ganoollk21.info": "INACTIVE",
-            "indonesiamovies21.com": "INACTIVE",
-            "nontondramaonline.net": "INACTIVE",
-            "zonapanaz.net": "INACTIVE"
-        },
-        "1579047626": {
-            "filmterbaru.id": "INACTIVE",
-            "lk-21.me": "INACTIVE",
-            "sashahillfilm.com": "INACTIVE",
-            "satujiwa.net": "INACTIVE",
-            "www.nontondramas.net": "INACTIVE",
-            "zonabola.id": "INACTIVE"
-        },
-        "1579047627": {
-            "forums.mangafox.me": "INACTIVE",
-            "www1.lk-21.me": "INACTIVE"
-        },
-        "1579047629": {
-            "playpokeronline.": "INVALID",
-            "pokercc2.com": "INACTIVE"
-        },
         "1579047630": {
-            "116poker.": "INVALID",
-            "11juni.": "INVALID",
-            "123samsung.": "INVALID",
-            "128cash.": "INVALID",
-            "168liga.": "INVALID",
-            "168wbtoto.": "INVALID",
-            "188bet.": "INVALID",
-            "1sakong.": "INVALID",
-            "1spoker.": "INVALID",
-            "1xbet.": "INVALID",
-            "1xbet250.": "INVALID",
-            "1xbetnew.": "INVALID",
-            "1xliga.": "INVALID",
-            "228poker.": "INVALID",
             "22hok.": "INVALID",
             "233bet.": "INVALID",
             "234bet.": "INVALID",
@@ -358,8 +312,7 @@
             "365hoki.": "INVALID",
             "365kiu.": "INVALID",
             "365qiuqiu.": "INVALID",
-            "388poker.": "INVALID",
-            "texaspokercc1.com": "INACTIVE"
+            "388poker.": "INVALID"
         },
         "1579047631": {
             "396club.": "INVALID",
@@ -2175,6 +2128,57 @@
         },
         "1579302506": {
             "46.166.167.16": "INACTIVE"
+        },
+        "1579306066": {
+            "22cinema.download": "INACTIVE",
+            "clip.cewecewe.com": "INACTIVE",
+            "embed.dramanices.com": "INACTIVE",
+            "filmbaru.in": "INACTIVE"
+        },
+        "1579306067": {
+            "128.199.102.111": "INACTIVE",
+            "zonapanaz.net": "INACTIVE"
+        },
+        "1579306068": {
+            "128.199.232.232": "INACTIVE",
+            "ganoollk21.info": "INACTIVE",
+            "indonesiamovies21.com": "INACTIVE",
+            "nontondramaonline.net": "INACTIVE"
+        },
+        "1579306069": {
+            "filmterbaru.id": "INACTIVE",
+            "sashahillfilm.com": "INACTIVE",
+            "satujiwa.net": "INACTIVE",
+            "www.nontondramas.net": "INACTIVE",
+            "zonabola.id": "INACTIVE"
+        },
+        "1579306070": {
+            "forums.mangafox.me": "INACTIVE",
+            "lk-21.me": "INACTIVE",
+            "www1.lk-21.me": "INACTIVE"
+        },
+        "1579306072": {
+            "playpokeronline.": "INVALID",
+            "pokercc2.com": "INACTIVE"
+        },
+        "1579306073": {
+            "116poker.": "INVALID",
+            "texaspokercc1.com": "INACTIVE"
+        },
+        "1579306074": {
+            "11juni.": "INVALID",
+            "123samsung.": "INVALID",
+            "128cash.": "INVALID",
+            "168liga.": "INVALID",
+            "168wbtoto.": "INVALID",
+            "188bet.": "INVALID",
+            "1sakong.": "INVALID",
+            "1spoker.": "INVALID",
+            "1xbet.": "INVALID",
+            "1xbet250.": "INVALID",
+            "1xbetnew.": "INVALID",
+            "1xliga.": "INVALID",
+            "228poker.": "INVALID"
         }
     }
 }
