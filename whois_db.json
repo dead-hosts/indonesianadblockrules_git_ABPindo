@@ -2700,8 +2700,8 @@
         "state": "future"
     },
     "inipoker.com": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
         "state": "future"
     },
     "initogel.net": {
@@ -3870,9 +3870,9 @@
         "state": "future"
     },
     "nama.web.id": {
-        "epoch": 1579305600.0,
-        "expiration_date": "18-jan-2020",
-        "state": "past"
+        "epoch": 1610928000.0,
+        "expiration_date": "18-jan-2021",
+        "state": "future"
     },
     "nanime.in": {
         "epoch": 1583539200.0,
@@ -6190,9 +6190,9 @@
         "state": "future"
     },
     "zonabola.id": {
-        "epoch": 1571961600.0,
-        "expiration_date": "25-oct-2019",
-        "state": "past"
+        "epoch": 1610928000.0,
+        "expiration_date": "18-jan-2021",
+        "state": "future"
     },
     "zonawibu.me": {
         "epoch": 1591142400.0,
