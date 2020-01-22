@@ -306,15 +306,9 @@
         "1579309566": {
             "parisqq.": "INVALID"
         },
-        "1579519784": {
-            "embed.dramanices.com": "INACTIVE"
-        },
         "1579519785": {
-            "128.199.102.111": "INACTIVE",
-            "ganoollk21.info": "INACTIVE",
             "indonesiamovies21.com": "INACTIVE",
-            "nontondramaonline.net": "INACTIVE",
-            "zonapanaz.net": "INACTIVE"
+            "nontondramaonline.net": "INACTIVE"
         },
         "1579519786": {
             "128.199.232.232": "INACTIVE",
@@ -2178,6 +2172,14 @@
             "46.166.167.16": "INACTIVE",
             "clip.cewecewe.com": "INACTIVE",
             "movie76.net": "INACTIVE"
+        },
+        "1579695078": {
+            "embed.dramanices.com": "INACTIVE"
+        },
+        "1579695080": {
+            "128.199.102.111": "INACTIVE",
+            "ganoollk21.info": "INACTIVE",
+            "zonapanaz.net": "INACTIVE"
         }
     }
 }
