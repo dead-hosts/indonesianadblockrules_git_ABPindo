@@ -306,11 +306,7 @@
         "1579309566": {
             "parisqq.": "INVALID"
         },
-        "1579519785": {
-            "nontondramaonline.net": "INACTIVE"
-        },
         "1579519786": {
-            "128.199.232.232": "INACTIVE",
             "filmterbaru.id": "INACTIVE",
             "sashahillfilm.com": "INACTIVE",
             "satujiwa.net": "INACTIVE",
@@ -2176,6 +2172,10 @@
             "ganoollk21.info": "INACTIVE",
             "indonesiamovies21.com": "INACTIVE",
             "zonapanaz.net": "INACTIVE"
+        },
+        "1579904660": {
+            "128.199.232.232": "INACTIVE",
+            "nontondramaonline.net": "INACTIVE"
         }
     }
 }
