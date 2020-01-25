@@ -3007,7 +3007,7 @@
     "kabarviral.blog": {
         "epoch": 1579910400.0,
         "expiration_date": "25-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "kampus.us": {
         "epoch": 1589760000.0,
@@ -3657,7 +3657,7 @@
     "mediakita.blog": {
         "epoch": 1579910400.0,
         "expiration_date": "25-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "mediapermata.com.bn": {
         "epoch": 1598400000.0,
