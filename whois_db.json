@@ -1452,7 +1452,7 @@
     "dapurpacu.com": {
         "epoch": 1579910400.0,
         "expiration_date": "25-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "daspoker.com": {
         "epoch": 1639267200.0,
@@ -4817,7 +4817,7 @@
     "pusatiklan.com": {
         "epoch": 1579910400.0,
         "expiration_date": "25-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "pusatjudibola.com": {
         "epoch": 1604448000.0,
