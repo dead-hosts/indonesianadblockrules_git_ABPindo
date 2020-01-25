@@ -1450,9 +1450,9 @@
         "state": "future"
     },
     "dapurpacu.com": {
-        "epoch": 1579910400.0,
-        "expiration_date": "25-jan-2020",
-        "state": "past"
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
+        "state": "future"
     },
     "daspoker.com": {
         "epoch": 1639267200.0,
@@ -4820,9 +4820,9 @@
         "state": "future"
     },
     "pusatiklan.com": {
-        "epoch": 1579910400.0,
-        "expiration_date": "25-jan-2020",
-        "state": "past"
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
+        "state": "future"
     },
     "pusatjudibola.com": {
         "epoch": 1604448000.0,
