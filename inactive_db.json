@@ -2104,12 +2104,7 @@
             "128.199.232.232": "INACTIVE",
             "nontondramaonline.net": "INACTIVE"
         },
-        "1579982432": {
-            "128.199.102.111": "INACTIVE",
-            "zonapanaz.net": "INACTIVE"
-        },
         "1579982433": {
-            "ganoollk21.info": "INACTIVE",
             "indonesiamovies21.com": "INACTIVE"
         },
         "1580064838": {
@@ -2180,6 +2175,11 @@
             "clip.cewecewe.com": "INACTIVE",
             "embed.dramanices.com": "INACTIVE",
             "movie76.net": "INACTIVE"
+        },
+        "1580077252": {
+            "128.199.102.111": "INACTIVE",
+            "ganoollk21.info": "INACTIVE",
+            "zonapanaz.net": "INACTIVE"
         }
     }
 }
