@@ -3010,9 +3010,9 @@
         "state": "future"
     },
     "kabarviral.blog": {
-        "epoch": 1579910400.0,
-        "expiration_date": "25-jan-2020",
-        "state": "past"
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
+        "state": "future"
     },
     "kampus.us": {
         "epoch": 1589760000.0,
@@ -3660,9 +3660,9 @@
         "state": "future"
     },
     "mediakita.blog": {
-        "epoch": 1579910400.0,
-        "expiration_date": "25-jan-2020",
-        "state": "past"
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
+        "state": "future"
     },
     "mediapermata.com.bn": {
         "epoch": 1598400000.0,
