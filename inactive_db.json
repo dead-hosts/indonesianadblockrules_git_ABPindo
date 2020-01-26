@@ -2143,16 +2143,12 @@
         "1579978334": {
             "get.web.id": "INACTIVE"
         },
-        "1579978335": {
-            "173.199.167.192": "INACTIVE"
-        },
         "1579978336": {
             "filmbagus21.web.id": "INACTIVE",
             "sinema21.id": "INACTIVE"
         },
         "1579978337": {
             "173.199.189.86": "INACTIVE",
-            "bioskop99.me": "INACTIVE",
             "filmbioskop.my.id": "INACTIVE",
             "www.filmdewasa.me": "INACTIVE"
         },
@@ -2162,11 +2158,9 @@
         "1579978339": {
             "22cinema.download": "INACTIVE",
             "bioskopmovie.tv": "INACTIVE",
-            "filmbaru.in": "INACTIVE",
-            "layarkaca21.web.id": "INACTIVE"
+            "filmbaru.in": "INACTIVE"
         },
         "1579978340": {
-            "46.166.167.16": "INACTIVE",
             "clip.cewecewe.com": "INACTIVE",
             "embed.dramanices.com": "INACTIVE",
             "movie76.net": "INACTIVE"
@@ -2178,6 +2172,14 @@
         "1579982433": {
             "ganoollk21.info": "INACTIVE",
             "indonesiamovies21.com": "INACTIVE"
+        },
+        "1580064838": {
+            "46.166.167.16": "INACTIVE",
+            "bioskop99.me": "INACTIVE"
+        },
+        "1580064839": {
+            "173.199.167.192": "INACTIVE",
+            "layarkaca21.web.id": "INACTIVE"
         }
     }
 }
