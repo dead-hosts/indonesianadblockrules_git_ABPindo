@@ -550,9 +550,9 @@
         "state": "future"
     },
     "animeindo.video": {
-        "epoch": 1580083200.0,
-        "expiration_date": "27-jan-2020",
-        "state": "past"
+        "epoch": 1611705600.0,
+        "expiration_date": "27-jan-2021",
+        "state": "future"
     },
     "animeindo.web.id": {
         "epoch": 1598486400.0,
