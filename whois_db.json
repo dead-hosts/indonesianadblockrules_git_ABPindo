@@ -2535,9 +2535,9 @@
         "state": "future"
     },
     "iklantext.com": {
-        "epoch": 1579996800.0,
-        "expiration_date": "26-jan-2020",
-        "state": "past"
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
+        "state": "future"
     },
     "iklanumum.com": {
         "epoch": 1592524800.0,
@@ -3125,9 +3125,9 @@
         "state": "future"
     },
     "komikbaru.com": {
-        "epoch": 1579996800.0,
-        "expiration_date": "26-jan-2020",
-        "state": "past"
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
+        "state": "future"
     },
     "komikcast.com": {
         "epoch": 1591574400.0,
@@ -3990,9 +3990,9 @@
         "state": "future"
     },
     "nonton21.tv": {
-        "epoch": 1579996800.0,
-        "expiration_date": "26-jan-2020",
-        "state": "past"
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
+        "state": "future"
     },
     "nonton33.com": {
         "epoch": 1608681600.0,
