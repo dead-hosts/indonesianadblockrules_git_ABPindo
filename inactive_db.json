@@ -2103,14 +2103,6 @@
         "1579904660": {
             "128.199.232.232": "INACTIVE"
         },
-        "1580064838": {
-            "46.166.167.16": "INACTIVE",
-            "bioskop99.me": "INACTIVE"
-        },
-        "1580064839": {
-            "173.199.167.192": "INACTIVE",
-            "layarkaca21.web.id": "INACTIVE"
-        },
         "1580068757": {
             "9icmzvn6.website": "INACTIVE",
             "bellaads.com": "INACTIVE"
@@ -2182,6 +2174,18 @@
         },
         "1580081506": {
             "nontondramaonline.net": "INACTIVE"
+        },
+        "1580154136": {
+            "173.199.167.192": "INACTIVE"
+        },
+        "1580154138": {
+            "bioskop99.me": "INACTIVE"
+        },
+        "1580154140": {
+            "layarkaca21.web.id": "INACTIVE"
+        },
+        "1580154141": {
+            "46.166.167.16": "INACTIVE"
         }
     }
 }
