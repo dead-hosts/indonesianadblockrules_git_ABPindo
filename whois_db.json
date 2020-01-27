@@ -552,7 +552,7 @@
     "animeindo.video": {
         "epoch": 1580083200.0,
         "expiration_date": "27-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "animeindo.web.id": {
         "epoch": 1598486400.0,
@@ -5125,8 +5125,8 @@
         "state": "future"
     },
     "semprotku.com": {
-        "epoch": 1580083200.0,
-        "expiration_date": "27-jan-2020",
+        "epoch": 1611705600.0,
+        "expiration_date": "27-jan-2021",
         "state": "future"
     },
     "semuaberita.com": {
