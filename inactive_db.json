@@ -306,17 +306,6 @@
         "1579309566": {
             "parisqq.": "INVALID"
         },
-        "1579519786": {
-            "filmterbaru.id": "INACTIVE",
-            "sashahillfilm.com": "INACTIVE",
-            "satujiwa.net": "INACTIVE",
-            "www.nontondramas.net": "INACTIVE"
-        },
-        "1579519787": {
-            "forums.mangafox.me": "INACTIVE",
-            "lk-21.me": "INACTIVE",
-            "www1.lk-21.me": "INACTIVE"
-        },
         "1579519789": {
             "playpokeronline.": "INVALID",
             "pokercc2.com": "INACTIVE"
@@ -2100,20 +2089,6 @@
             "oralse.ca": "INACTIVE",
             "tubgirl.org": "INACTIVE"
         },
-        "1579904660": {
-            "128.199.232.232": "INACTIVE"
-        },
-        "1580077252": {
-            "128.199.102.111": "INACTIVE",
-            "ganoollk21.info": "INACTIVE",
-            "zonapanaz.net": "INACTIVE"
-        },
-        "1580081505": {
-            "indonesiamovies21.com": "INACTIVE"
-        },
-        "1580081506": {
-            "nontondramaonline.net": "INACTIVE"
-        },
         "1580154136": {
             "173.199.167.192": "INACTIVE"
         },
@@ -2188,6 +2163,29 @@
         },
         "1580162407": {
             "embed.dramanices.com": "INACTIVE"
+        },
+        "1580209729": {
+            "128.199.102.111": "INACTIVE",
+            "ganoollk21.info": "INACTIVE",
+            "zonapanaz.net": "INACTIVE"
+        },
+        "1580209730": {
+            "indonesiamovies21.com": "INACTIVE",
+            "nontondramaonline.net": "INACTIVE"
+        },
+        "1580209731": {
+            "128.199.232.232": "INACTIVE",
+            "www.nontondramas.net": "INACTIVE"
+        },
+        "1580209732": {
+            "filmterbaru.id": "INACTIVE",
+            "lk-21.me": "INACTIVE",
+            "sashahillfilm.com": "INACTIVE",
+            "satujiwa.net": "INACTIVE"
+        },
+        "1580209733": {
+            "forums.mangafox.me": "INACTIVE",
+            "www1.lk-21.me": "INACTIVE"
         }
     }
 }
