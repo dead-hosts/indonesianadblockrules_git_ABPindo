@@ -2089,18 +2089,6 @@
             "oralse.ca": "INACTIVE",
             "tubgirl.org": "INACTIVE"
         },
-        "1580154136": {
-            "173.199.167.192": "INACTIVE"
-        },
-        "1580154138": {
-            "bioskop99.me": "INACTIVE"
-        },
-        "1580154140": {
-            "layarkaca21.web.id": "INACTIVE"
-        },
-        "1580154141": {
-            "46.166.167.16": "INACTIVE"
-        },
         "1580158290": {
             "9icmzvn6.website": "INACTIVE",
             "bellaads.com": "INACTIVE"
@@ -2186,6 +2174,16 @@
         "1580209733": {
             "forums.mangafox.me": "INACTIVE",
             "www1.lk-21.me": "INACTIVE"
+        },
+        "1580240732": {
+            "bioskop99.me": "INACTIVE"
+        },
+        "1580240733": {
+            "173.199.167.192": "INACTIVE",
+            "layarkaca21.web.id": "INACTIVE"
+        },
+        "1580240736": {
+            "46.166.167.16": "INACTIVE"
         }
     }
 }
