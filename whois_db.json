@@ -3335,9 +3335,9 @@
         "state": "future"
     },
     "linkduit.net": {
-        "epoch": 1580256000.0,
-        "expiration_date": "29-jan-2020",
-        "state": "past"
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
+        "state": "future"
     },
     "linkgenerator.xyz": {
         "epoch": 1607558400.0,
