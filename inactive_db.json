@@ -2109,16 +2109,6 @@
         "1580326899": {
             "indonesiamovies21.com": "INACTIVE"
         },
-        "1580330551": {
-            "173.199.167.192": "INACTIVE"
-        },
-        "1580330557": {
-            "46.166.167.16": "INACTIVE",
-            "bioskop99.me": "INACTIVE"
-        },
-        "1580330558": {
-            "layarkaca21.web.id": "INACTIVE"
-        },
         "1580336842": {
             "9icmzvn6.website": "INACTIVE",
             "bellaads.com": "INACTIVE",
@@ -2187,6 +2177,18 @@
             "128.199.102.111": "INACTIVE",
             "ganoollk21.info": "INACTIVE",
             "zonapanaz.net": "INACTIVE"
+        },
+        "1580417828": {
+            "173.199.167.192": "INACTIVE"
+        },
+        "1580417832": {
+            "layarkaca21.web.id": "INACTIVE"
+        },
+        "1580417834": {
+            "bioskop99.me": "INACTIVE"
+        },
+        "1580417835": {
+            "46.166.167.16": "INACTIVE"
         }
     }
 }
