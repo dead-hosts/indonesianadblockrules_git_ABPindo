@@ -40,8 +40,8 @@
         "state": "future"
     },
     "1idsly.com": {
-        "epoch": 1580428800.0,
-        "expiration_date": "31-jan-2020",
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
         "state": "future"
     },
     "1man1jar.org": {
@@ -3037,7 +3037,7 @@
     "katurars.com": {
         "epoch": 1580428800.0,
         "expiration_date": "31-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "kawanfilm21.online": {
         "epoch": 1602028800.0,
@@ -4237,7 +4237,7 @@
     "ojeergoy.com": {
         "epoch": 1580428800.0,
         "expiration_date": "31-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "okezone.com": {
         "epoch": 1668470400.0,
@@ -4912,7 +4912,7 @@
     "razorlink.us": {
         "epoch": 1580428800.0,
         "expiration_date": "31-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "realizerecess.com": {
         "epoch": 1602115200.0,
