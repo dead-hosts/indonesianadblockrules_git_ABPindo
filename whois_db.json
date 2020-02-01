@@ -3050,9 +3050,9 @@
         "state": "future"
     },
     "katurars.com": {
-        "epoch": 1580428800.0,
-        "expiration_date": "31-jan-2020",
-        "state": "past"
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
+        "state": "future"
     },
     "kawanfilm21.online": {
         "epoch": 1602028800.0,
@@ -4295,9 +4295,9 @@
         "state": "future"
     },
     "ojeergoy.com": {
-        "epoch": 1580428800.0,
-        "expiration_date": "31-jan-2020",
-        "state": "past"
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
+        "state": "future"
     },
     "okezone.com": {
         "epoch": 1668470400.0,
