@@ -792,7 +792,7 @@
     "belajarbro.id": {
         "epoch": 1580688000.0,
         "expiration_date": "03-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "belapendidikan.com": {
         "epoch": 1592179200.0,
@@ -4170,9 +4170,9 @@
         "state": "future"
     },
     "nontonmovie.web.id": {
-        "epoch": 1580601600.0,
-        "expiration_date": "02-feb-2020",
-        "state": "past"
+        "epoch": 1612224000.0,
+        "expiration_date": "02-feb-2021",
+        "state": "future"
     },
     "nontonmovie81.com": {
         "epoch": 1593043200.0,
