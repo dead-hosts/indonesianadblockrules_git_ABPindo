@@ -2116,16 +2116,6 @@
             "128.199.102.111": "INACTIVE",
             "zonapanaz.net": "INACTIVE"
         },
-        "1580681701": {
-            "173.199.167.192": "INACTIVE"
-        },
-        "1580681705": {
-            "layarkaca21.web.id": "INACTIVE"
-        },
-        "1580681708": {
-            "46.166.167.16": "INACTIVE",
-            "bioskop99.me": "INACTIVE"
-        },
         "1580690418": {
             "9icmzvn6.website": "INACTIVE",
             "bellaads.com": "INACTIVE"
@@ -2189,6 +2179,18 @@
         },
         "1580748644": {
             "pergi.klik-link.us": "INACTIVE"
+        },
+        "1580768423": {
+            "173.199.167.192": "INACTIVE"
+        },
+        "1580768426": {
+            "bioskop99.me": "INACTIVE"
+        },
+        "1580768427": {
+            "layarkaca21.web.id": "INACTIVE"
+        },
+        "1580768428": {
+            "46.166.167.16": "INACTIVE"
         }
     }
 }
