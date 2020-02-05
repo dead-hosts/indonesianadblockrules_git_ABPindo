@@ -2116,18 +2116,6 @@
         "1580769130": {
             "ganoollk21.info": "INACTIVE"
         },
-        "1580856354": {
-            "173.199.167.192": "INACTIVE"
-        },
-        "1580856356": {
-            "bioskop99.me": "INACTIVE"
-        },
-        "1580856358": {
-            "layarkaca21.web.id": "INACTIVE"
-        },
-        "1580856359": {
-            "46.166.167.16": "INACTIVE"
-        },
         "1580864585": {
             "filmbagus21.web.id": "INACTIVE",
             "sinema21.id": "INACTIVE"
@@ -2191,6 +2179,16 @@
         },
         "1580927870": {
             "pergi.klik-link.us": "INACTIVE"
+        },
+        "1580946225": {
+            "173.199.167.192": "INACTIVE"
+        },
+        "1580946229": {
+            "layarkaca21.web.id": "INACTIVE"
+        },
+        "1580946232": {
+            "46.166.167.16": "INACTIVE",
+            "bioskop99.me": "INACTIVE"
         }
     }
 }
