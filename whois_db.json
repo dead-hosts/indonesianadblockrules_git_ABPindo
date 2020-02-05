@@ -1114,6 +1114,11 @@
         "expiration_date": "19-mar-2020",
         "state": "future"
     },
+    "bolasport.com": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
+        "state": "future"
+    },
     "bolatks.club": {
         "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
@@ -3297,6 +3302,11 @@
     "layarlebar21.org": {
         "epoch": 1600300800.0,
         "expiration_date": "17-sep-2020",
+        "state": "future"
+    },
+    "layarlebarxxi.com": {
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
         "state": "future"
     },
     "layarmovie21.co": {
