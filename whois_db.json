@@ -540,8 +540,8 @@
         "state": "future"
     },
     "animeindo.moe": {
-        "epoch": 1581120000.0,
-        "expiration_date": "08-feb-2020",
+        "epoch": 1612742400.0,
+        "expiration_date": "08-feb-2021",
         "state": "future"
     },
     "animeindo.net": {
@@ -5407,6 +5407,11 @@
     "sourmath.com": {
         "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
+        "state": "future"
+    },
+    "sporcle.com": {
+        "epoch": 1611964800.0,
+        "expiration_date": "30-jan-2021",
         "state": "future"
     },
     "strawpoii.me": {
