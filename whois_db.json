@@ -2882,7 +2882,7 @@
     "jomys.xyz": {
         "epoch": 1581120000.0,
         "expiration_date": "08-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "josbet.bid": {
         "epoch": 1609545600.0,
@@ -3547,7 +3547,7 @@
     "luven.xyz": {
         "epoch": 1581120000.0,
         "expiration_date": "08-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "lytogame.com": {
         "epoch": 1765756800.0,
