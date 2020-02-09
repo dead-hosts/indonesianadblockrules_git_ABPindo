@@ -807,7 +807,7 @@
     "benfile.com": {
         "epoch": 1581206400.0,
         "expiration_date": "09-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "beritaagenjudi.com": {
         "epoch": 1630540800.0,
@@ -2432,7 +2432,7 @@
     "idfl.biz": {
         "epoch": 1581206400.0,
         "expiration_date": "09-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "idfl.info": {
         "epoch": 1581292800.0,
@@ -2810,8 +2810,8 @@
         "state": "future"
     },
     "jakbos.com": {
-        "epoch": 1581206400.0,
-        "expiration_date": "09-feb-2020",
+        "epoch": 1612828800.0,
+        "expiration_date": "09-feb-2021",
         "state": "future"
     },
     "jalantikus.com": {
@@ -4277,7 +4277,7 @@
     "nusareborn.in": {
         "epoch": 1581206400.0,
         "expiration_date": "09-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "nutabuse.com": {
         "epoch": 1589587200.0,
