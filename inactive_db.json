@@ -2106,16 +2106,6 @@
         "1581372819": {
             "nontondramaonline.net": "INACTIVE"
         },
-        "1581479746": {
-            "173.199.167.192": "INACTIVE"
-        },
-        "1581479749": {
-            "layarkaca21.web.id": "INACTIVE"
-        },
-        "1581479752": {
-            "46.166.167.16": "INACTIVE",
-            "bioskop99.me": "INACTIVE"
-        },
         "1581483653": {
             "173.199.189.86": "INACTIVE",
             "filmbioskop.my.id": "INACTIVE",
@@ -2190,6 +2180,16 @@
         },
         "1581550516": {
             "pergi.klik-link.us": "INACTIVE"
+        },
+        "1581569539": {
+            "layarkaca21.web.id": "INACTIVE"
+        },
+        "1581569541": {
+            "46.166.167.16": "INACTIVE",
+            "bioskop99.me": "INACTIVE"
+        },
+        "1581569542": {
+            "173.199.167.192": "INACTIVE"
         }
     }
 }
