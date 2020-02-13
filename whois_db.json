@@ -3077,7 +3077,7 @@
     "kazemanga.xyz": {
         "epoch": 1581552000.0,
         "expiration_date": "13-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "kebagi.com": {
         "epoch": 1600992000.0,
