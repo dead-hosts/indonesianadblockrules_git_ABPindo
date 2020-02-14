@@ -2102,16 +2102,6 @@
             "forums.mangafox.me": "INACTIVE",
             "www1.lk-21.me": "INACTIVE"
         },
-        "1581569539": {
-            "layarkaca21.web.id": "INACTIVE"
-        },
-        "1581569541": {
-            "46.166.167.16": "INACTIVE",
-            "bioskop99.me": "INACTIVE"
-        },
-        "1581569542": {
-            "173.199.167.192": "INACTIVE"
-        },
         "1581573250": {
             "173.199.189.86": "INACTIVE",
             "filmbioskop.my.id": "INACTIVE",
@@ -2199,6 +2189,16 @@
         },
         "1581648952": {
             "www.pontianakpost.co.id": "INACTIVE"
+        },
+        "1581656647": {
+            "layarkaca21.web.id": "INACTIVE"
+        },
+        "1581656650": {
+            "46.166.167.16": "INACTIVE",
+            "bioskop99.me": "INACTIVE"
+        },
+        "1581656651": {
+            "173.199.167.192": "INACTIVE"
         }
     }
 }
