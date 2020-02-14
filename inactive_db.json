@@ -2102,24 +2102,6 @@
             "forums.mangafox.me": "INACTIVE",
             "www1.lk-21.me": "INACTIVE"
         },
-        "1581573250": {
-            "173.199.189.86": "INACTIVE",
-            "filmbioskop.my.id": "INACTIVE",
-            "www.filmdewasa.me": "INACTIVE"
-        },
-        "1581573251": {
-            "www.ibugil.net": "INACTIVE"
-        },
-        "1581573252": {
-            "22cinema.download": "INACTIVE",
-            "bioskopmovie.tv": "INACTIVE",
-            "filmbaru.in": "INACTIVE"
-        },
-        "1581573253": {
-            "clip.cewecewe.com": "INACTIVE",
-            "embed.dramanices.com": "INACTIVE",
-            "movie76.net": "INACTIVE"
-        },
         "1581576761": {
             "9icmzvn6.website": "INACTIVE"
         },
@@ -2199,6 +2181,23 @@
         },
         "1581656651": {
             "173.199.167.192": "INACTIVE"
+        },
+        "1581660510": {
+            "173.199.189.86": "INACTIVE",
+            "www.filmdewasa.me": "INACTIVE"
+        },
+        "1581660511": {
+            "www.ibugil.net": "INACTIVE"
+        },
+        "1581660512": {
+            "bioskopmovie.tv": "INACTIVE"
+        },
+        "1581660513": {
+            "22cinema.download": "INACTIVE",
+            "clip.cewecewe.com": "INACTIVE",
+            "embed.dramanices.com": "INACTIVE",
+            "filmbaru.in": "INACTIVE",
+            "movie76.net": "INACTIVE"
         }
     }
 }

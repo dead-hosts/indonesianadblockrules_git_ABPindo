@@ -1914,6 +1914,11 @@
         "expiration_date": "23-aug-2020",
         "state": "future"
     },
+    "filmbioskop.my.id": {
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
+        "state": "future"
+    },
     "filmbioskop21.cc": {
         "epoch": 1585267200.0,
         "expiration_date": "27-mar-2020",
