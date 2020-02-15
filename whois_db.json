@@ -5487,7 +5487,7 @@
     "sundul.com": {
         "epoch": 1581724800.0,
         "expiration_date": "15-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "sunpoker.com": {
         "epoch": 1622592000.0,
