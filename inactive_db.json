@@ -2105,16 +2105,6 @@
         "1581633412": {
             "128.199.232.232": "INACTIVE"
         },
-        "1581656647": {
-            "layarkaca21.web.id": "INACTIVE"
-        },
-        "1581656650": {
-            "46.166.167.16": "INACTIVE",
-            "bioskop99.me": "INACTIVE"
-        },
-        "1581656651": {
-            "173.199.167.192": "INACTIVE"
-        },
         "1581660510": {
             "173.199.189.86": "INACTIVE",
             "www.filmdewasa.me": "INACTIVE"
@@ -2192,6 +2182,16 @@
         },
         "1581738987": {
             "kazemanga.xyz": "INACTIVE"
+        },
+        "1581746663": {
+            "layarkaca21.web.id": "INACTIVE"
+        },
+        "1581746665": {
+            "46.166.167.16": "INACTIVE",
+            "bioskop99.me": "INACTIVE"
+        },
+        "1581746666": {
+            "173.199.167.192": "INACTIVE"
         }
     }
 }
