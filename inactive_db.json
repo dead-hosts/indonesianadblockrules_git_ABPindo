@@ -2102,12 +2102,6 @@
             "forums.mangafox.me": "INACTIVE",
             "www1.lk-21.me": "INACTIVE"
         },
-        "1581789051": {
-            "ganoollk21.info": "INACTIVE"
-        },
-        "1581789052": {
-            "indonesiamovies21.com": "INACTIVE"
-        },
         "1581804664": {
             "128.199.102.111": "INACTIVE",
             "zonapanaz.net": "INACTIVE"
@@ -2190,6 +2184,10 @@
         "1581844411": {
             "filmbagus21.web.id": "INACTIVE",
             "sinema21.id": "INACTIVE"
+        },
+        "1581882127": {
+            "ganoollk21.info": "INACTIVE",
+            "indonesiamovies21.com": "INACTIVE"
         }
     }
 }
