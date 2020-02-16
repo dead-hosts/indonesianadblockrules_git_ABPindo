@@ -2102,10 +2102,6 @@
             "forums.mangafox.me": "INACTIVE",
             "www1.lk-21.me": "INACTIVE"
         },
-        "1581804664": {
-            "128.199.102.111": "INACTIVE",
-            "zonapanaz.net": "INACTIVE"
-        },
         "1581806049": {
             "128.199.232.232": "INACTIVE",
             "nontondramaonline.net": "INACTIVE"
@@ -2188,6 +2184,10 @@
         "1581882127": {
             "ganoollk21.info": "INACTIVE",
             "indonesiamovies21.com": "INACTIVE"
+        },
+        "1581892733": {
+            "128.199.102.111": "INACTIVE",
+            "zonapanaz.net": "INACTIVE"
         }
     }
 }
