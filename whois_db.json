@@ -2034,6 +2034,11 @@
         "expiration_date": "26-nov-2020",
         "state": "future"
     },
+    "fuyuap.xyz": {
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
+        "state": "future"
+    },
     "gadgetren.com": {
         "epoch": 1602547200.0,
         "expiration_date": "13-oct-2020",
@@ -2482,6 +2487,11 @@
     "idxxx1.com": {
         "epoch": 1601683200.0,
         "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
+    "iidfyyelvijfk.com": {
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
         "state": "future"
     },
     "iklan-laris.com": {
