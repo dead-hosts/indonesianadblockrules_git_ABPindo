@@ -4244,6 +4244,11 @@
         "expiration_date": "09-sep-2020",
         "state": "future"
     },
+    "nontonsub.top": {
+        "epoch": 1611360000.0,
+        "expiration_date": "23-jan-2021",
+        "state": "future"
+    },
     "noobscript.com": {
         "epoch": 1601164800.0,
         "expiration_date": "27-sep-2020",
@@ -5412,6 +5417,11 @@
     "smallencode.com": {
         "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
+        "state": "future"
+    },
+    "sobatkeren.net": {
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
         "state": "future"
     },
     "sodasusu.com": {
