@@ -2106,30 +2106,6 @@
             "128.199.232.232": "INACTIVE",
             "nontondramaonline.net": "INACTIVE"
         },
-        "1581837106": {
-            "173.199.167.192": "INACTIVE"
-        },
-        "1581837108": {
-            "173.199.189.86": "INACTIVE"
-        },
-        "1581837109": {
-            "bioskop99.me": "INACTIVE",
-            "www.filmdewasa.me": "INACTIVE"
-        },
-        "1581837110": {
-            "layarkaca21.web.id": "INACTIVE",
-            "www.ibugil.net": "INACTIVE"
-        },
-        "1581837111": {
-            "22cinema.download": "INACTIVE",
-            "bioskopmovie.tv": "INACTIVE",
-            "filmbaru.in": "INACTIVE"
-        },
-        "1581837112": {
-            "46.166.167.16": "INACTIVE",
-            "clip.cewecewe.com": "INACTIVE",
-            "movie76.net": "INACTIVE"
-        },
         "1581844404": {
             "9icmzvn6.website": "INACTIVE",
             "bellaads.com": "INACTIVE"
@@ -2185,6 +2161,32 @@
         },
         "1581915726": {
             "kazemanga.xyz": "INACTIVE"
+        },
+        "1581923971": {
+            "173.199.167.192": "INACTIVE"
+        },
+        "1581923973": {
+            "173.199.189.86": "INACTIVE"
+        },
+        "1581923974": {
+            "www.filmdewasa.me": "INACTIVE"
+        },
+        "1581923975": {
+            "layarkaca21.web.id": "INACTIVE",
+            "www.ibugil.net": "INACTIVE"
+        },
+        "1581923976": {
+            "22cinema.download": "INACTIVE",
+            "bioskopmovie.tv": "INACTIVE",
+            "filmbaru.in": "INACTIVE"
+        },
+        "1581923977": {
+            "clip.cewecewe.com": "INACTIVE",
+            "movie76.net": "INACTIVE"
+        },
+        "1581923978": {
+            "46.166.167.16": "INACTIVE",
+            "bioskop99.me": "INACTIVE"
         }
     }
 }
