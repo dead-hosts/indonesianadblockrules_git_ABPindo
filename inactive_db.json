@@ -2106,10 +2106,6 @@
             "128.199.232.232": "INACTIVE",
             "nontondramaonline.net": "INACTIVE"
         },
-        "1581882127": {
-            "ganoollk21.info": "INACTIVE",
-            "indonesiamovies21.com": "INACTIVE"
-        },
         "1581892733": {
             "128.199.102.111": "INACTIVE",
             "zonapanaz.net": "INACTIVE"
@@ -2191,6 +2187,10 @@
         },
         "1581931743": {
             "sinema21.id": "INACTIVE"
+        },
+        "1581970785": {
+            "ganoollk21.info": "INACTIVE",
+            "indonesiamovies21.com": "INACTIVE"
         }
     }
 }
