@@ -2105,12 +2105,6 @@
         "1581806049": {
             "128.199.232.232": "INACTIVE"
         },
-        "1581998845": {
-            "pergi.klik-link.us": "INACTIVE"
-        },
-        "1581998852": {
-            "www.kompas.tv": "INACTIVE"
-        },
         "1582002489": {
             "kazemanga.xyz": "INACTIVE"
         },
@@ -2194,6 +2188,9 @@
         "1582073486": {
             "128.199.102.111": "INACTIVE",
             "zonapanaz.net": "INACTIVE"
+        },
+        "1582088389": {
+            "pergi.klik-link.us": "INACTIVE"
         }
     }
 }
