@@ -2105,10 +2105,6 @@
         "1581806049": {
             "128.199.232.232": "INACTIVE"
         },
-        "1581983301": {
-            "128.199.102.111": "INACTIVE",
-            "zonapanaz.net": "INACTIVE"
-        },
         "1581994765": {
             "www.wartaekonomi.co.id": "INACTIVE"
         },
@@ -2197,6 +2193,10 @@
         },
         "1582065639": {
             "nontondramaonline.net": "INACTIVE"
+        },
+        "1582073486": {
+            "128.199.102.111": "INACTIVE",
+            "zonapanaz.net": "INACTIVE"
         }
     }
 }
