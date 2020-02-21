@@ -2140,10 +2140,6 @@
         "1582200208": {
             "get.web.id": "INACTIVE"
         },
-        "1582200211": {
-            "filmbagus21.web.id": "INACTIVE",
-            "sinema21.id": "INACTIVE"
-        },
         "1582237744": {
             "ganoollk21.info": "INACTIVE",
             "indonesiamovies21.com": "INACTIVE"
@@ -2185,6 +2181,10 @@
         "1582280131": {
             "46.166.167.16": "INACTIVE",
             "bioskop99.me": "INACTIVE"
+        },
+        "1582286891": {
+            "filmbagus21.web.id": "INACTIVE",
+            "sinema21.id": "INACTIVE"
         }
     }
 }
