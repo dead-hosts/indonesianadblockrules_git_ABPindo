@@ -2102,10 +2102,6 @@
             "forums.mangafox.me": "INACTIVE",
             "www1.lk-21.me": "INACTIVE"
         },
-        "1582162032": {
-            "128.199.102.111": "INACTIVE",
-            "zonapanaz.net": "INACTIVE"
-        },
         "1582176155": {
             "pergi.klik-link.us": "INACTIVE"
         },
@@ -2185,6 +2181,10 @@
         "1582240679": {
             "128.199.232.232": "INACTIVE",
             "nontondramaonline.net": "INACTIVE"
+        },
+        "1582250643": {
+            "128.199.102.111": "INACTIVE",
+            "zonapanaz.net": "INACTIVE"
         }
     }
 }
