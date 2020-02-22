@@ -512,7 +512,7 @@
     "anime17.net": {
         "epoch": 1582329600.0,
         "expiration_date": "22-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "animebatch.web.id": {
         "epoch": 1608940800.0,
@@ -1685,18 +1685,18 @@
         "state": "future"
     },
     "dunia21.me": {
-        "epoch": 1582329600.0,
-        "expiration_date": "22-feb-2020",
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
         "state": "future"
     },
     "dunia21.net": {
-        "epoch": 1582329600.0,
-        "expiration_date": "22-feb-2020",
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
         "state": "future"
     },
     "dunia21.org": {
-        "epoch": 1582329600.0,
-        "expiration_date": "22-feb-2020",
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
         "state": "future"
     },
     "dunia21.top": {
@@ -4042,7 +4042,7 @@
     "nf21.club": {
         "epoch": 1582329600.0,
         "expiration_date": "22-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "nimp.org": {
         "epoch": 1585958400.0,
