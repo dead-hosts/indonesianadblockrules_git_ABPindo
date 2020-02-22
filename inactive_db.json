@@ -2105,10 +2105,6 @@
         "1582240679": {
             "128.199.232.232": "INACTIVE"
         },
-        "1582286891": {
-            "filmbagus21.web.id": "INACTIVE",
-            "sinema21.id": "INACTIVE"
-        },
         "1582290102": {
             "9icmzvn6.website": "INACTIVE",
             "bellaads.com": "INACTIVE"
@@ -2194,6 +2190,10 @@
         "1582367953": {
             "46.166.167.16": "INACTIVE",
             "bioskop99.me": "INACTIVE"
+        },
+        "1582376157": {
+            "filmbagus21.web.id": "INACTIVE",
+            "sinema21.id": "INACTIVE"
         }
     }
 }
