@@ -2105,9 +2105,6 @@
         "1582240679": {
             "128.199.232.232": "INACTIVE"
         },
-        "1582324457": {
-            "ganoollk21.info": "INACTIVE"
-        },
         "1582327696": {
             "indonesiamovies21.com": "INACTIVE"
         },
@@ -2191,6 +2188,9 @@
             "get.web.id": "INACTIVE",
             "nontonbox.tv": "INACTIVE",
             "ns21.*": "INVALID"
+        },
+        "1582423305": {
+            "ganoollk21.info": "INACTIVE"
         }
     }
 }
