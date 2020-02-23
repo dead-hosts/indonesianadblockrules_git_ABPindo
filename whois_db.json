@@ -510,9 +510,9 @@
         "state": "future"
     },
     "anime17.net": {
-        "epoch": 1582329600.0,
-        "expiration_date": "22-feb-2020",
-        "state": "past"
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
+        "state": "future"
     },
     "animebatch.web.id": {
         "epoch": 1608940800.0,
