@@ -2108,15 +2108,6 @@
         "1582331750": {
             "nontondramaonline.net": "INACTIVE"
         },
-        "1582463304": {
-            "filmbagus21.web.id": "INACTIVE"
-        },
-        "1582463305": {
-            "sinema21.id": "INACTIVE"
-        },
-        "1582463308": {
-            "www.kompas.tv": "INACTIVE"
-        },
         "1582467263": {
             "9icmzvn6.website": "INACTIVE"
         },
@@ -2195,6 +2186,10 @@
         "1582543401": {
             "46.166.167.16": "INACTIVE",
             "bioskop99.me": "INACTIVE"
+        },
+        "1582551610": {
+            "filmbagus21.web.id": "INACTIVE",
+            "sinema21.id": "INACTIVE"
         }
     }
 }
