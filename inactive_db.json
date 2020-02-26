@@ -2105,12 +2105,6 @@
         "1582240679": {
             "128.199.232.232": "INACTIVE"
         },
-        "1582612757": {
-            "128.199.102.111": "INACTIVE",
-            "ganoollk21.info": "INACTIVE",
-            "indonesiamovies21.com": "INACTIVE",
-            "zonapanaz.net": "INACTIVE"
-        },
         "1582620847": {
             "pergi.klik-link.us": "INACTIVE"
         },
@@ -2185,6 +2179,12 @@
         },
         "1582695167": {
             "nontondramaonline.net": "INACTIVE"
+        },
+        "1582700465": {
+            "128.199.102.111": "INACTIVE",
+            "ganoollk21.info": "INACTIVE",
+            "indonesiamovies21.com": "INACTIVE",
+            "zonapanaz.net": "INACTIVE"
         }
     }
 }
