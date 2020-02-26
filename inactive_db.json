@@ -2105,10 +2105,6 @@
         "1582240679": {
             "128.199.232.232": "INACTIVE"
         },
-        "1582640319": {
-            "filmbagus21.web.id": "INACTIVE",
-            "sinema21.id": "INACTIVE"
-        },
         "1582644058": {
             "9icmzvn6.website": "INACTIVE"
         },
@@ -2187,6 +2183,13 @@
         },
         "1582723558": {
             "indonesiasatu.kompas.com": "INACTIVE"
+        },
+        "1582728286": {
+            "filmbagus21.web.id": "INACTIVE",
+            "sinema21.id": "INACTIVE"
+        },
+        "1582728289": {
+            "kazemanga.xyz": "INACTIVE"
         }
     }
 }
