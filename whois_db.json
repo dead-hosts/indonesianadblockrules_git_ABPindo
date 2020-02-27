@@ -1300,9 +1300,9 @@
         "state": "future"
     },
     "cinemaindo.stream": {
-        "epoch": 1579219200.0,
-        "expiration_date": "17-jan-2020",
-        "state": "past"
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
+        "state": "future"
     },
     "cinemaindo.tv": {
         "epoch": 1609977600.0,
