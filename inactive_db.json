@@ -2108,13 +2108,6 @@
         "1582695167": {
             "nontondramaonline.net": "INACTIVE"
         },
-        "1582728286": {
-            "filmbagus21.web.id": "INACTIVE",
-            "sinema21.id": "INACTIVE"
-        },
-        "1582728289": {
-            "kazemanga.xyz": "INACTIVE"
-        },
         "1582731147": {
             "9icmzvn6.website": "INACTIVE",
             "bellaads.com": "INACTIVE"
@@ -2190,6 +2183,13 @@
             "46.166.167.16": "INACTIVE",
             "bioskop99.me": "INACTIVE",
             "indonesiasatu.kompas.com": "INACTIVE"
+        },
+        "1582817876": {
+            "filmbagus21.web.id": "INACTIVE",
+            "sinema21.id": "INACTIVE"
+        },
+        "1582817882": {
+            "kazemanga.xyz": "INACTIVE"
         }
     }
 }
