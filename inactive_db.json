@@ -2121,11 +2121,6 @@
             "clip.cewecewe.com": "INACTIVE",
             "movie76.net": "INACTIVE"
         },
-        "1582810874": {
-            "46.166.167.16": "INACTIVE",
-            "bioskop99.me": "INACTIVE",
-            "indonesiasatu.kompas.com": "INACTIVE"
-        },
         "1582817876": {
             "filmbagus21.web.id": "INACTIVE",
             "sinema21.id": "INACTIVE"
@@ -2195,6 +2190,11 @@
         },
         "1582894582": {
             "173.199.167.192": "INACTIVE"
+        },
+        "1582897408": {
+            "46.166.167.16": "INACTIVE",
+            "bioskop99.me": "INACTIVE",
+            "indonesiasatu.kompas.com": "INACTIVE"
         }
     }
 }
