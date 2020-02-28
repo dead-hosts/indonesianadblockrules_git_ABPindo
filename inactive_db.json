@@ -2105,22 +2105,6 @@
         "1582240679": {
             "128.199.232.232": "INACTIVE"
         },
-        "1582810870": {
-            "173.199.189.86": "INACTIVE",
-            "www.filmdewasa.me": "INACTIVE"
-        },
-        "1582810871": {
-            "www.ibugil.net": "INACTIVE"
-        },
-        "1582810872": {
-            "22cinema.download": "INACTIVE",
-            "bioskopmovie.tv": "INACTIVE",
-            "filmbaru.in": "INACTIVE"
-        },
-        "1582810873": {
-            "clip.cewecewe.com": "INACTIVE",
-            "movie76.net": "INACTIVE"
-        },
         "1582817876": {
             "filmbagus21.web.id": "INACTIVE",
             "sinema21.id": "INACTIVE"
@@ -2195,6 +2179,22 @@
             "46.166.167.16": "INACTIVE",
             "bioskop99.me": "INACTIVE",
             "indonesiasatu.kompas.com": "INACTIVE"
+        },
+        "1582900368": {
+            "173.199.189.86": "INACTIVE",
+            "www.filmdewasa.me": "INACTIVE"
+        },
+        "1582900369": {
+            "www.ibugil.net": "INACTIVE"
+        },
+        "1582900370": {
+            "22cinema.download": "INACTIVE",
+            "bioskopmovie.tv": "INACTIVE",
+            "filmbaru.in": "INACTIVE"
+        },
+        "1582900371": {
+            "clip.cewecewe.com": "INACTIVE",
+            "movie76.net": "INACTIVE"
         }
     }
 }
