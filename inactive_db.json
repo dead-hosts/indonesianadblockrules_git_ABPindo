@@ -2105,13 +2105,6 @@
         "1582240679": {
             "128.199.232.232": "INACTIVE"
         },
-        "1582817876": {
-            "filmbagus21.web.id": "INACTIVE",
-            "sinema21.id": "INACTIVE"
-        },
-        "1582817882": {
-            "kazemanga.xyz": "INACTIVE"
-        },
         "1582820969": {
             "9icmzvn6.website": "INACTIVE",
             "bellaads.com": "INACTIVE"
@@ -2195,6 +2188,13 @@
         "1582900371": {
             "clip.cewecewe.com": "INACTIVE",
             "movie76.net": "INACTIVE"
+        },
+        "1582906046": {
+            "filmbagus21.web.id": "INACTIVE",
+            "sinema21.id": "INACTIVE"
+        },
+        "1582906048": {
+            "kazemanga.xyz": "INACTIVE"
         }
     }
 }
