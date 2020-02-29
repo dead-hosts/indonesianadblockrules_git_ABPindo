@@ -2102,14 +2102,6 @@
             "forums.mangafox.me": "INACTIVE",
             "www1.lk-21.me": "INACTIVE"
         },
-        "1582879790": {
-            "128.199.102.111": "INACTIVE",
-            "zonapanaz.net": "INACTIVE"
-        },
-        "1582879791": {
-            "ganoollk21.info": "INACTIVE",
-            "indonesiamovies21.com": "INACTIVE"
-        },
         "1582885979": {
             "pergi.klik-link.us": "INACTIVE"
         },
@@ -2196,6 +2188,12 @@
         },
         "1582962449": {
             "www.kompas.tv": "INACTIVE"
+        },
+        "1582966608": {
+            "128.199.102.111": "INACTIVE",
+            "ganoollk21.info": "INACTIVE",
+            "indonesiamovies21.com": "INACTIVE",
+            "zonapanaz.net": "INACTIVE"
         }
     }
 }
