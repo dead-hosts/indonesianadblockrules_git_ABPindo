@@ -2108,10 +2108,6 @@
         "1582940297": {
             "nontondramaonline.net": "INACTIVE"
         },
-        "1582993528": {
-            "filmbagus21.web.id": "INACTIVE",
-            "sinema21.id": "INACTIVE"
-        },
         "1582997659": {
             "9icmzvn6.website": "INACTIVE"
         },
@@ -2194,6 +2190,10 @@
             "clip.cewecewe.com": "INACTIVE",
             "filmbaru.in": "INACTIVE",
             "movie76.net": "INACTIVE"
+        },
+        "1583081480": {
+            "filmbagus21.web.id": "INACTIVE",
+            "sinema21.id": "INACTIVE"
         }
     }
 }
