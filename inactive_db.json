@@ -2109,10 +2109,8 @@
             "nontondramaonline.net": "INACTIVE"
         },
         "1582966608": {
-            "128.199.102.111": "INACTIVE",
             "ganoollk21.info": "INACTIVE",
-            "indonesiamovies21.com": "INACTIVE",
-            "zonapanaz.net": "INACTIVE"
+            "indonesiamovies21.com": "INACTIVE"
         },
         "1582974315": {
             "pergi.klik-link.us": "INACTIVE"
@@ -2192,6 +2190,10 @@
         },
         "1583005764": {
             "kazemanga.xyz": "INACTIVE"
+        },
+        "1583053400": {
+            "128.199.102.111": "INACTIVE",
+            "zonapanaz.net": "INACTIVE"
         }
     }
 }
