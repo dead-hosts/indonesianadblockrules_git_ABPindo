@@ -2108,13 +2108,6 @@
         "1582940297": {
             "nontondramaonline.net": "INACTIVE"
         },
-        "1582986062": {
-            "indonesiasatu.kompas.com": "INACTIVE"
-        },
-        "1582986063": {
-            "46.166.167.16": "INACTIVE",
-            "bioskop99.me": "INACTIVE"
-        },
         "1582989725": {
             "173.199.189.86": "INACTIVE",
             "www.filmdewasa.me": "INACTIVE"
@@ -2194,6 +2187,13 @@
         },
         "1583069358": {
             "173.199.167.192": "INACTIVE"
+        },
+        "1583073317": {
+            "indonesiasatu.kompas.com": "INACTIVE"
+        },
+        "1583073318": {
+            "46.166.167.16": "INACTIVE",
+            "bioskop99.me": "INACTIVE"
         }
     }
 }
