@@ -1505,8 +1505,8 @@
         "state": "future"
     },
     "dewa.tv": {
-        "epoch": 1583020800.0,
-        "expiration_date": "01-mar-2020",
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
         "state": "future"
     },
     "dewabioskop21.asia": {
@@ -2095,8 +2095,8 @@
         "state": "future"
     },
     "ganool.watch": {
-        "epoch": 1583020800.0,
-        "expiration_date": "01-mar-2020",
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
         "state": "future"
     },
     "ganool.web.id": {
@@ -5512,7 +5512,7 @@
     "suki48.web.id": {
         "epoch": 1583020800.0,
         "expiration_date": "01-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "sumberiklan.com": {
         "epoch": 1593475200.0,
