@@ -3102,7 +3102,7 @@
     "kazefuri.web.id": {
         "epoch": 1583107200.0,
         "expiration_date": "02-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "kazemanga.xyz": {
         "epoch": 1581552000.0,
