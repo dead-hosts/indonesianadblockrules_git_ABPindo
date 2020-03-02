@@ -1682,7 +1682,7 @@
     "dunia21.ltd": {
         "epoch": 1583107200.0,
         "expiration_date": "02-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "dunia21.me": {
         "epoch": 1613952000.0,
@@ -5510,9 +5510,9 @@
         "state": "future"
     },
     "suki48.web.id": {
-        "epoch": 1583020800.0,
-        "expiration_date": "01-mar-2020",
-        "state": "past"
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
+        "state": "future"
     },
     "sumberiklan.com": {
         "epoch": 1593475200.0,
