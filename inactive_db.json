@@ -2102,10 +2102,6 @@
             "forums.mangafox.me": "INACTIVE",
             "www1.lk-21.me": "INACTIVE"
         },
-        "1583170237": {
-            "filmbagus21.web.id": "INACTIVE",
-            "sinema21.id": "INACTIVE"
-        },
         "1583174483": {
             "9icmzvn6.website": "INACTIVE"
         },
@@ -2195,6 +2191,12 @@
         "1583254651": {
             "www.filmdewasa.me": "INACTIVE",
             "www.ibugil.net": "INACTIVE"
+        },
+        "1583258800": {
+            "filmbagus21.web.id": "INACTIVE"
+        },
+        "1583258801": {
+            "sinema21.id": "INACTIVE"
         }
     }
 }
