@@ -2106,10 +2106,6 @@
             "128.199.232.232": "INACTIVE",
             "nontondramaonline.net": "INACTIVE"
         },
-        "1583231050": {
-            "128.199.102.111": "INACTIVE",
-            "zonapanaz.net": "INACTIVE"
-        },
         "1583235719": {
             "pergi.klik-link.us": "INACTIVE"
         },
@@ -2195,6 +2191,10 @@
         },
         "1583284652": {
             "kazemanga.xyz": "INACTIVE"
+        },
+        "1583322248": {
+            "128.199.102.111": "INACTIVE",
+            "zonapanaz.net": "INACTIVE"
         }
     }
 }
