@@ -2106,9 +2106,6 @@
             "128.199.232.232": "INACTIVE",
             "nontondramaonline.net": "INACTIVE"
         },
-        "1583355247": {
-            "short.awsubs.co": "INACTIVE"
-        },
         "1583366784": {
             "track.zerofriend.com": "INACTIVE"
         },
@@ -2191,6 +2188,9 @@
             "get.web.id": "INACTIVE",
             "nontonbox.tv": "INACTIVE",
             "ns21.*": "INVALID"
+        },
+        "1583445937": {
+            "short.awsubs.co": "INACTIVE"
         }
     }
 }
