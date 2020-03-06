@@ -1287,7 +1287,7 @@
     "cinema007.com": {
         "epoch": 1583452800.0,
         "expiration_date": "06-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "cinemaindo.com": {
         "epoch": 1599782400.0,
@@ -1560,8 +1560,8 @@
         "state": "future"
     },
     "dicariguru.com": {
-        "epoch": 1583452800.0,
-        "expiration_date": "06-mar-2020",
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
         "state": "future"
     },
     "digiads.co.id": {
@@ -2892,7 +2892,7 @@
     "jillsclickcorner.com": {
         "epoch": 1583452800.0,
         "expiration_date": "06-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "jingkrak.com": {
         "epoch": 1599091200.0,
@@ -3612,7 +3612,7 @@
     "malesbanget.com": {
         "epoch": 1583452800.0,
         "expiration_date": "06-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "mangacanblog.com": {
         "epoch": 1592092800.0,
