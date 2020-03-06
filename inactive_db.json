@@ -2102,12 +2102,6 @@
             "forums.mangafox.me": "INACTIVE",
             "www1.lk-21.me": "INACTIVE"
         },
-        "1583189279": {
-            "128.199.232.232": "INACTIVE"
-        },
-        "1583445937": {
-            "short.awsubs.co": "INACTIVE"
-        },
         "1583456527": {
             "track.zerofriend.com": "INACTIVE"
         },
@@ -2200,6 +2194,12 @@
         },
         "1583530342": {
             "get.web.id": "INACTIVE"
+        },
+        "1583533894": {
+            "short.awsubs.co": "INACTIVE"
+        },
+        "1583533903": {
+            "128.199.232.232": "INACTIVE"
         }
     }
 }
