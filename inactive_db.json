@@ -2118,7 +2118,6 @@
         },
         "1583513497": {
             "46.166.167.16": "INACTIVE",
-            "bioskop99.me": "INACTIVE",
             "indonesiasatu.kompas.com": "INACTIVE"
         },
         "1583517699": {
@@ -2197,6 +2196,9 @@
         },
         "1583603319": {
             "173.199.167.192": "INACTIVE"
+        },
+        "1583607564": {
+            "bioskop99.me": "INACTIVE"
         }
     }
 }
