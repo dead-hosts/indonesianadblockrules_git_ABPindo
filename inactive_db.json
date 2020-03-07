@@ -2123,9 +2123,6 @@
         "1583517699": {
             "www.kompas.tv": "INACTIVE"
         },
-        "1583521925": {
-            "www.filmdewasa.me": "INACTIVE"
-        },
         "1583521926": {
             "www.ibugil.net": "INACTIVE"
         },
@@ -2135,9 +2132,6 @@
         },
         "1583521928": {
             "clip.cewecewe.com": "INACTIVE"
-        },
-        "1583533894": {
-            "short.awsubs.co": "INACTIVE"
         },
         "1583533903": {
             "128.199.232.232": "INACTIVE"
@@ -2199,6 +2193,12 @@
         },
         "1583619447": {
             "get.web.id": "INACTIVE"
+        },
+        "1583624448": {
+            "short.awsubs.co": "INACTIVE"
+        },
+        "1583624450": {
+            "www.filmdewasa.me": "INACTIVE"
         }
     }
 }
