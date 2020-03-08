@@ -2105,10 +2105,6 @@
         "1583533903": {
             "128.199.232.232": "INACTIVE"
         },
-        "1583616064": {
-            "filmbagus21.web.id": "INACTIVE",
-            "sinema21.id": "INACTIVE"
-        },
         "1583619443": {
             "9icmzvn6.website": "INACTIVE",
             "bellaads.com": "INACTIVE"
@@ -2201,6 +2197,10 @@
         },
         "1583701958": {
             "nontondramaonline.net": "INACTIVE"
+        },
+        "1583706009": {
+            "filmbagus21.web.id": "INACTIVE",
+            "sinema21.id": "INACTIVE"
         }
     }
 }
