@@ -2102,18 +2102,8 @@
             "forums.mangafox.me": "INACTIVE",
             "www1.lk-21.me": "INACTIVE"
         },
-        "1583468626": {
-            "nontondramaonline.net": "INACTIVE"
-        },
         "1583533903": {
             "128.199.232.232": "INACTIVE"
-        },
-        "1583611817": {
-            "bioskopmovie.tv": "INACTIVE"
-        },
-        "1583611818": {
-            "173.199.189.86": "INACTIVE",
-            "movie76.net": "INACTIVE"
         },
         "1583616064": {
             "filmbagus21.web.id": "INACTIVE",
@@ -2199,6 +2189,18 @@
         },
         "1583694115": {
             "bioskop99.me": "INACTIVE"
+        },
+        "1583701952": {
+            "173.199.189.86": "INACTIVE"
+        },
+        "1583701954": {
+            "bioskopmovie.tv": "INACTIVE"
+        },
+        "1583701955": {
+            "movie76.net": "INACTIVE"
+        },
+        "1583701958": {
+            "nontondramaonline.net": "INACTIVE"
         }
     }
 }
