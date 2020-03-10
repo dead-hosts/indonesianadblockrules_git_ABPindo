@@ -2102,12 +2102,6 @@
             "forums.mangafox.me": "INACTIVE",
             "www1.lk-21.me": "INACTIVE"
         },
-        "1583711438": {
-            "short.awsubs.co": "INACTIVE"
-        },
-        "1583711441": {
-            "www.filmdewasa.me": "INACTIVE"
-        },
         "1583726716": {
             "kazemanga.xyz": "INACTIVE"
         },
@@ -2198,6 +2192,12 @@
         },
         "1583794805": {
             "get.web.id": "INACTIVE"
+        },
+        "1583799574": {
+            "short.awsubs.co": "INACTIVE"
+        },
+        "1583799576": {
+            "www.filmdewasa.me": "INACTIVE"
         }
     }
 }
