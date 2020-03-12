@@ -2105,22 +2105,6 @@
         "1583880752": {
             "128.199.232.232": "INACTIVE"
         },
-        "1583932499": {
-            "www.ibugil.net": "INACTIVE"
-        },
-        "1583932501": {
-            "22cinema.download": "INACTIVE",
-            "clip.cewecewe.com": "INACTIVE",
-            "filmbaru.in": "INACTIVE"
-        },
-        "1583932502": {
-            "indonesiasatu.kompas.com": "INACTIVE"
-        },
-        "1583932503": {
-            "128.199.102.111": "INACTIVE",
-            "46.166.167.16": "INACTIVE",
-            "zonapanaz.net": "INACTIVE"
-        },
         "1583936380": {
             "ganoollk21.info": "INACTIVE",
             "indonesiamovies21.com": "INACTIVE"
@@ -2202,6 +2186,24 @@
         },
         "1584017934": {
             "www.kompas.tv": "INACTIVE"
+        },
+        "1584021986": {
+            "www.ibugil.net": "INACTIVE"
+        },
+        "1584021987": {
+            "22cinema.download": "INACTIVE",
+            "filmbaru.in": "INACTIVE"
+        },
+        "1584021988": {
+            "clip.cewecewe.com": "INACTIVE"
+        },
+        "1584021989": {
+            "46.166.167.16": "INACTIVE",
+            "indonesiasatu.kompas.com": "INACTIVE"
+        },
+        "1584021990": {
+            "128.199.102.111": "INACTIVE",
+            "zonapanaz.net": "INACTIVE"
         }
     }
 }
