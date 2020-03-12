@@ -487,7 +487,7 @@
     "anekaiklan.com": {
         "epoch": 1583971200.0,
         "expiration_date": "12-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "anekataruhan.com": {
         "epoch": 1604707200.0,
@@ -1327,7 +1327,7 @@
     "cinemastar21.com": {
         "epoch": 1583971200.0,
         "expiration_date": "12-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "cjsab.com": {
         "epoch": 1604534400.0,
@@ -3895,8 +3895,8 @@
         "state": "future"
     },
     "muhammadyoga.me": {
-        "epoch": 1583971200.0,
-        "expiration_date": "12-mar-2020",
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
         "state": "future"
     },
     "musisi.com": {
@@ -5380,9 +5380,9 @@
         "state": "future"
     },
     "sinemaindo.web.id": {
-        "epoch": 1583884800.0,
-        "expiration_date": "11-mar-2020",
-        "state": "past"
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
     },
     "sinemakaca.com": {
         "epoch": 1612137600.0,
