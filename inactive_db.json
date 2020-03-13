@@ -2102,12 +2102,6 @@
             "forums.mangafox.me": "INACTIVE",
             "www1.lk-21.me": "INACTIVE"
         },
-        "1584046794": {
-            "bioskop99.me": "INACTIVE"
-        },
-        "1584046795": {
-            "173.199.167.192": "INACTIVE"
-        },
         "1584057512": {
             "173.199.189.86": "INACTIVE"
         },
@@ -2205,6 +2199,12 @@
         },
         "1584129962": {
             "pergi.klik-link.us": "INACTIVE"
+        },
+        "1584134268": {
+            "bioskop99.me": "INACTIVE"
+        },
+        "1584134269": {
+            "173.199.167.192": "INACTIVE"
         }
     }
 }
