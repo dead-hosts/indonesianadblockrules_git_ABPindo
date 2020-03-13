@@ -2102,15 +2102,6 @@
             "forums.mangafox.me": "INACTIVE",
             "www1.lk-21.me": "INACTIVE"
         },
-        "1583880752": {
-            "128.199.232.232": "INACTIVE"
-        },
-        "1583970685": {
-            "nontondramaonline.net": "INACTIVE"
-        },
-        "1583986046": {
-            "www.kricom.id": "INACTIVE"
-        },
         "1584005968": {
             "kazemanga.xyz": "INACTIVE"
         },
@@ -2207,6 +2198,13 @@
         },
         "1584069653": {
             "www.medcom.id": "INACTIVE"
+        },
+        "1584073541": {
+            "www.kricom.id": "INACTIVE"
+        },
+        "1584073546": {
+            "128.199.232.232": "INACTIVE",
+            "nontondramaonline.net": "INACTIVE"
         }
     }
 }
