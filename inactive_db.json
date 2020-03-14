@@ -2102,15 +2102,6 @@
             "forums.mangafox.me": "INACTIVE",
             "www1.lk-21.me": "INACTIVE"
         },
-        "1584065488": {
-            "short.awsubs.co": "INACTIVE"
-        },
-        "1584065491": {
-            "www.filmdewasa.me": "INACTIVE"
-        },
-        "1584069653": {
-            "www.medcom.id": "INACTIVE"
-        },
         "1584073541": {
             "www.kricom.id": "INACTIVE"
         },
@@ -2209,6 +2200,12 @@
         },
         "1584151913": {
             "sinema21.id": "INACTIVE"
+        },
+        "1584156133": {
+            "short.awsubs.co": "INACTIVE"
+        },
+        "1584156136": {
+            "www.filmdewasa.me": "INACTIVE"
         }
     }
 }
