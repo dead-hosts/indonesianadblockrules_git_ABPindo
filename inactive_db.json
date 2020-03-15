@@ -2102,16 +2102,6 @@
         "1584183709": {
             "128.199.232.232": "INACTIVE"
         },
-        "1584196311": {
-            "128.199.102.111": "INACTIVE",
-            "zonapanaz.net": "INACTIVE"
-        },
-        "1584200433": {
-            "ganoollk21.info": "INACTIVE"
-        },
-        "1584200434": {
-            "indonesiamovies21.com": "INACTIVE"
-        },
         "1584208412": {
             "www.streamingbokeps.co": "INACTIVE"
         },
@@ -2206,6 +2196,12 @@
         },
         "1584286101": {
             "46.166.167.16": "INACTIVE"
+        },
+        "1584290310": {
+            "128.199.102.111": "INACTIVE",
+            "ganoollk21.info": "INACTIVE",
+            "indonesiamovies21.com": "INACTIVE",
+            "zonapanaz.net": "INACTIVE"
         }
     }
 }
