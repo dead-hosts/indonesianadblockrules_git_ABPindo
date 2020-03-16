@@ -712,7 +712,7 @@
     "awsubs.tv": {
         "epoch": 1584316800.0,
         "expiration_date": "16-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "axzsd.pro": {
         "epoch": 1588636800.0,
@@ -3722,7 +3722,7 @@
     "maulandaru.com": {
         "epoch": 1584316800.0,
         "expiration_date": "16-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "mawataki.com": {
         "epoch": 1592697600.0,
