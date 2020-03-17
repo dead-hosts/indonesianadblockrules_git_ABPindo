@@ -2099,13 +2099,6 @@
             "forums.mangafox.me": "INACTIVE",
             "www1.lk-21.me": "INACTIVE"
         },
-        "1584372668": {
-            "46.166.167.16": "INACTIVE",
-            "indonesiasatu.kompas.com": "INACTIVE"
-        },
-        "1584372670": {
-            "www.ibugil.net": "INACTIVE"
-        },
         "1584384316": {
             "22cinema.download": "INACTIVE",
             "clip.cewecewe.com": "INACTIVE",
@@ -2205,6 +2198,13 @@
         },
         "1584451778": {
             "www.kompas.tv": "INACTIVE"
+        },
+        "1584462523": {
+            "www.ibugil.net": "INACTIVE"
+        },
+        "1584462526": {
+            "46.166.167.16": "INACTIVE",
+            "indonesiasatu.kompas.com": "INACTIVE"
         }
     }
 }
