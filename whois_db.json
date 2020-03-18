@@ -3782,7 +3782,7 @@
     "merdekaid.online": {
         "epoch": 1584489600.0,
         "expiration_date": "18-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "merryholidays.org": {
         "epoch": 1607040000.0,
