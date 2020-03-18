@@ -2091,16 +2091,11 @@
         },
         "1580209732": {
             "filmterbaru.id": "INACTIVE",
-            "lk-21.me": "INACTIVE",
-            "sashahillfilm.com": "INACTIVE",
-            "satujiwa.net": "INACTIVE"
+            "lk-21.me": "INACTIVE"
         },
         "1580209733": {
             "forums.mangafox.me": "INACTIVE",
             "www1.lk-21.me": "INACTIVE"
-        },
-        "1584436410": {
-            "nontondramaonline.net": "INACTIVE"
         },
         "1584451778": {
             "www.kompas.tv": "INACTIVE"
@@ -2204,6 +2199,13 @@
         },
         "1584516973": {
             "www.kricom.id": "INACTIVE"
+        },
+        "1584524321": {
+            "nontondramaonline.net": "INACTIVE"
+        },
+        "1584524322": {
+            "sashahillfilm.com": "INACTIVE",
+            "satujiwa.net": "INACTIVE"
         }
     }
 }

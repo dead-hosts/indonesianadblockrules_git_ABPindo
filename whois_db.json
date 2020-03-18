@@ -1095,14 +1095,14 @@
         "state": "future"
     },
     "bokepngetop.com": {
-        "epoch": 1583366400.0,
-        "expiration_date": "05-mar-2020",
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
         "state": "future"
     },
     "bokeponline.download": {
         "epoch": 1583625600.0,
         "expiration_date": "08-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "bokepvid.club": {
         "epoch": 1591574400.0,
@@ -1615,8 +1615,8 @@
         "state": "future"
     },
     "drakorindo.tv": {
-        "epoch": 1581292800.0,
-        "expiration_date": "10-feb-2020",
+        "epoch": 1612915200.0,
+        "expiration_date": "10-feb-2021",
         "state": "future"
     },
     "drakorindofilms.net": {
@@ -2110,8 +2110,8 @@
         "state": "future"
     },
     "ganoolmovie.video": {
-        "epoch": 1581120000.0,
-        "expiration_date": "08-feb-2020",
+        "epoch": 1612742400.0,
+        "expiration_date": "08-feb-2021",
         "state": "future"
     },
     "gehzj.com": {
@@ -3330,8 +3330,8 @@
         "state": "future"
     },
     "layarkacaxxi.id": {
-        "epoch": 1582761600.0,
-        "expiration_date": "27-feb-2020",
+        "epoch": 1614384000.0,
+        "expiration_date": "27-feb-2021",
         "state": "future"
     },
     "layarkeren.org": {
@@ -4140,8 +4140,8 @@
         "state": "future"
     },
     "nontonani.me": {
-        "epoch": 1583193600.0,
-        "expiration_date": "03-mar-2020",
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
         "state": "future"
     },
     "nontonbioskop21.org": {
