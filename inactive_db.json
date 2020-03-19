@@ -2100,12 +2100,6 @@
         "1584495835": {
             "128.199.232.232": "INACTIVE"
         },
-        "1584509727": {
-            "short.awsubs.co": "INACTIVE"
-        },
-        "1584509730": {
-            "www.filmdewasa.me": "INACTIVE"
-        },
         "1584516973": {
             "www.kricom.id": "INACTIVE"
         },
@@ -2200,6 +2194,12 @@
         "1584595477": {
             "filmbagus21.web.id": "INACTIVE",
             "sinema21.id": "INACTIVE"
+        },
+        "1584599120": {
+            "short.awsubs.co": "INACTIVE"
+        },
+        "1584599123": {
+            "www.filmdewasa.me": "INACTIVE"
         }
     }
 }
