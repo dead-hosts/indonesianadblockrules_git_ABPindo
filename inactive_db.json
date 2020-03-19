@@ -2100,48 +2100,6 @@
         "1584495835": {
             "128.199.232.232": "INACTIVE"
         },
-        "1584506163": {
-            "9icmzvn6.website": "INACTIVE"
-        },
-        "1584506164": {
-            "bellaads.com": "INACTIVE",
-            "fnkyyrgraizy.com": "INACTIVE",
-            "iklantop.net": "INACTIVE",
-            "l9tdhe6.com": "INACTIVE"
-        },
-        "1584506165": {
-            ".wp.com": "INVALID",
-            "c-stat.eu": "INACTIVE",
-            "cfs1.uzone.id": "INACTIVE",
-            "popunderjs.club": "INACTIVE",
-            "q1xyxm89.com": "INACTIVE",
-            "replase.gq": "INACTIVE",
-            "s2pops.club": "INACTIVE",
-            "scriptall.ml": "INACTIVE",
-            "sebar.idblognetwork.com": "INACTIVE",
-            "tracker.lazada.co.id": "INACTIVE",
-            "weblogiklan.com": "INACTIVE",
-            "window-close.cf": "INACTIVE",
-            "window-close.ga": "INACTIVE"
-        },
-        "1584506166": {
-            "bp.blogspot.com": "INACTIVE",
-            "coblos.net": "INACTIVE",
-            "gerwen.info": "INACTIVE",
-            "idfl.*": "INVALID",
-            "images.gameweb.co.id": "INACTIVE",
-            "img.sukipli.com": "INACTIVE",
-            "keripikcadas.com": "INACTIVE"
-        },
-        "1584506167": {
-            "get.web.id": "INACTIVE",
-            "nontonbox.tv": "INACTIVE",
-            "ns21.*": "INVALID"
-        },
-        "1584506170": {
-            "filmbagus21.web.id": "INACTIVE",
-            "sinema21.id": "INACTIVE"
-        },
         "1584509727": {
             "short.awsubs.co": "INACTIVE"
         },
@@ -2200,6 +2158,48 @@
         },
         "1584591631": {
             "bioskopmovie.tv": "INACTIVE"
+        },
+        "1584595470": {
+            "9icmzvn6.website": "INACTIVE",
+            "bellaads.com": "INACTIVE",
+            "fnkyyrgraizy.com": "INACTIVE"
+        },
+        "1584595471": {
+            "iklantop.net": "INACTIVE",
+            "l9tdhe6.com": "INACTIVE",
+            "popunderjs.club": "INACTIVE",
+            "q1xyxm89.com": "INACTIVE",
+            "replase.gq": "INACTIVE",
+            "s2pops.club": "INACTIVE",
+            "scriptall.ml": "INACTIVE",
+            "sebar.idblognetwork.com": "INACTIVE"
+        },
+        "1584595472": {
+            ".wp.com": "INVALID",
+            "bp.blogspot.com": "INACTIVE",
+            "c-stat.eu": "INACTIVE",
+            "cfs1.uzone.id": "INACTIVE",
+            "coblos.net": "INACTIVE",
+            "gerwen.info": "INACTIVE",
+            "tracker.lazada.co.id": "INACTIVE",
+            "weblogiklan.com": "INACTIVE",
+            "window-close.cf": "INACTIVE",
+            "window-close.ga": "INACTIVE"
+        },
+        "1584595473": {
+            "idfl.*": "INVALID",
+            "images.gameweb.co.id": "INACTIVE",
+            "img.sukipli.com": "INACTIVE",
+            "keripikcadas.com": "INACTIVE",
+            "nontonbox.tv": "INACTIVE",
+            "ns21.*": "INVALID"
+        },
+        "1584595474": {
+            "get.web.id": "INACTIVE"
+        },
+        "1584595477": {
+            "filmbagus21.web.id": "INACTIVE",
+            "sinema21.id": "INACTIVE"
         }
     }
 }
