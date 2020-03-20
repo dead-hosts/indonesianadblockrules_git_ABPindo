@@ -5955,9 +5955,9 @@
         "state": "future"
     },
     "torjack.net": {
-        "epoch": 1584576000.0,
-        "expiration_date": "19-mar-2020",
-        "state": "past"
+        "epoch": 1616112000.0,
+        "expiration_date": "19-mar-2021",
+        "state": "future"
     },
     "totalgame.online": {
         "epoch": 1601856000.0,
