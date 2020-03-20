@@ -2197,7 +2197,7 @@
     "greget.space": {
         "epoch": 1584662400.0,
         "expiration_date": "20-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "grid.id": {
         "epoch": 1612569600.0,
@@ -5787,7 +5787,7 @@
     "thesandonesof.info": {
         "epoch": 1584662400.0,
         "expiration_date": "20-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "thewillpower.org": {
         "epoch": 1591920000.0,
