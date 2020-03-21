@@ -2104,13 +2104,6 @@
         "1584722226": {
             "128.199.232.232": "INACTIVE"
         },
-        "1584730004": {
-            "www.ibugil.net": "INACTIVE"
-        },
-        "1584730007": {
-            "46.166.167.16": "INACTIVE",
-            "indonesiasatu.kompas.com": "INACTIVE"
-        },
         "1584741833": {
             "22cinema.download": "INACTIVE",
             "filmbaru.in": "INACTIVE"
@@ -2198,6 +2191,13 @@
         },
         "1584804167": {
             "nontondramaonline.net": "INACTIVE"
+        },
+        "1584820014": {
+            "www.ibugil.net": "INACTIVE"
+        },
+        "1584820017": {
+            "46.166.167.16": "INACTIVE",
+            "indonesiasatu.kompas.com": "INACTIVE"
         }
     }
 }
