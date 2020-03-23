@@ -2104,16 +2104,6 @@
         "1584895911": {
             "nontondramaonline.net": "INACTIVE"
         },
-        "1584908664": {
-            "www.ibugil.net": "INACTIVE"
-        },
-        "1584908666": {
-            "www.kompas.tv": "INACTIVE"
-        },
-        "1584908667": {
-            "46.166.167.16": "INACTIVE",
-            "indonesiasatu.kompas.com": "INACTIVE"
-        },
         "1584917081": {
             "22cinema.download": "INACTIVE",
             "clip.cewecewe.com": "INACTIVE",
@@ -2199,6 +2189,13 @@
         },
         "1584973774": {
             "bioskopmovie.tv": "INACTIVE"
+        },
+        "1584999598": {
+            "www.ibugil.net": "INACTIVE"
+        },
+        "1584999601": {
+            "46.166.167.16": "INACTIVE",
+            "indonesiasatu.kompas.com": "INACTIVE"
         }
     }
 }
