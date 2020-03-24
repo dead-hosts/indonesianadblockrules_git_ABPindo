@@ -64,6 +64,11 @@
         "expiration_date": "16-may-2020",
         "state": "future"
     },
+    "21filem.co": {
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
+        "state": "future"
+    },
     "22cinema.com": {
         "epoch": 1608422400.0,
         "expiration_date": "20-dec-2020",
@@ -4037,6 +4042,11 @@
     "negumo.com": {
         "epoch": 1595894400.0,
         "expiration_date": "28-jul-2020",
+        "state": "future"
+    },
+    "nekonime.com": {
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
         "state": "future"
     },
     "nekopoi.care": {
