@@ -2104,13 +2104,6 @@
         "1584957779": {
             "128.199.232.232": "INACTIVE"
         },
-        "1584999598": {
-            "www.ibugil.net": "INACTIVE"
-        },
-        "1584999601": {
-            "46.166.167.16": "INACTIVE",
-            "indonesiasatu.kompas.com": "INACTIVE"
-        },
         "1585003662": {
             "128.199.102.111": "INACTIVE",
             "ganoollk21.info": "INACTIVE",
@@ -2198,6 +2191,13 @@
         },
         "1585062061": {
             "bioskopmovie.tv": "INACTIVE"
+        },
+        "1585089102": {
+            "www.ibugil.net": "INACTIVE"
+        },
+        "1585089105": {
+            "46.166.167.16": "INACTIVE",
+            "indonesiasatu.kompas.com": "INACTIVE"
         }
     }
 }
