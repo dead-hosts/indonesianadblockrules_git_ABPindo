@@ -1749,6 +1749,11 @@
         "expiration_date": "19-mar-2025",
         "state": "future"
     },
+    "dutaislam.com": {
+        "epoch": 1667260800.0,
+        "expiration_date": "01-nov-2022",
+        "state": "future"
+    },
     "dutatoto.com": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
