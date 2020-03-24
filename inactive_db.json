@@ -2104,18 +2104,8 @@
         "1584957779": {
             "128.199.232.232": "INACTIVE"
         },
-        "1585003662": {
-            "128.199.102.111": "INACTIVE",
-            "ganoollk21.info": "INACTIVE",
-            "zonapanaz.net": "INACTIVE"
-        },
         "1585003663": {
             "nontondramaonline.net": "INACTIVE"
-        },
-        "1585004530": {
-            "22cinema.download": "INACTIVE",
-            "clip.cewecewe.com": "INACTIVE",
-            "filmbaru.in": "INACTIVE"
         },
         "1585012593": {
             "www.streamingbokeps.co": "INACTIVE"
@@ -2198,6 +2188,18 @@
         "1585089105": {
             "46.166.167.16": "INACTIVE",
             "indonesiasatu.kompas.com": "INACTIVE"
+        },
+        "1585091702": {
+            "22cinema.download": "INACTIVE",
+            "filmbaru.in": "INACTIVE"
+        },
+        "1585091703": {
+            "clip.cewecewe.com": "INACTIVE"
+        },
+        "1585091705": {
+            "128.199.102.111": "INACTIVE",
+            "ganoollk21.info": "INACTIVE",
+            "zonapanaz.net": "INACTIVE"
         }
     }
 }
