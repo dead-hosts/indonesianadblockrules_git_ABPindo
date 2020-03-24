@@ -5270,9 +5270,9 @@
         "state": "future"
     },
     "sejutafilm.com": {
-        "epoch": 1584921600.0,
-        "expiration_date": "23-mar-2020",
-        "state": "past"
+        "epoch": 1616457600.0,
+        "expiration_date": "23-mar-2021",
+        "state": "future"
     },
     "selfpwn.org": {
         "epoch": 1597881600.0,
