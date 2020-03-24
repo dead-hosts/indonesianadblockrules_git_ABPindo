@@ -1624,6 +1624,11 @@
         "expiration_date": "10-apr-2020",
         "state": "future"
     },
+    "drakorindo.fun": {
+        "epoch": 1604534400.0,
+        "expiration_date": "05-nov-2020",
+        "state": "future"
+    },
     "drakorindo.tv": {
         "epoch": 1612915200.0,
         "expiration_date": "10-feb-2021",
@@ -2382,6 +2387,11 @@
     "hkfree.co": {
         "epoch": 1587513600.0,
         "expiration_date": "22-apr-2020",
+        "state": "future"
+    },
+    "hoegutvie.com": {
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "hokiciki.org": {
@@ -3862,6 +3872,11 @@
     "modifikasi.com": {
         "epoch": 1770163200.0,
         "expiration_date": "04-feb-2026",
+        "state": "future"
+    },
+    "moneyfree.co": {
+        "epoch": 1601942400.0,
+        "expiration_date": "06-oct-2020",
         "state": "future"
     },
     "motosal.net": {
@@ -5829,6 +5844,11 @@
         "expiration_date": "15-aug-2020",
         "state": "future"
     },
+    "tinfunshe.club": {
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
+        "state": "future"
+    },
     "tinggalklik.com": {
         "epoch": 1608508800.0,
         "expiration_date": "21-dec-2020",
@@ -6057,6 +6077,11 @@
     "trackingclick.net": {
         "epoch": 1590105600.0,
         "expiration_date": "22-may-2020",
+        "state": "future"
+    },
+    "traffic-monetizer.com": {
+        "epoch": 1593993600.0,
+        "expiration_date": "06-jul-2020",
         "state": "future"
     },
     "trafficfactory.biz": {
@@ -6292,6 +6317,11 @@
     "winterrowd.com": {
         "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
+        "state": "future"
+    },
+    "wizliebeg.com": {
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
         "state": "future"
     },
     "woof.tube": {
