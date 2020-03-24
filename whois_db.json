@@ -5697,7 +5697,7 @@
     "teliad.com": {
         "epoch": 1585008000.0,
         "expiration_date": "24-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "telolet.in": {
         "epoch": 1608595200.0,
@@ -5735,8 +5735,8 @@
         "state": "future"
     },
     "terkini.id": {
-        "epoch": 1585008000.0,
-        "expiration_date": "24-mar-2020",
+        "epoch": 1616544000.0,
+        "expiration_date": "24-mar-2021",
         "state": "future"
     },
     "tetew.info": {
