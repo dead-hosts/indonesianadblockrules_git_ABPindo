@@ -2467,7 +2467,7 @@
     "ibugil.net": {
         "epoch": 1585094400.0,
         "expiration_date": "25-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "icinema3satu.net": {
         "epoch": 1613433600.0,
@@ -4425,8 +4425,8 @@
         "state": "future"
     },
     "oko.sh": {
-        "epoch": 1585094400.0,
-        "expiration_date": "25-mar-2020",
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
         "state": "future"
     },
     "oktavita.com": {
