@@ -2101,13 +2101,6 @@
             "sashahillfilm.com": "INACTIVE",
             "satujiwa.net": "INACTIVE"
         },
-        "1585089102": {
-            "www.ibugil.net": "INACTIVE"
-        },
-        "1585089105": {
-            "46.166.167.16": "INACTIVE",
-            "indonesiasatu.kompas.com": "INACTIVE"
-        },
         "1585091702": {
             "22cinema.download": "INACTIVE",
             "filmbaru.in": "INACTIVE"
@@ -2204,6 +2197,12 @@
         },
         "1585154686": {
             "mforum.cari.com.my": "INACTIVE"
+        },
+        "1585177216": {
+            "indonesiasatu.kompas.com": "INACTIVE"
+        },
+        "1585177217": {
+            "46.166.167.16": "INACTIVE"
         }
     }
 }
