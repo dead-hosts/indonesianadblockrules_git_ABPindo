@@ -552,7 +552,7 @@
     "animeindo.io": {
         "epoch": 1585180800.0,
         "expiration_date": "26-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "animeindo.moe": {
         "epoch": 1612742400.0,
@@ -1940,8 +1940,8 @@
         "state": "future"
     },
     "filmbagus21.info": {
-        "epoch": 1585180800.0,
-        "expiration_date": "26-mar-2020",
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
         "state": "future"
     },
     "filmbagus88.net": {
