@@ -2101,12 +2101,6 @@
             "sashahillfilm.com": "INACTIVE",
             "satujiwa.net": "INACTIVE"
         },
-        "1585177216": {
-            "indonesiasatu.kompas.com": "INACTIVE"
-        },
-        "1585177217": {
-            "46.166.167.16": "INACTIVE"
-        },
         "1585181381": {
             "22cinema.download": "INACTIVE",
             "filmbaru.in": "INACTIVE"
@@ -2199,6 +2193,10 @@
         },
         "1585241483": {
             "bioskopmovie.tv": "INACTIVE"
+        },
+        "1585263887": {
+            "46.166.167.16": "INACTIVE",
+            "indonesiasatu.kompas.com": "INACTIVE"
         }
     }
 }
