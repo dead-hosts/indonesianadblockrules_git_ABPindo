@@ -2402,7 +2402,7 @@
     "hokiciki.org": {
         "epoch": 1585353600.0,
         "expiration_date": "28-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "hokijudi99.com": {
         "epoch": 1743465600.0,
@@ -2850,8 +2850,8 @@
         "state": "future"
     },
     "jagatreview.com": {
-        "epoch": 1585353600.0,
-        "expiration_date": "28-mar-2020",
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
         "state": "future"
     },
     "jagoiklan.com": {
