@@ -2104,9 +2104,6 @@
         "1585440709": {
             "indonesiasatu.kompas.com": "INACTIVE"
         },
-        "1585440710": {
-            "46.166.167.16": "INACTIVE"
-        },
         "1585448490": {
             "22cinema.download": "INACTIVE",
             "filmbaru.in": "INACTIVE"
@@ -2193,6 +2190,9 @@
         "1585503726": {
             "bioskopmovie.tv": "INACTIVE",
             "film-ganool.co": "INACTIVE"
+        },
+        "1585527218": {
+            "46.166.167.16": "INACTIVE"
         }
     }
 }

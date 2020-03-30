@@ -1782,7 +1782,7 @@
     "dwa21.org": {
         "epoch": 1585526400.0,
         "expiration_date": "30-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "dwanonton.com": {
         "epoch": 1609372800.0,
@@ -3562,7 +3562,7 @@
     "lk21online.biz": {
         "epoch": 1585526400.0,
         "expiration_date": "30-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "lk21tv.com": {
         "epoch": 1603670400.0,
@@ -6400,8 +6400,8 @@
         "state": "future"
     },
     "yllix.com": {
-        "epoch": 1585526400.0,
-        "expiration_date": "30-mar-2020",
+        "epoch": 1648598400.0,
+        "expiration_date": "30-mar-2022",
         "state": "future"
     },
     "yogapoker.com": {
