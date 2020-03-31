@@ -6117,7 +6117,7 @@
     "trendlope.com": {
         "epoch": 1585612800.0,
         "expiration_date": "31-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "tribunnews.com": {
         "epoch": 1673568000.0,
