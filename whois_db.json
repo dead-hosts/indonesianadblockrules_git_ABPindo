@@ -2617,7 +2617,7 @@
     "iklantanpadaftar.com": {
         "epoch": 1585699200.0,
         "expiration_date": "01-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "iklantelevisi.com": {
         "epoch": 1595462400.0,
@@ -5207,7 +5207,7 @@
     "rufadses.net": {
         "epoch": 1585699200.0,
         "expiration_date": "01-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "rumah-judi.com": {
         "epoch": 1590105600.0,
