@@ -487,7 +487,7 @@
     "allapp.xyz": {
         "epoch": 1585699200.0,
         "expiration_date": "01-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "allvegaspoker.com": {
         "epoch": 1597276800.0,
