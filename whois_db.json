@@ -3449,6 +3449,11 @@
         "expiration_date": "01-apr-2023",
         "state": "future"
     },
+    "leoceran.pw": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
     "lewat.club": {
         "epoch": 1602201600.0,
         "expiration_date": "09-oct-2020",
