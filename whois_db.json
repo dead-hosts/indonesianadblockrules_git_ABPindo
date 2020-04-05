@@ -5192,7 +5192,7 @@
     "ridingintractable.com": {
         "epoch": 1586044800.0,
         "expiration_date": "05-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "rikucan.com": {
         "epoch": 1591488000.0,
@@ -5657,7 +5657,7 @@
     "syndopop.com": {
         "epoch": 1586044800.0,
         "expiration_date": "05-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "tabloidbintang.com": {
         "epoch": 1769558400.0,
