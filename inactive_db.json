@@ -2101,15 +2101,6 @@
             "sashahillfilm.com": "INACTIVE",
             "satujiwa.net": "INACTIVE"
         },
-        "1586061457": {
-            "128.199.232.232": "INACTIVE"
-        },
-        "1586081852": {
-            "bioskop99.me": "INACTIVE"
-        },
-        "1586081853": {
-            "173.199.167.192": "INACTIVE"
-        },
         "1586095034": {
             "movie76.net": "INACTIVE"
         },
@@ -2193,6 +2184,15 @@
         },
         "1586165905": {
             "indonesiamovies21.com": "INACTIVE"
+        },
+        "1586169730": {
+            "bioskop99.me": "INACTIVE"
+        },
+        "1586169731": {
+            "173.199.167.192": "INACTIVE"
+        },
+        "1586169733": {
+            "128.199.232.232": "INACTIVE"
         }
     }
 }
