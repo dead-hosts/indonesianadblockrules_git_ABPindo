@@ -2069,6 +2069,11 @@
         "expiration_date": "06-apr-2020",
         "state": "future"
     },
+    "fryawlauk.com": {
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
+        "state": "future"
+    },
     "fuck.org": {
         "epoch": 1594166400.0,
         "expiration_date": "08-jul-2020",
@@ -2532,6 +2537,11 @@
     "idpelago.com": {
         "epoch": 1656979200.0,
         "expiration_date": "05-jul-2022",
+        "state": "future"
+    },
+    "idtube.me": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "idxx1.top": {
