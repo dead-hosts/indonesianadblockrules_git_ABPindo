@@ -2107,10 +2107,6 @@
         "1586415642": {
             "128.199.232.232": "INACTIVE"
         },
-        "1586869665": {
-            "128.199.102.111": "INACTIVE",
-            "zonapanaz.net": "INACTIVE"
-        },
         "1586878738": {
             "173.199.167.192": "INACTIVE"
         },
@@ -2199,6 +2195,10 @@
         },
         "1586954995": {
             "indonesiasatu.kompas.com": "INACTIVE"
+        },
+        "1586959298": {
+            "128.199.102.111": "INACTIVE",
+            "zonapanaz.net": "INACTIVE"
         }
     }
 }
