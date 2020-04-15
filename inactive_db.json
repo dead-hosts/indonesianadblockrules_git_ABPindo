@@ -2107,9 +2107,6 @@
         "1586415642": {
             "128.199.232.232": "INACTIVE"
         },
-        "1586850864": {
-            "46.166.167.16": "INACTIVE"
-        },
         "1586865084": {
             "22cinema.download": "INACTIVE",
             "filmbaru.in": "INACTIVE"
@@ -2201,6 +2198,9 @@
             "bellaads.com": "INACTIVE",
             "fnkyyrgraizy.com": "INACTIVE",
             "iklantop.net": "INACTIVE"
+        },
+        "1586941628": {
+            "46.166.167.16": "INACTIVE"
         }
     }
 }
