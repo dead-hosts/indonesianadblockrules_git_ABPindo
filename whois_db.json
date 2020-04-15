@@ -4142,7 +4142,7 @@
     "news-tech.xyz": {
         "epoch": 1586908800.0,
         "expiration_date": "15-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "newsupdatewe.info": {
         "epoch": 1626480000.0,
