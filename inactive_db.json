@@ -2110,16 +2110,6 @@
         "1586906519": {
             "nontondramaonline.net": "INACTIVE"
         },
-        "1587043042": {
-            "22cinema.download": "INACTIVE",
-            "filmbaru.in": "INACTIVE"
-        },
-        "1587043043": {
-            "clip.cewecewe.com": "INACTIVE"
-        },
-        "1587043044": {
-            "indonesiasatu.kompas.com": "INACTIVE"
-        },
         "1587047272": {
             "128.199.102.111": "INACTIVE",
             "zonapanaz.net": "INACTIVE"
@@ -2198,6 +2188,14 @@
         },
         "1587119082": {
             "46.166.167.16": "INACTIVE"
+        },
+        "1587132651": {
+            "22cinema.download": "INACTIVE",
+            "clip.cewecewe.com": "INACTIVE",
+            "filmbaru.in": "INACTIVE"
+        },
+        "1587132652": {
+            "indonesiasatu.kompas.com": "INACTIVE"
         }
     }
 }
