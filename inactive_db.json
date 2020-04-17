@@ -2114,15 +2114,6 @@
             "128.199.102.111": "INACTIVE",
             "zonapanaz.net": "INACTIVE"
         },
-        "1587055983": {
-            "173.199.167.192": "INACTIVE"
-        },
-        "1587055984": {
-            "www.streamingbokeps.co": "INACTIVE"
-        },
-        "1587055990": {
-            "bioskop99.me": "INACTIVE"
-        },
         "1587064976": {
             "ganoollk21.info": "INACTIVE"
         },
@@ -2196,6 +2187,13 @@
         },
         "1587132652": {
             "indonesiasatu.kompas.com": "INACTIVE"
+        },
+        "1587146275": {
+            "173.199.167.192": "INACTIVE",
+            "www.streamingbokeps.co": "INACTIVE"
+        },
+        "1587146281": {
+            "bioskop99.me": "INACTIVE"
         }
     }
 }
