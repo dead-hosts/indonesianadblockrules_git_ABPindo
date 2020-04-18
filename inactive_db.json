@@ -2139,20 +2139,6 @@
             "nontonbox.tv": "INACTIVE",
             "ns21.*": "INVALID"
         },
-        "1587096932": {
-            "get.web.id": "INACTIVE"
-        },
-        "1587096934": {
-            "filmbagus21.web.id": "INACTIVE"
-        },
-        "1587096935": {
-            "173.199.189.86": "INACTIVE",
-            "sinema21.id": "INACTIVE"
-        },
-        "1587096936": {
-            "www.filmdewasa.me": "INACTIVE",
-            "www.kricom.id": "INACTIVE"
-        },
         "1587101267": {
             "9icmzvn6.website": "INACTIVE",
             "bellaads.com": "INACTIVE",
@@ -2191,6 +2177,20 @@
         },
         "1587179347": {
             "indonesiamovies21.com": "INACTIVE"
+        },
+        "1587183726": {
+            "get.web.id": "INACTIVE"
+        },
+        "1587183728": {
+            "filmbagus21.web.id": "INACTIVE",
+            "sinema21.id": "INACTIVE"
+        },
+        "1587183729": {
+            "173.199.189.86": "INACTIVE",
+            "www.filmdewasa.me": "INACTIVE"
+        },
+        "1587183730": {
+            "www.kricom.id": "INACTIVE"
         }
     }
 }
