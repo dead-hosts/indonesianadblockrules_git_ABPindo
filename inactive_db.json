@@ -126,11 +126,25 @@
             "last_retested_at_iso": "2020-04-26T23:08:29.522660",
             "status": "INACTIVE"
         },
+        "filmterbaru.id": {
+            "included_at_epoch": 1587944207.861784,
+            "included_at_iso": "2020-04-26T23:36:47.861784",
+            "last_retested_at_epoch": 1587944207.861784,
+            "last_retested_at_iso": "2020-04-26T23:36:47.861784",
+            "status": "INACTIVE"
+        },
         "fnkyyrgraizy.com": {
             "included_at_epoch": 1587192575.0,
             "included_at_iso": "2020-04-18T06:49:35",
             "last_retested_at_epoch": 1587942499.84337,
             "last_retested_at_iso": "2020-04-26T23:08:19.843370",
+            "status": "INACTIVE"
+        },
+        "forums.mangafox.me": {
+            "included_at_epoch": 1587944208.910669,
+            "included_at_iso": "2020-04-26T23:36:48.910669",
+            "last_retested_at_epoch": 1587944208.92717,
+            "last_retested_at_iso": "2020-04-26T23:36:48.927170",
             "status": "INACTIVE"
         },
         "ganoollk21.info": {
@@ -210,6 +224,20 @@
             "last_retested_at_iso": "2020-04-26T23:08:20.408915",
             "status": "INACTIVE"
         },
+        "lk-21.me": {
+            "included_at_epoch": 1587944208.079523,
+            "included_at_iso": "2020-04-26T23:36:48.079523",
+            "last_retested_at_epoch": 1587944208.079523,
+            "last_retested_at_iso": "2020-04-26T23:36:48.079523",
+            "status": "INACTIVE"
+        },
+        "lk21indo.co": {
+            "included_at_epoch": 1587944208.094601,
+            "included_at_iso": "2020-04-26T23:36:48.094601",
+            "last_retested_at_epoch": 1587944208.094601,
+            "last_retested_at_iso": "2020-04-26T23:36:48.094601",
+            "status": "INACTIVE"
+        },
         "nontonbox.tv": {
             "included_at_epoch": 1587188126.0,
             "included_at_iso": "2020-04-18T05:35:26",
@@ -257,6 +285,20 @@
             "included_at_iso": "2020-04-18T05:35:24",
             "last_retested_at_epoch": 1587942500.909414,
             "last_retested_at_iso": "2020-04-26T23:08:20.909414",
+            "status": "INACTIVE"
+        },
+        "sashahillfilm.com": {
+            "included_at_epoch": 1587944207.666896,
+            "included_at_iso": "2020-04-26T23:36:47.666896",
+            "last_retested_at_epoch": 1587944207.666896,
+            "last_retested_at_iso": "2020-04-26T23:36:47.666896",
+            "status": "INACTIVE"
+        },
+        "satujiwa.net": {
+            "included_at_epoch": 1587944207.669476,
+            "included_at_iso": "2020-04-26T23:36:47.669476",
+            "last_retested_at_epoch": 1587944207.669476,
+            "last_retested_at_iso": "2020-04-26T23:36:47.669476",
             "status": "INACTIVE"
         },
         "scriptall.ml": {
@@ -315,6 +357,13 @@
             "last_retested_at_iso": "2020-04-26T23:08:27.383334",
             "status": "INACTIVE"
         },
+        "www.kazefuri.web.id": {
+            "included_at_epoch": 1587944206.686628,
+            "included_at_iso": "2020-04-26T23:36:46.686628",
+            "last_retested_at_epoch": 1587944208.17337,
+            "last_retested_at_iso": "2020-04-26T23:36:48.173370",
+            "status": "INACTIVE"
+        },
         "www.kricom.id": {
             "included_at_epoch": 1587183730.0,
             "included_at_iso": "2020-04-18T04:22:10",
@@ -325,8 +374,8 @@
         "www.nontondramas.net": {
             "included_at_epoch": 1586317557.0,
             "included_at_iso": "2020-04-08T03:45:57",
-            "last_retested_at_epoch": 1586317557.0,
-            "last_retested_at_iso": "2020-04-08T03:45:57",
+            "last_retested_at_epoch": 1587944206.890122,
+            "last_retested_at_iso": "2020-04-26T23:36:46.890122",
             "status": "INACTIVE"
         },
         "www.streamingbokeps.co": {
@@ -334,6 +383,13 @@
             "included_at_iso": "2020-04-17T17:57:55",
             "last_retested_at_epoch": 1587942505.248083,
             "last_retested_at_iso": "2020-04-26T23:08:25.248083",
+            "status": "INACTIVE"
+        },
+        "www1.lk-21.me": {
+            "included_at_epoch": 1587944208.491422,
+            "included_at_iso": "2020-04-26T23:36:48.491422",
+            "last_retested_at_epoch": 1587944208.491422,
+            "last_retested_at_iso": "2020-04-26T23:36:48.491422",
             "status": "INACTIVE"
         },
         "zonapanaz.net": {

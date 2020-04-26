@@ -987,7 +987,7 @@
     "bioskopbos.com": {
         "epoch": 1583798400.0,
         "expiration_date": "10-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "bioskopgalaxy21.com": {
         "epoch": 1597968000.0,
@@ -995,8 +995,8 @@
         "state": "future"
     },
     "bioskopkeren.club": {
-        "epoch": 1580515200.0,
-        "expiration_date": "01-feb-2020",
+        "epoch": 1612137600.0,
+        "expiration_date": "01-feb-2021",
         "state": "future"
     },
     "bioskopkeren.fun": {
@@ -1005,8 +1005,8 @@
         "state": "future"
     },
     "bioskopkeren.online": {
-        "epoch": 1580601600.0,
-        "expiration_date": "02-feb-2020",
+        "epoch": 1612224000.0,
+        "expiration_date": "02-feb-2021",
         "state": "future"
     },
     "bioskopkeren.xyz": {
@@ -1032,7 +1032,7 @@
     "bioskopxx1.com": {
         "epoch": 1583971200.0,
         "expiration_date": "12-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "bioskopxxi.net": {
         "epoch": 1610150400.0,
@@ -1980,13 +1980,13 @@
         "state": "future"
     },
     "filmbioskop21.co": {
-        "epoch": 1585267200.0,
-        "expiration_date": "27-mar-2020",
+        "epoch": 1616803200.0,
+        "expiration_date": "27-mar-2021",
         "state": "future"
     },
     "filmbioskop21.com": {
-        "epoch": 1585267200.0,
-        "expiration_date": "27-mar-2020",
+        "epoch": 1616803200.0,
+        "expiration_date": "27-mar-2021",
         "state": "future"
     },
     "filmdewasaku.org": {
@@ -2195,8 +2195,8 @@
         "state": "past"
     },
     "gigapurbalingga.net": {
-        "epoch": 1581465600.0,
-        "expiration_date": "12-feb-2020",
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
         "state": "future"
     },
     "goat.cx": {
@@ -3590,8 +3590,8 @@
         "state": "past"
     },
     "lk21n.com": {
-        "epoch": 1586822400.0,
-        "expiration_date": "14-apr-2020",
+        "epoch": 1618358400.0,
+        "expiration_date": "14-apr-2021",
         "state": "future"
     },
     "lk21online.biz": {
@@ -3607,7 +3607,7 @@
     "lk21xxi.co": {
         "epoch": 1583539200.0,
         "expiration_date": "07-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "lk21xxi.net": {
         "epoch": 1606262400.0,
@@ -3855,8 +3855,8 @@
         "state": "future"
     },
     "meownime.id": {
-        "epoch": 1584835200.0,
-        "expiration_date": "22-mar-2020",
+        "epoch": 1616371200.0,
+        "expiration_date": "22-mar-2021",
         "state": "future"
     },
     "merdekaid.online": {
@@ -4240,8 +4240,8 @@
         "state": "future"
     },
     "nontonbioskop21.org": {
-        "epoch": 1583539200.0,
-        "expiration_date": "07-mar-2020",
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
         "state": "future"
     },
     "nontonbokeps.com": {
