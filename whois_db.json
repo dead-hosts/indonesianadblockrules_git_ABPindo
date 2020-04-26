@@ -975,8 +975,8 @@
         "state": "future"
     },
     "bioskop99.mobi": {
-        "epoch": 1587427200.0,
-        "expiration_date": "21-apr-2020",
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
         "state": "future"
     },
     "bioskopbokep21.com": {
@@ -1420,8 +1420,8 @@
         "state": "future"
     },
     "d0p21g2fep.com": {
-        "epoch": 1587772800.0,
-        "expiration_date": "25-apr-2020",
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
         "state": "future"
     },
     "d72gb9oukw3j.com": {
@@ -1839,6 +1839,11 @@
         "expiration_date": "27-aug-2020",
         "state": "future"
     },
+    "elfirkelk.com": {
+        "epoch": 1616457600.0,
+        "expiration_date": "23-mar-2021",
+        "state": "future"
+    },
     "epfcfhtjxqd.com": {
         "epoch": 1617667200.0,
         "expiration_date": "06-apr-2021",
@@ -1950,8 +1955,8 @@
         "state": "future"
     },
     "filmapik.tv": {
-        "epoch": 1587340800.0,
-        "expiration_date": "20-apr-2020",
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
         "state": "future"
     },
     "filmbagus21.info": {
@@ -2062,6 +2067,11 @@
     "frereadayobq.com": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
+        "state": "future"
+    },
+    "frpiksdeygy.com": {
+        "epoch": 1619222400.0,
+        "expiration_date": "24-apr-2021",
         "state": "future"
     },
     "fruitlauncher.com": {
@@ -2375,8 +2385,8 @@
         "state": "future"
     },
     "hightech.web.id": {
-        "epoch": 1587340800.0,
-        "expiration_date": "20-apr-2020",
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
         "state": "future"
     },
     "higud.com": {
@@ -2415,8 +2425,8 @@
         "state": "future"
     },
     "hkfree.co": {
-        "epoch": 1587513600.0,
-        "expiration_date": "22-apr-2020",
+        "epoch": 1619049600.0,
+        "expiration_date": "22-apr-2021",
         "state": "future"
     },
     "hoegutvie.com": {
@@ -3380,8 +3390,8 @@
         "state": "future"
     },
     "layarkaca21.tv": {
-        "epoch": 1587340800.0,
-        "expiration_date": "20-apr-2020",
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
         "state": "future"
     },
     "layarkaca21.web.id": {
@@ -3720,8 +3730,8 @@
         "state": "future"
     },
     "mangaku.web.id": {
-        "epoch": 1587600000.0,
-        "expiration_date": "23-apr-2020",
+        "epoch": 1619136000.0,
+        "expiration_date": "23-apr-2021",
         "state": "future"
     },
     "mangalist.org": {
@@ -4415,9 +4425,9 @@
         "state": "future"
     },
     "nusareborn.in": {
-        "epoch": 1581206400.0,
-        "expiration_date": "09-feb-2020",
-        "state": "past"
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
+        "state": "future"
     },
     "nutabuse.com": {
         "epoch": 1589587200.0,
@@ -4560,8 +4570,8 @@
         "state": "future"
     },
     "overlordfree.web.id": {
-        "epoch": 1587600000.0,
-        "expiration_date": "23-apr-2020",
+        "epoch": 1619136000.0,
+        "expiration_date": "23-apr-2021",
         "state": "future"
     },
     "oxhax.com": {
