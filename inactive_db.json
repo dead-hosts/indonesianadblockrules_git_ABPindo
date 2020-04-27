@@ -112,6 +112,13 @@
             "last_retested_at_iso": "2020-04-26T23:08:21.692885",
             "status": "INACTIVE"
         },
+        "embed.dramacool.es": {
+            "included_at_epoch": 1587999955.965379,
+            "included_at_iso": "2020-04-27T15:05:55.965379",
+            "last_retested_at_epoch": 1587999955.965379,
+            "last_retested_at_iso": "2020-04-27T15:05:55.965379",
+            "status": "INACTIVE"
+        },
         "filmbagus21.web.id": {
             "included_at_epoch": 1587183728.0,
             "included_at_iso": "2020-04-18T04:22:08",
@@ -208,6 +215,13 @@
             "included_at_iso": "2020-04-17T14:10:52",
             "last_retested_at_epoch": 1587942511.166807,
             "last_retested_at_iso": "2020-04-26T23:08:31.166807",
+            "status": "INACTIVE"
+        },
+        "jogja.tribunnews.com": {
+            "included_at_epoch": 1587999951.195599,
+            "included_at_iso": "2020-04-27T15:05:51.195599",
+            "last_retested_at_epoch": 1587999951.195599,
+            "last_retested_at_iso": "2020-04-27T15:05:51.195599",
             "status": "INACTIVE"
         },
         "keripikcadas.com": {
