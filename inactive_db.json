@@ -238,6 +238,13 @@
             "last_retested_at_iso": "2020-04-26T23:36:48.094601",
             "status": "INACTIVE"
         },
+        "news-tech.xyz": {
+            "included_at_epoch": 1587959746.38351,
+            "included_at_iso": "2020-04-27T03:55:46.383510",
+            "last_retested_at_epoch": 1587959746.38351,
+            "last_retested_at_iso": "2020-04-27T03:55:46.383510",
+            "status": "INACTIVE"
+        },
         "nontonbox.tv": {
             "included_at_epoch": 1587188126.0,
             "included_at_iso": "2020-04-18T05:35:26",
