@@ -3644,6 +3644,11 @@
         "expiration_date": "29-apr-2020",
         "state": "future"
     },
+    "lopzitpup.com": {
+        "epoch": 1616457600.0,
+        "expiration_date": "23-mar-2021",
+        "state": "future"
+    },
     "lotospoker.com": {
         "epoch": 1607299200.0,
         "expiration_date": "07-dec-2020",
