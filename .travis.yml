@@ -6,7 +6,6 @@ env:
     global:
     -   GIT_NAME: Travis CI
     -   GIT_EMAIL: dead-hosts@funilrys.com
-    -   TRAVIS_REPO_SLUG: dead-hosts/indonesianadblockrules_git_ABPindo
     -   GIT_BRANCH: master
     -   secure: pAdul3GUbEk6P++MWn4Wu7STcXQWaJpn86Ttuu2BuhH9dxz7uRMQtqECJjdk6OBca9BA0x8TmY5gTc2G+Q+7oJImYi9OdSSH6P+vPgQPWvqd5lLFpKsiv5XeUUFl9EBWsJgQ3L7ZhV6u2UYbmCsRwuNqUUMnbg9pFiUkKmqbAtnmpiarLSH9rcqZC+ekM48ctS1n/jn+ss87XlHfKUBtyokpGEKIr++z1D+EQHsRDpY7nUX39LKyQ6jQRtH7S3gCb2o9/8kOTWTTFTmMe1L11Hhjr+3RIyi1vDLAu6ej2PyQ3liFWiJJOatoMgVcSJffxBqvII5MWKZgqouXMpoNEKDM5klMI0Agu2Ii8cwms2C4HLHnx1IpzcP3vd4f1KDOQc+I/cPwDWBE8qcoMfOa0PpONbA4Cg2wxoJDywampoAc1lAgsvI+4loFr4qWgjgaeN1F8CCooJZ8Me0K4se7RsfmSzM6M/mVO8vBhDSuWte5IFTWOF+7Vd4D5NHpr6fhRwSZvIELrP+g/Zku0EXebcawrFzpXFeEOHH9+vgxTWtf2qLdvHgOlHdK5HNk8JkEDl3i2aVhKfT2be8GdzkCd/D6Y+gpZ4pSoNoXDrw6XmKXoI9okr7K6a7W6LlGu+LeGKijzLlj9pKUpci7hi623h1ra2/uVU0SGfiICVq2/5g=
     matrix:
@@ -30,7 +29,7 @@ notifications:
         on_failure: always
         on_success: never
         recipients:
-        - dead-hosts@funilrys.com
+        - dead-hosts@outlook.com
 os:
 - linux
 script:
