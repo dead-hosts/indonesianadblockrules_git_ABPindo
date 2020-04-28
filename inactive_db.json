@@ -210,13 +210,6 @@
             "last_retested_at_iso": "2020-04-28T00:19:28.239317",
             "status": "INACTIVE"
         },
-        "jogja.tribunnews.com": {
-            "included_at_epoch": 1587999951.195599,
-            "included_at_iso": "2020-04-27T15:05:51.195599",
-            "last_retested_at_epoch": 1587999951.195599,
-            "last_retested_at_iso": "2020-04-27T15:05:51.195599",
-            "status": "INACTIVE"
-        },
         "keripikcadas.com": {
             "included_at_epoch": 1587188126.0,
             "included_at_iso": "2020-04-18T05:35:26",
