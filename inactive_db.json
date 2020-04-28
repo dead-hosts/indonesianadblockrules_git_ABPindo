@@ -112,13 +112,6 @@
             "last_retested_at_iso": "2020-04-28T00:19:18.742106",
             "status": "INACTIVE"
         },
-        "embed.dramacool.es": {
-            "included_at_epoch": 1587999955.965379,
-            "included_at_iso": "2020-04-27T15:05:55.965379",
-            "last_retested_at_epoch": 1587999955.965379,
-            "last_retested_at_iso": "2020-04-27T15:05:55.965379",
-            "status": "INACTIVE"
-        },
         "filmbagus21.web.id": {
             "included_at_epoch": 1587183728.0,
             "included_at_iso": "2020-04-18T04:22:08",
