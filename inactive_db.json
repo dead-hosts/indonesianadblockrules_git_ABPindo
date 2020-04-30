@@ -329,6 +329,13 @@
             "last_retested_at_iso": "2020-04-30T12:34:06.062344",
             "status": "INACTIVE"
         },
+        "track.zerofriend.com": {
+            "included_at_epoch": 1588256798.040996,
+            "included_at_iso": "2020-04-30T14:26:38.040996",
+            "last_retested_at_epoch": 1588256798.040996,
+            "last_retested_at_iso": "2020-04-30T14:26:38.040996",
+            "status": "INACTIVE"
+        },
         "tracker.lazada.co.id": {
             "included_at_epoch": 1587188125.0,
             "included_at_iso": "2020-04-18T05:35:25",
