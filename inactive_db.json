@@ -402,8 +402,8 @@
         "www1.lk-21.me": {
             "included_at_epoch": 1587944208.491422,
             "included_at_iso": "2020-04-26T23:36:48.491422",
-            "last_retested_at_epoch": 1588124473.859602,
-            "last_retested_at_iso": "2020-04-29T01:41:13.859602",
+            "last_retested_at_epoch": 1588267764.428166,
+            "last_retested_at_iso": "2020-04-30T17:29:24.428166",
             "status": "INACTIVE"
         },
         "zonapanaz.net": {
