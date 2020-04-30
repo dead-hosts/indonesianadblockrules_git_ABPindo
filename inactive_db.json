@@ -17,8 +17,8 @@
         "128.199.232.232": {
             "included_at_epoch": 1586415642.0,
             "included_at_iso": "2020-04-09T07:00:42",
-            "last_retested_at_epoch": 1588124471.775485,
-            "last_retested_at_iso": "2020-04-29T01:41:11.775485",
+            "last_retested_at_epoch": 1588253604.581179,
+            "last_retested_at_iso": "2020-04-30T13:33:24.581179",
             "status": "INACTIVE"
         },
         "173.199.167.192": {
@@ -129,8 +129,8 @@
         "filmterbaru.id": {
             "included_at_epoch": 1587944207.861784,
             "included_at_iso": "2020-04-26T23:36:47.861784",
-            "last_retested_at_epoch": 1588124473.216768,
-            "last_retested_at_iso": "2020-04-29T01:41:13.216768",
+            "last_retested_at_epoch": 1588253606.057798,
+            "last_retested_at_iso": "2020-04-30T13:33:26.057798",
             "status": "INACTIVE"
         },
         "fnkyyrgraizy.com": {
@@ -227,15 +227,22 @@
         "lk-21.me": {
             "included_at_epoch": 1587944208.079523,
             "included_at_iso": "2020-04-26T23:36:48.079523",
-            "last_retested_at_epoch": 1588124473.449499,
-            "last_retested_at_iso": "2020-04-29T01:41:13.449499",
+            "last_retested_at_epoch": 1588253606.31157,
+            "last_retested_at_iso": "2020-04-30T13:33:26.311570",
             "status": "INACTIVE"
         },
         "lk21indo.co": {
             "included_at_epoch": 1587944208.094601,
             "included_at_iso": "2020-04-26T23:36:48.094601",
-            "last_retested_at_epoch": 1588124473.465195,
-            "last_retested_at_iso": "2020-04-29T01:41:13.465195",
+            "last_retested_at_epoch": 1588253606.314677,
+            "last_retested_at_iso": "2020-04-30T13:33:26.314677",
+            "status": "INACTIVE"
+        },
+        "news-tech.xyz": {
+            "included_at_epoch": 1588253594.757543,
+            "included_at_iso": "2020-04-30T13:33:14.757543",
+            "last_retested_at_epoch": 1588253594.757543,
+            "last_retested_at_iso": "2020-04-30T13:33:14.757543",
             "status": "INACTIVE"
         },
         "nontonbox.tv": {
@@ -248,8 +255,8 @@
         "nontondramaonline.net": {
             "included_at_epoch": 1586906519.0,
             "included_at_iso": "2020-04-14T23:21:59",
-            "last_retested_at_epoch": 1588124471.5269,
-            "last_retested_at_iso": "2020-04-29T01:41:11.526900",
+            "last_retested_at_epoch": 1588253604.321351,
+            "last_retested_at_iso": "2020-04-30T13:33:24.321351",
             "status": "INACTIVE"
         },
         "ns21.*": {
@@ -290,15 +297,15 @@
         "sashahillfilm.com": {
             "included_at_epoch": 1587944207.666896,
             "included_at_iso": "2020-04-26T23:36:47.666896",
-            "last_retested_at_epoch": 1588124473.006732,
-            "last_retested_at_iso": "2020-04-29T01:41:13.006732",
+            "last_retested_at_epoch": 1588253605.857705,
+            "last_retested_at_iso": "2020-04-30T13:33:25.857705",
             "status": "INACTIVE"
         },
         "satujiwa.net": {
             "included_at_epoch": 1587944207.669476,
             "included_at_iso": "2020-04-26T23:36:47.669476",
-            "last_retested_at_epoch": 1588124473.009593,
-            "last_retested_at_iso": "2020-04-29T01:41:13.009593",
+            "last_retested_at_epoch": 1588253605.854523,
+            "last_retested_at_iso": "2020-04-30T13:33:25.854523",
             "status": "INACTIVE"
         },
         "scriptall.ml": {
@@ -360,8 +367,8 @@
         "www.kazefuri.web.id": {
             "included_at_epoch": 1587944206.686628,
             "included_at_iso": "2020-04-26T23:36:46.686628",
-            "last_retested_at_epoch": 1588124473.546766,
-            "last_retested_at_iso": "2020-04-29T01:41:13.546766",
+            "last_retested_at_epoch": 1588253606.394893,
+            "last_retested_at_iso": "2020-04-30T13:33:26.394893",
             "status": "INACTIVE"
         },
         "www.kricom.id": {
@@ -374,8 +381,8 @@
         "www.nontondramas.net": {
             "included_at_epoch": 1586317557.0,
             "included_at_iso": "2020-04-08T03:45:57",
-            "last_retested_at_epoch": 1588124472.228586,
-            "last_retested_at_iso": "2020-04-29T01:41:12.228586",
+            "last_retested_at_epoch": 1588253605.027981,
+            "last_retested_at_iso": "2020-04-30T13:33:25.027981",
             "status": "INACTIVE"
         },
         "www.streamingbokeps.co": {
