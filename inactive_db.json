@@ -143,8 +143,8 @@
         "forums.mangafox.me": {
             "included_at_epoch": 1587944208.910669,
             "included_at_iso": "2020-04-26T23:36:48.910669",
-            "last_retested_at_epoch": 1588132322.253177,
-            "last_retested_at_iso": "2020-04-29T03:52:02.253177",
+            "last_retested_at_epoch": 1588286790.846857,
+            "last_retested_at_iso": "2020-04-30T22:46:30.846857",
             "status": "INACTIVE"
         },
         "ganoollk21.info": {
