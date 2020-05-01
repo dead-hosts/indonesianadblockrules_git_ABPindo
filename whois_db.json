@@ -1905,8 +1905,8 @@
         "state": "future"
     },
     "fastdrama.co": {
-        "epoch": 1588291200.0,
-        "expiration_date": "01-may-2020",
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
         "state": "future"
     },
     "fb21.tv": {
@@ -2425,8 +2425,8 @@
         "state": "future"
     },
     "hitadsmedia.com": {
-        "epoch": 1588291200.0,
-        "expiration_date": "01-may-2020",
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
         "state": "future"
     },
     "hjtowin.online": {
@@ -3367,7 +3367,7 @@
     "lapar.com": {
         "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "launchpoker.com": {
         "epoch": 1593302400.0,
@@ -4287,7 +4287,7 @@
     "nontondramaseri.com": {
         "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "nontonfilm21.club": {
         "epoch": 1582070400.0,
