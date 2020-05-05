@@ -767,7 +767,7 @@
     "axzsd.pro": {
         "epoch": 1588636800.0,
         "expiration_date": "05-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "ayononton.co": {
         "epoch": 1606089600.0,
@@ -1795,8 +1795,8 @@
         "state": "future"
     },
     "duniafilm21.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "duniaku.net": {
@@ -2380,8 +2380,8 @@
         "state": "future"
     },
     "harianjogja.com": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "hasiltogel.club": {
@@ -2405,8 +2405,8 @@
         "state": "future"
     },
     "hegarberetrof.pro": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "hentai2read.com": {
@@ -2695,8 +2695,8 @@
         "state": "future"
     },
     "iklanhoki.com": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "iklaninter.net": {
@@ -3440,9 +3440,9 @@
         "state": "future"
     },
     "lapar.com": {
-        "epoch": 1588291200.0,
-        "expiration_date": "01-may-2020",
-        "state": "past"
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
+        "state": "future"
     },
     "launchpoker.com": {
         "epoch": 1593302400.0,
@@ -4360,9 +4360,9 @@
         "state": "future"
     },
     "nontondramaseri.com": {
-        "epoch": 1588291200.0,
-        "expiration_date": "01-may-2020",
-        "state": "past"
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
+        "state": "future"
     },
     "nontonfilm21.club": {
         "epoch": 1582070400.0,
@@ -5185,8 +5185,8 @@
         "state": "future"
     },
     "pwbjlbz.com": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "q1xyxm89.com": {
@@ -6470,8 +6470,8 @@
         "state": "past"
     },
     "webiklan.com": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "webjudionline.com": {
