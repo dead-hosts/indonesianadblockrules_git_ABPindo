@@ -1045,8 +1045,8 @@
         "state": "future"
     },
     "bioskopkeren.xyz": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "bioskopkerenin.com": {
@@ -1410,9 +1410,9 @@
         "state": "future"
     },
     "clownsong.com": {
-        "epoch": 1588291200.0,
-        "expiration_date": "01-may-2020",
-        "state": "past"
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
+        "state": "future"
     },
     "cmovieshd.se": {
         "epoch": 1605830400.0,
@@ -1470,8 +1470,8 @@
         "state": "future"
     },
     "dadparty.com": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "daero.pw": {
@@ -1615,8 +1615,8 @@
         "state": "future"
     },
     "dewitogel.com": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "dewsburg.info": {
@@ -1965,8 +1965,8 @@
         "state": "future"
     },
     "fifacash88c.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "file.rocks": {
@@ -2370,8 +2370,8 @@
         "state": "future"
     },
     "hai2u.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "harakahdaily.net": {
@@ -4795,8 +4795,8 @@
         "state": "future"
     },
     "phonejapan.com": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "phudrour.net": {
@@ -5392,7 +5392,7 @@
     "sahabat-arena.net": {
         "epoch": 1588636800.0,
         "expiration_date": "05-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "sajjadali.com": {
         "epoch": 1591315200.0,
@@ -5690,8 +5690,8 @@
         "state": "future"
     },
     "sourmath.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "sporcle.com": {
@@ -5705,8 +5705,8 @@
         "state": "future"
     },
     "sq881sq.com": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "star88win.net": {
