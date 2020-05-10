@@ -765,9 +765,9 @@
         "state": "future"
     },
     "axzsd.pro": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
-        "state": "past"
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
+        "state": "future"
     },
     "ayononton.co": {
         "epoch": 1606089600.0,
@@ -965,8 +965,8 @@
         "state": "future"
     },
     "bioskop21.co": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
         "state": "future"
     },
     "bioskop212.net": {
@@ -1720,8 +1720,8 @@
         "state": "future"
     },
     "dramaqu.net": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "dramaserial.xyz": {
@@ -1792,7 +1792,7 @@
     "dunia21tv.com": {
         "epoch": 1589068800.0,
         "expiration_date": "10-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "duniafilm21.com": {
         "epoch": 1620000000.0,
@@ -3165,8 +3165,8 @@
         "state": "future"
     },
     "juraganmovie.net": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "juragantomatx.com": {
@@ -3815,8 +3815,8 @@
         "state": "future"
     },
     "mangaku.in": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1652140800.0,
+        "expiration_date": "10-may-2022",
         "state": "future"
     },
     "mangaku.web.id": {
@@ -4365,9 +4365,9 @@
         "state": "future"
     },
     "nontonfilm21.club": {
-        "epoch": 1582070400.0,
-        "expiration_date": "19-feb-2020",
-        "state": "past"
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
+        "state": "future"
     },
     "nontonfilm77.com": {
         "epoch": 1589328000.0,
@@ -4725,8 +4725,8 @@
         "state": "future"
     },
     "pantauterus.me": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
         "state": "future"
     },
     "paraedu.id": {
@@ -6382,6 +6382,11 @@
     "uploadboy.com": {
         "epoch": 1634601600.0,
         "expiration_date": "19-oct-2021",
+        "state": "future"
+    },
+    "urt7bpvfz4am.com": {
+        "epoch": 1619654400.0,
+        "expiration_date": "29-apr-2021",
         "state": "future"
     },
     "useads.com": {
