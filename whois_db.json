@@ -55,13 +55,13 @@
         "state": "future"
     },
     "1priest1nun.com": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "1priest1nun.net": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1652659200.0,
+        "expiration_date": "16-may-2022",
         "state": "future"
     },
     "21filem.co": {
@@ -207,6 +207,11 @@
     "99doyan.com": {
         "epoch": 1610236800.0,
         "expiration_date": "10-jan-2021",
+        "state": "future"
+    },
+    "99rolet.net": {
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
         "state": "future"
     },
     "9eb10b7a3d04a.com": {
@@ -1110,8 +1115,8 @@
         "state": "future"
     },
     "bltks.club": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
         "state": "future"
     },
     "bluewaffle.biz": {
@@ -1180,8 +1185,8 @@
         "state": "future"
     },
     "bolatks.club": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
         "state": "future"
     },
     "bottleguy.com": {
@@ -1190,8 +1195,8 @@
         "state": "future"
     },
     "bowlgirl.com": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "bukaipo.com": {
@@ -2230,9 +2235,9 @@
         "state": "future"
     },
     "gelorajiwaseks.com": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
-        "state": "past"
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
+        "state": "future"
     },
     "gembelcit.net": {
         "epoch": 1620691200.0,
@@ -2627,7 +2632,7 @@
     "idxxi.co": {
         "epoch": 1589673600.0,
         "expiration_date": "17-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "idxxx1.com": {
         "epoch": 1601683200.0,
@@ -2737,6 +2742,11 @@
     "indobanner.com": {
         "epoch": 1612224000.0,
         "expiration_date": "02-feb-2021",
+        "state": "future"
+    },
+    "indobet77.pro": {
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "indobokep.pro": {
@@ -3115,8 +3125,8 @@
         "state": "future"
     },
     "judibolacasino.com": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
         "state": "future"
     },
     "judiboladunia.com": {
@@ -3525,9 +3535,9 @@
         "state": "future"
     },
     "ld2tv.com": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
-        "state": "past"
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
+        "state": "future"
     },
     "ld2tv.me": {
         "epoch": 1609286400.0,
@@ -3640,8 +3650,8 @@
         "state": "future"
     },
     "lk21.rip": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
         "state": "future"
     },
     "lk21.tv": {
@@ -3705,8 +3715,8 @@
         "state": "future"
     },
     "lolhello.com": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "lolshock.com": {
@@ -3775,8 +3785,8 @@
         "state": "future"
     },
     "macory.com": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "magic4you.nu": {
@@ -4520,8 +4530,8 @@
         "state": "future"
     },
     "nutabuse.com": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "nztoto.com": {
@@ -4777,6 +4787,11 @@
     "peevopoy.com": {
         "epoch": 1612915200.0,
         "expiration_date": "10-feb-2021",
+        "state": "future"
+    },
+    "pelakor.org": {
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
         "state": "future"
     },
     "pemburujanda.net": {
@@ -5257,7 +5272,7 @@
     "rajatogel.biz": {
         "epoch": 1589846400.0,
         "expiration_date": "19-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "rajatogel.com": {
         "epoch": 1595980800.0,
@@ -5735,8 +5750,8 @@
         "state": "future"
     },
     "suckdude.com": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "sukajudibola.com": {
@@ -6269,6 +6284,11 @@
         "expiration_date": "04-apr-2020",
         "state": "future"
     },
+    "toyoqq88.net": {
+        "epoch": 1601769600.0,
+        "expiration_date": "04-oct-2020",
+        "state": "future"
+    },
     "trackdan.com": {
         "epoch": 1606089600.0,
         "expiration_date": "23-nov-2020",
@@ -6325,8 +6345,8 @@
         "state": "future"
     },
     "turdgasm.com": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "tvkabel.net": {
