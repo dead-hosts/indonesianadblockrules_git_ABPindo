@@ -1520,9 +1520,9 @@
         "state": "future"
     },
     "dairouzy.net": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
-        "state": "past"
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
+        "state": "future"
     },
     "daizurin.com": {
         "epoch": 1596758400.0,
@@ -1990,8 +1990,8 @@
         "state": "future"
     },
     "film21terbaru.org": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
         "state": "future"
     },
     "filmace21.net": {
@@ -2837,7 +2837,7 @@
     "indoxx1.club": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "indoxx1.co": {
         "epoch": 1613088000.0,
@@ -2970,8 +2970,8 @@
         "state": "future"
     },
     "jagoiklan.com": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "jagopoker.com": {
@@ -3225,8 +3225,8 @@
         "state": "future"
     },
     "kampus.us": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
         "state": "future"
     },
     "kapanlagi.com": {
@@ -3242,7 +3242,7 @@
     "kaskus.com": {
         "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "katurars.com": {
         "epoch": 1612051200.0,
@@ -3290,8 +3290,8 @@
         "state": "future"
     },
     "keepimg.com": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "kertashitam.com": {
@@ -4572,6 +4572,11 @@
     "oktavita.com": {
         "epoch": 1603152000.0,
         "expiration_date": "20-oct-2020",
+        "state": "future"
+    },
+    "olkrzytv.com": {
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "olmsoneenh.info": {
