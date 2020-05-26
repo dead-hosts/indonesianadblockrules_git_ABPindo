@@ -12376,6 +12376,13 @@
             "last_retested_at_iso": "2020-05-25T23:10:18.916444",
             "status": "INACTIVE"
         },
+        "www.kricom.id": {
+            "included_at_epoch": 1590490635.90851,
+            "included_at_iso": "2020-05-26T10:57:15.908510",
+            "last_retested_at_epoch": 1590490635.90851,
+            "last_retested_at_iso": "2020-05-26T10:57:15.908510",
+            "status": "INACTIVE"
+        },
         "www.nontondramas.net": {
             "included_at_epoch": 1589151512.279969,
             "included_at_iso": "2020-05-10T22:58:32.279969",
