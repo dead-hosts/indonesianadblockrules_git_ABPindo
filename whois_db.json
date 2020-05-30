@@ -1355,8 +1355,8 @@
         "state": "future"
     },
     "cinema-indo.web.id": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
         "state": "future"
     },
     "cinema007.com": {
@@ -1575,8 +1575,8 @@
         "state": "future"
     },
     "detik.com": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "detroithardcore.com": {
@@ -1912,6 +1912,11 @@
     "eramuslim.com": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
+        "state": "future"
+    },
+    "estoopsi.com": {
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
         "state": "future"
     },
     "etoads.net": {
@@ -2542,6 +2547,11 @@
     "homewares.org": {
         "epoch": 1605052800.0,
         "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
+    "hosillfir.site": {
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
         "state": "future"
     },
     "hotabis.com": {
@@ -3282,6 +3292,11 @@
     "kawanfilm21.pro": {
         "epoch": 1620432000.0,
         "expiration_date": "08-may-2021",
+        "state": "future"
+    },
+    "kazefuri.me": {
+        "epoch": 1597104000.0,
+        "expiration_date": "11-aug-2020",
         "state": "future"
     },
     "kazefuri.web.id": {
@@ -4275,9 +4290,9 @@
         "state": "future"
     },
     "news-tech.xyz": {
-        "epoch": 1586908800.0,
-        "expiration_date": "15-apr-2020",
-        "state": "past"
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
+        "state": "future"
     },
     "newsupdatewe.info": {
         "epoch": 1626480000.0,
@@ -4745,8 +4760,8 @@
         "state": "future"
     },
     "palingseru.com": {
-        "epoch": 1590537600.0,
-        "expiration_date": "27-may-2020",
+        "epoch": 1653609600.0,
+        "expiration_date": "27-may-2022",
         "state": "future"
     },
     "panduanjudionline.com": {
@@ -5527,6 +5542,11 @@
     "sejutafilm.com": {
         "epoch": 1616457600.0,
         "expiration_date": "23-mar-2021",
+        "state": "future"
+    },
+    "selebsquad.com": {
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
         "state": "future"
     },
     "selfpwn.org": {
@@ -6685,8 +6705,8 @@
         "state": "future"
     },
     "ys3e965d.top": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
         "state": "future"
     },
     "ytssubtitles.com": {
