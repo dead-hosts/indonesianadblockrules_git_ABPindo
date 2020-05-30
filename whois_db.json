@@ -992,7 +992,7 @@
     "bioskop45.com": {
         "epoch": 1590796800.0,
         "expiration_date": "30-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "bioskop55.club": {
         "epoch": 1614470400.0,
@@ -2377,6 +2377,11 @@
     "gudangmovies21.cc": {
         "epoch": 1620604800.0,
         "expiration_date": "10-may-2021",
+        "state": "future"
+    },
+    "gudangpemain.com": {
+        "epoch": 1596067200.0,
+        "expiration_date": "30-jul-2020",
         "state": "future"
     },
     "gurusd.web.id": {
@@ -4200,8 +4205,8 @@
         "state": "future"
     },
     "nagapoker88.com": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "nagatogel.com": {
