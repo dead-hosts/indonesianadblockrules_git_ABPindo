@@ -1204,6 +1204,11 @@
         "expiration_date": "16-may-2021",
         "state": "future"
     },
+    "budiarto.id": {
+        "epoch": 1605312000.0,
+        "expiration_date": "14-nov-2020",
+        "state": "future"
+    },
     "bukaipo.com": {
         "epoch": 1619136000.0,
         "expiration_date": "23-apr-2021",
@@ -1357,6 +1362,11 @@
     "cinema-indo.web.id": {
         "epoch": 1622246400.0,
         "expiration_date": "29-may-2021",
+        "state": "future"
+    },
+    "cinema-mkv.com": {
+        "epoch": 1616976000.0,
+        "expiration_date": "29-mar-2021",
         "state": "future"
     },
     "cinema007.com": {
@@ -1614,6 +1624,11 @@
         "expiration_date": "02-nov-2021",
         "state": "future"
     },
+    "dewanonton.vip": {
+        "epoch": 1600732800.0,
+        "expiration_date": "22-sep-2020",
+        "state": "future"
+    },
     "dewanontons.com": {
         "epoch": 1611792000.0,
         "expiration_date": "28-jan-2021",
@@ -1650,8 +1665,8 @@
         "state": "future"
     },
     "doathair.com": {
-        "epoch": 1591056000.0,
-        "expiration_date": "02-jun-2020",
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
         "state": "future"
     },
     "dollaropoker.com": {
@@ -3375,8 +3390,8 @@
         "state": "future"
     },
     "klikseru.com": {
-        "epoch": 1591142400.0,
-        "expiration_date": "03-jun-2020",
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
         "state": "future"
     },
     "koin4da.com": {
@@ -3690,8 +3705,8 @@
         "state": "future"
     },
     "lk21.tv": {
-        "epoch": 1591056000.0,
-        "expiration_date": "02-jun-2020",
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
         "state": "future"
     },
     "lk21.web.id": {
@@ -6040,8 +6055,8 @@
         "state": "future"
     },
     "terafile.net": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
         "state": "future"
     },
     "terasjakarta.id": {
@@ -6750,8 +6765,8 @@
         "state": "future"
     },
     "zonawibu.me": {
-        "epoch": 1591142400.0,
-        "expiration_date": "03-jun-2020",
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
         "state": "future"
     },
     "zukxd6fkxqn.com": {
