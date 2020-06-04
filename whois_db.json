@@ -990,9 +990,9 @@
         "state": "future"
     },
     "bioskop45.com": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
-        "state": "past"
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
+        "state": "future"
     },
     "bioskop55.club": {
         "epoch": 1614470400.0,
@@ -1075,9 +1075,9 @@
         "state": "future"
     },
     "bioskopxx1.com": {
-        "epoch": 1583971200.0,
-        "expiration_date": "12-mar-2020",
-        "state": "past"
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
+        "state": "future"
     },
     "bioskopxxi.net": {
         "epoch": 1610150400.0,
@@ -2030,8 +2030,8 @@
         "state": "future"
     },
     "filmace21.net": {
-        "epoch": 1591056000.0,
-        "expiration_date": "02-jun-2020",
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
         "state": "future"
     },
     "filmapik.tv": {
@@ -3047,6 +3047,11 @@
     "japscat.org": {
         "epoch": 1617580800.0,
         "expiration_date": "05-apr-2021",
+        "state": "future"
+    },
+    "jaridewa.com": {
+        "epoch": 1604275200.0,
+        "expiration_date": "02-nov-2020",
         "state": "future"
     },
     "jarsquatter.com": {
@@ -4429,6 +4434,11 @@
         "expiration_date": "12-mar-2021",
         "state": "future"
     },
+    "nontondramaonline.net": {
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
+        "state": "future"
+    },
     "nontondramaseri.com": {
         "epoch": 1619827200.0,
         "expiration_date": "01-may-2021",
@@ -5034,6 +5044,11 @@
         "expiration_date": "22-aug-2021",
         "state": "future"
     },
+    "pokerjenius.net": {
+        "epoch": 1598140800.0,
+        "expiration_date": "23-aug-2020",
+        "state": "future"
+    },
     "pokerkings.com": {
         "epoch": 1597017600.0,
         "expiration_date": "10-aug-2020",
@@ -5195,8 +5210,8 @@
         "state": "future"
     },
     "pressurespot.com": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "primbon.com": {
@@ -5355,9 +5370,9 @@
         "state": "future"
     },
     "rajatogel.biz": {
-        "epoch": 1589846400.0,
-        "expiration_date": "19-may-2020",
-        "state": "past"
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
+        "state": "future"
     },
     "rajatogel.com": {
         "epoch": 1595980800.0,
@@ -6225,8 +6240,8 @@
         "state": "future"
     },
     "togelcenter.com": {
-        "epoch": 1581379200.0,
-        "expiration_date": "11-feb-2020",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "togelholic.com": {
@@ -6685,8 +6700,8 @@
         "state": "future"
     },
     "yellaface.com": {
-        "epoch": 1591056000.0,
-        "expiration_date": "02-jun-2020",
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
         "state": "future"
     },
     "yesads.com": {
