@@ -63,13 +63,6 @@
             "last_retested_at_iso": "2020-06-04T22:55:37.818192",
             "status": "INACTIVE"
         },
-        "128.199.232.232": {
-            "included_at_epoch": 1589151511.937822,
-            "included_at_iso": "2020-05-10T22:58:31.937822",
-            "last_retested_at_epoch": 1591311337.842882,
-            "last_retested_at_iso": "2020-06-04T22:55:37.842882",
-            "status": "INACTIVE"
-        },
         "128cash.": {
             "included_at_epoch": 1590879164.345481,
             "included_at_iso": "2020-05-30T22:52:44.345481",
@@ -12367,13 +12360,6 @@
             "included_at_iso": "2020-05-20T22:39:38.605872",
             "last_retested_at_epoch": 1591310732.177407,
             "last_retested_at_iso": "2020-06-04T22:45:32.177407",
-            "status": "INACTIVE"
-        },
-        "www.nontondramas.net": {
-            "included_at_epoch": 1589151512.279969,
-            "included_at_iso": "2020-05-10T22:58:32.279969",
-            "last_retested_at_epoch": 1591311338.13714,
-            "last_retested_at_iso": "2020-06-04T22:55:38.137140",
             "status": "INACTIVE"
         },
         "www.permainanvip.com": {
