@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202006061347
+! Version: 202006130843
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 06 Jun 2020 13:47 UTC
+! Last modified: 13 Jun 2020 08:43 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -355,6 +355,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||bioskopxxi.*/wp-content/uploads/*.gif$image
 ||bp.blogspot.com/*.gif$image,domain=animeindo.moe|anoboy.org|anoboy.video|awnime.net|awsubs.co|awsubs.tv|bioskopgalaxy21.com|bioskoptigalima.com|bokepman.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.tv|drakorindofilms.net|duniasex.ws|dwanonton.com|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|idkomik.com|juragantomatx.com|kawanfilm21.org|kawanfilm21.pro|kazefuri.me|kazefuri.web.id|kombatch.com|komikcast.com|lapakfilm.club|layarkeren.com|layarkeren.info|layarkeren.xyz|layarmovie21.co|mangaindo.net|mangashiro.co|movie303.com|movie76.net|moviebaru21.com|neonime.com|neonime.net|neumanga.tv|nonton-streaming.com|nonton.club|nonton33.com|nonton33.net|nonton33.org|nonton33.tv|nontonbp.com|nontondrama.me|nontonfilm.mobi|nontonfilm21.club|nontonin.co|nontonmovie33.net|satujiwa.org|senimovies.net|smallencode.com|unyil.org|www.lk21id.com|zonabola.com
 ||bp.blogspot.com/*/iklan_landscape.jpg$image,domain=mangacanblog.com
+||budiarto.id/bausastra/assets/img/*.jpg
 ||budiarto.id/bausastra/assets/img/banner
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
@@ -372,6 +373,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||cinemaindo.web.id/temane/aa/ada.js?id=1461751640199$script
 ||cinemaqq.*/wp-content/uploads/*.gif$image
 ||cinemastar21.*/wp-content/uploads/*.gif$image
+||cldom.com^$xhr,domain=kurina.vip
 ||coblos.net/*.swf$domain=bintangmawar.net
 ||comotin.com/wp-content/uploads/*.gif$image
 ||detik.com/images/banners/
@@ -424,6 +426,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||ganool.my.id/wp-content/uploads/2016/05/download-button.gif
 ||gerwen.info^$popup,domain=ganool.is|ganool.ph
 ||gets.kadal.club/js/getlinkz.js$script,domain=www.alex71.com
+||gm21.xyz/wp-content/uploads/*.gif$image,~third-party
 ||gmovies.org/wp-content/uploads/*.gif$image
 ||grandxxi.*/img/banner/*.gif$image
 ||gsshop.co.id^*/background/banner-
@@ -551,6 +554,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||nt1.co/js/jquery.floating_popup.$script
 ||numpanglewat.com^$third-party
 ||numpangnonton.*/wp-content/uploads/*.gif$image
+||pakbos21.org/wp-content/uploads/*.gif$image,~third-party
 ||pastebin.com/raw/*$script,domain=tokubatch.com
 ||pergi.klik-link.us/wpsafelink.js$script,domain=www.kazefuri.web.id
 ||playwebgame.com/banner/$third-party
@@ -559,6 +563,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||pwbjlbz.com^$domain=kompas.com
 ||resep.web.id/banner/
 ||rikucan.com/wp-content/themes/mh-magazine-lite/js/looping.js
+||sdk.ian029dkl3osl930sian.club/mango.js$script
 ||semi168.*/wp-content/uploads/*.gif$image
 ||semuaberita.com/banner/
 ||senimovies.*/wp-content/uploads/*.gif$image
@@ -592,6 +597,9 @@ $xmlhttprequest,domain=mangacanblog.com
 ||zonawibu.me/data/ngentod.js$script,domain=zonawibu.cc
 ! *** abpindo:src/advert/snippet _adblockplus.txt ***
 ! Snippet filters for Adblock Plus 3.3 (https://help.eyeo.com/adblockplus/snippet-filters-tutorial)
+kurina.vip,mangacanblog.com#$#abort-current-inline-script Math zfgloaded
+animeindo.moe#$#abort-on-property-read AaDetector
+animeindo.moe#$#abort-on-property-read popjs.init
 bagas31.info#$#abort-on-property-write atob
 ! *** abpindo:src/advert/scriptlet_ublock.txt ***
 ! Scriptlets filters for uBlock (https://github.com/gorhill/uBlock/wiki/Resources-Library)
@@ -707,6 +715,7 @@ teknorizen.*##+js(set, safelink.adblock, false)
 @@||cinemamkv.net^$generichide
 @@||digitalponsel.com^$elemhide
 @@||directedlink.net^$generichide
+@@||dramaencode.com^$generichide
 @@||dukun-cit.com^$generichide
 @@||eirudo.com^$generichide
 @@||gadget2reviews.com^$generichide
@@ -749,6 +758,7 @@ teknorizen.*##+js(set, safelink.adblock, false)
 @@||njiir.com^$generichide
 @@||novelgo.id^$generichide
 @@||omahkpop.com^$generichide
+@@||oploverz.in^$generichide
 @@||otakuindo.net^$generichide
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ad4msan.win|animenyus.com|animexin.jin-7.com|belajarbro.id|datasekolah.co.id|dukun-cit.com|illyasave.com|indozone.me|lewat.club|modecepat.com|sedot.link|www.infolokerserang.com|www.nekopoi.web.id|www.pugam.com
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
@@ -1086,7 +1096,7 @@ www.komikstation.com###floatbanner
 nontonsini.com###floatbawah
 lk21.host###floatbot
 sinemaindo.web.id###floatbtmleft
-animexin.xyz,awsubs.co###floatcenter
+149.28.158.117,animexin.xyz,awsubs.co###floatcenter
 ganool.web.id###floating_ads_bottom_textcss2
 idxxx1.com,sukamovie.club###floating_ads_bottom_textcss_ad
 idxxx1.com###floating_ads_bottom_textcss_wrap
@@ -1365,6 +1375,7 @@ kompas.com##.clearfix.kcm__tower.kcm
 www.mivo.com##.clearfix.top-ads
 tempo.co##.closebanner1
 tempo.co##.closebanner2
+inidramaku.net##.cm-popup-modal
 windowsreport.com##.code-block-3.code-block
 www.dream.co.id##.col-banner
 ganool.is,ganool.ph,ganool.se,ganool.st##.col-xs-12.col-md-6.col-lg-6
@@ -1424,6 +1435,7 @@ www.kabargames.id##.legend_banner-container
 b201.info##.lenyap
 belapendidikan.com##.majalahpro-core-floatbanner
 www.smartphoneku.com##.margin-right-40.left.pullquotes
+mangacanblog.com##.mas_tamvan
 nontonbokeps.com##.mask-ads
 dream.co.id##.masonry-brick.drm-banner-x.drm-artikel:nth-of-type(3)
 dapurpacu.com##.mid-banner
@@ -1518,6 +1530,7 @@ neonime.net##[data-src^="https://neonime.net/wp-content/"]:xpath(..)
 omberbagi.com##[href$="/omberbagi"]
 nontoncinema.org##[href$="/referral/nontoncinema"]
 sukamovie.club##[href$="/sukamovieclub"]
+pakbos21.org##[href="//dumbpop.com/help.xml"]
 idfl.top##[href="http://dewanmas.com/"]
 idfl.top##[href="http://menangvip.org/"]
 kazefuri.blogspot.com##[href="http://www.cocobet."]
@@ -1532,7 +1545,7 @@ bioskop168.pro##[href^="http://linkalternatif."]
 192.99.70.18##[href^="http://rebrand.ly/"]
 dewantn.com##[href^="http://www.dukungbpjs.com/ref.php"]
 animenonton.tv##[href^="https://333betting."]
-139.99.120.222,158.69.54.218,21filem.co,bioskop45.co,bokepvid.online,kawanfilm21.online,kawanfilm21.pro,lk21go.fun,manganime.in,movieajip.online,www.nontondramas.net##[href^="https://bit.ly/"]
+139.99.120.222,158.69.54.218,21filem.co,bioskop45.co,bokepvid.online,gm21.xyz,kawanfilm21.online,kawanfilm21.pro,lk21go.fun,manganime.in,movieajip.online,www.nontondramas.net##[href^="https://bit.ly/"]
 kabarviral.blog,lewat.club##[href^="https://manjur.id/search.php"]
 bioskop168.pro##[href^="https://tinyurl.com/"]
 kazefuri.web.id##[href^="https://www.indovegas."]
@@ -1694,6 +1707,7 @@ layarmovie21.*##a[href^="http://bit.ly/"]
 layarxxi.*###top-banner-content
 layarxxi.*##a[href^="http://bit.ly/"]
 ldtv.*##.axdx-header
+budiarto.id##li.avatar.collection-item:nth-of-type(1)
 lk-21.*##a[href^="https://bit.ly/"]
 lk21.*###fbanner
 lk21.*###fbbanner
@@ -4834,6 +4848,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##[href^="http://www.mainkartu123b.com"]
 ##[href^="http://www.maxbetqq.net"]
 ##[href^="http://www.menubola.life/"]
+##[href^="http://www.nagalive88a.com"]
 ##[href^="http://www.permainanvip.com"]
 ##[href^="http://www.rumahcash7.com"]
 ##[href^="http://www.semogauntung.com"]
@@ -4857,9 +4872,12 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##[href^="https://indoxbet.com"]
 ##[href^="https://jcapsa.com"]
 ##[href^="https://judiayambangkok.net"]
+##[href^="https://luxury138."]
 ##[href^="https://luxury138.cc"]
+##[href^="https://luxury138.link"]
 ##[href^="https://m303bet."]
 ##[href^="https://mboplay88.com"]
+##[href^="https://murahbet2.com"]
 ##[href^="https://pokerjenius.net"]
 ##[href^="https://prediksidukuntogel.top/"]
 ##[href^="https://refpaqutiu.top/"]
@@ -4873,7 +4891,9 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##[href^="https://www.cantikpkr.com"]
 ##[href^="https://www.cbogaming.com"]
 ##[href^="https://www.dewaqq."]
+##[href^="https://www.gilapoker.asia"]
 ##[href^="https://www.mahadewapkr."]
+##[href^="https://www.md88.bet"]
 ##[href^="https://www.mdewa.com"]
 ##[href^="https://www.momoidnpoker.com"]
 ##[href^="https://www.mpo189.org"]
