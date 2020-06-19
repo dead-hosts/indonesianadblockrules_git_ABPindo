@@ -1094,6 +1094,11 @@
         "expiration_date": "18-oct-2020",
         "state": "future"
     },
+    "bisakaya.org": {
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
+        "state": "future"
+    },
     "blackavelic.com": {
         "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
@@ -5387,6 +5392,11 @@
     "qqgaming88e.com": {
         "epoch": 1593388800.0,
         "expiration_date": "29-jun-2020",
+        "state": "future"
+    },
+    "qqrolet77.com": {
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
         "state": "future"
     },
     "qqsenang.net": {
