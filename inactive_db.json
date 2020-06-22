@@ -3,8 +3,8 @@
         ".wp.com": {
             "included_at_epoch": 1592607527.953338,
             "included_at_iso": "2020-06-19T22:58:47.953338",
-            "last_retested_at_epoch": 1592607527.953338,
-            "last_retested_at_iso": "2020-06-19T22:58:47.953338",
+            "last_retested_at_epoch": 1592824402.933101,
+            "last_retested_at_iso": "2020-06-22T11:13:22.933101",
             "status": "INVALID"
         },
         "103.10.200.48": {
@@ -38,43 +38,43 @@
         "116poker.": {
             "included_at_epoch": 1590879164.327576,
             "included_at_iso": "2020-05-30T22:52:44.327576",
-            "last_retested_at_epoch": 1592607547.861271,
-            "last_retested_at_iso": "2020-06-19T22:59:07.861271",
+            "last_retested_at_epoch": 1592824422.827099,
+            "last_retested_at_iso": "2020-06-22T11:13:42.827099",
             "status": "INVALID"
         },
         "11juni.": {
             "included_at_epoch": 1590879164.335113,
             "included_at_iso": "2020-05-30T22:52:44.335113",
-            "last_retested_at_epoch": 1592607547.910778,
-            "last_retested_at_iso": "2020-06-19T22:59:07.910778",
+            "last_retested_at_epoch": 1592824422.877961,
+            "last_retested_at_iso": "2020-06-22T11:13:42.877961",
             "status": "INVALID"
         },
         "123samsung.": {
             "included_at_epoch": 1590879164.342102,
             "included_at_iso": "2020-05-30T22:52:44.342102",
-            "last_retested_at_epoch": 1592607547.935912,
-            "last_retested_at_iso": "2020-06-19T22:59:07.935912",
+            "last_retested_at_epoch": 1592824422.903979,
+            "last_retested_at_iso": "2020-06-22T11:13:42.903979",
             "status": "INVALID"
         },
         "128.199.102.111": {
             "included_at_epoch": 1592175347.223662,
             "included_at_iso": "2020-06-14T22:55:47.223662",
-            "last_retested_at_epoch": 1592607541.262992,
-            "last_retested_at_iso": "2020-06-19T22:59:01.262992",
+            "last_retested_at_epoch": 1592824416.294875,
+            "last_retested_at_iso": "2020-06-22T11:13:36.294875",
             "status": "INACTIVE"
         },
         "128.199.232.232": {
             "included_at_epoch": 1592175348.950288,
             "included_at_iso": "2020-06-14T22:55:48.950288",
-            "last_retested_at_epoch": 1592607541.287355,
-            "last_retested_at_iso": "2020-06-19T22:59:01.287355",
+            "last_retested_at_epoch": 1592824416.319259,
+            "last_retested_at_iso": "2020-06-22T11:13:36.319259",
             "status": "INACTIVE"
         },
         "128cash.": {
             "included_at_epoch": 1590879164.345481,
             "included_at_iso": "2020-05-30T22:52:44.345481",
-            "last_retested_at_epoch": 1592607547.986378,
-            "last_retested_at_iso": "2020-06-19T22:59:07.986378",
+            "last_retested_at_epoch": 1592824422.95595,
+            "last_retested_at_iso": "2020-06-22T11:13:42.955950",
             "status": "INVALID"
         },
         "139.59.96.74": {
@@ -87,1870 +87,1870 @@
         "167.99.31.83": {
             "included_at_epoch": 1592175338.334208,
             "included_at_iso": "2020-06-14T22:55:38.334208",
-            "last_retested_at_epoch": 1592607531.329006,
-            "last_retested_at_iso": "2020-06-19T22:58:51.329006",
+            "last_retested_at_epoch": 1592824406.338587,
+            "last_retested_at_iso": "2020-06-22T11:13:26.338587",
             "status": "INACTIVE"
         },
         "168liga.": {
             "included_at_epoch": 1590879164.355164,
             "included_at_iso": "2020-05-30T22:52:44.355164",
-            "last_retested_at_epoch": 1592607548.011863,
-            "last_retested_at_iso": "2020-06-19T22:59:08.011863",
+            "last_retested_at_epoch": 1592824422.984373,
+            "last_retested_at_iso": "2020-06-22T11:13:42.984373",
             "status": "INVALID"
         },
         "168wbtoto.": {
             "included_at_epoch": 1590879164.359536,
             "included_at_iso": "2020-05-30T22:52:44.359536",
-            "last_retested_at_epoch": 1592607548.039464,
-            "last_retested_at_iso": "2020-06-19T22:59:08.039464",
+            "last_retested_at_epoch": 1592824423.008875,
+            "last_retested_at_iso": "2020-06-22T11:13:43.008875",
             "status": "INVALID"
         },
         "173.199.167.192": {
             "included_at_epoch": 1592175338.801069,
             "included_at_iso": "2020-06-14T22:55:38.801069",
-            "last_retested_at_epoch": 1592607540.084717,
-            "last_retested_at_iso": "2020-06-19T22:59:00.084717",
+            "last_retested_at_epoch": 1592824415.137593,
+            "last_retested_at_iso": "2020-06-22T11:13:35.137593",
             "status": "INACTIVE"
         },
         "173.199.189.86": {
             "included_at_epoch": 1592607531.867205,
             "included_at_iso": "2020-06-19T22:58:51.867205",
-            "last_retested_at_epoch": 1592607533.799944,
-            "last_retested_at_iso": "2020-06-19T22:58:53.799944",
+            "last_retested_at_epoch": 1592824408.829698,
+            "last_retested_at_iso": "2020-06-22T11:13:28.829698",
             "status": "INACTIVE"
         },
         "188bet.": {
             "included_at_epoch": 1590879164.363296,
             "included_at_iso": "2020-05-30T22:52:44.363296",
-            "last_retested_at_epoch": 1592607548.089885,
-            "last_retested_at_iso": "2020-06-19T22:59:08.089885",
+            "last_retested_at_epoch": 1592824423.060263,
+            "last_retested_at_iso": "2020-06-22T11:13:43.060263",
             "status": "INVALID"
         },
         "1sakong.": {
             "included_at_epoch": 1590879164.370402,
             "included_at_iso": "2020-05-30T22:52:44.370402",
-            "last_retested_at_epoch": 1592607548.139981,
-            "last_retested_at_iso": "2020-06-19T22:59:08.139981",
+            "last_retested_at_epoch": 1592824423.112695,
+            "last_retested_at_iso": "2020-06-22T11:13:43.112695",
             "status": "INVALID"
         },
         "1spoker.": {
             "included_at_epoch": 1590879164.377352,
             "included_at_iso": "2020-05-30T22:52:44.377352",
-            "last_retested_at_epoch": 1592607548.166625,
-            "last_retested_at_iso": "2020-06-19T22:59:08.166625",
+            "last_retested_at_epoch": 1592824423.138639,
+            "last_retested_at_iso": "2020-06-22T11:13:43.138639",
             "status": "INVALID"
         },
         "1xbet.": {
             "included_at_epoch": 1590879164.38074,
             "included_at_iso": "2020-05-30T22:52:44.380740",
-            "last_retested_at_epoch": 1592607548.192581,
-            "last_retested_at_iso": "2020-06-19T22:59:08.192581",
+            "last_retested_at_epoch": 1592824423.1647,
+            "last_retested_at_iso": "2020-06-22T11:13:43.164700",
             "status": "INVALID"
         },
         "1xbet250.": {
             "included_at_epoch": 1590879164.384323,
             "included_at_iso": "2020-05-30T22:52:44.384323",
-            "last_retested_at_epoch": 1592607548.218583,
-            "last_retested_at_iso": "2020-06-19T22:59:08.218583",
+            "last_retested_at_epoch": 1592824423.190634,
+            "last_retested_at_iso": "2020-06-22T11:13:43.190634",
             "status": "INVALID"
         },
         "1xbetnew.": {
             "included_at_epoch": 1590879164.387872,
             "included_at_iso": "2020-05-30T22:52:44.387872",
-            "last_retested_at_epoch": 1592607548.244826,
-            "last_retested_at_iso": "2020-06-19T22:59:08.244826",
+            "last_retested_at_epoch": 1592824423.216481,
+            "last_retested_at_iso": "2020-06-22T11:13:43.216481",
             "status": "INVALID"
         },
         "1xliga.": {
             "included_at_epoch": 1590879164.391397,
             "included_at_iso": "2020-05-30T22:52:44.391397",
-            "last_retested_at_epoch": 1592607548.271099,
-            "last_retested_at_iso": "2020-06-19T22:59:08.271099",
+            "last_retested_at_epoch": 1592824423.242363,
+            "last_retested_at_iso": "2020-06-22T11:13:43.242363",
             "status": "INVALID"
         },
         "228poker.": {
             "included_at_epoch": 1590879164.394989,
             "included_at_iso": "2020-05-30T22:52:44.394989",
-            "last_retested_at_epoch": 1592607548.322903,
-            "last_retested_at_iso": "2020-06-19T22:59:08.322903",
+            "last_retested_at_epoch": 1592824423.294332,
+            "last_retested_at_iso": "2020-06-22T11:13:43.294332",
             "status": "INVALID"
         },
         "22cinema.download": {
             "included_at_epoch": 1592175343.755688,
             "included_at_iso": "2020-06-14T22:55:43.755688",
-            "last_retested_at_epoch": 1592607536.766735,
-            "last_retested_at_iso": "2020-06-19T22:58:56.766735",
+            "last_retested_at_epoch": 1592824411.813355,
+            "last_retested_at_iso": "2020-06-22T11:13:31.813355",
             "status": "INACTIVE"
         },
         "22hok.": {
             "included_at_epoch": 1590879164.402532,
             "included_at_iso": "2020-05-30T22:52:44.402532",
-            "last_retested_at_epoch": 1592607548.348664,
-            "last_retested_at_iso": "2020-06-19T22:59:08.348664",
+            "last_retested_at_epoch": 1592824423.320601,
+            "last_retested_at_iso": "2020-06-22T11:13:43.320601",
             "status": "INVALID"
         },
         "233bet.": {
             "included_at_epoch": 1590879164.406349,
             "included_at_iso": "2020-05-30T22:52:44.406349",
-            "last_retested_at_epoch": 1592607548.398694,
-            "last_retested_at_iso": "2020-06-19T22:59:08.398694",
+            "last_retested_at_epoch": 1592824423.372622,
+            "last_retested_at_iso": "2020-06-22T11:13:43.372622",
             "status": "INVALID"
         },
         "234bet.": {
             "included_at_epoch": 1590879164.413705,
             "included_at_iso": "2020-05-30T22:52:44.413705",
-            "last_retested_at_epoch": 1592607548.424079,
-            "last_retested_at_iso": "2020-06-19T22:59:08.424079",
+            "last_retested_at_epoch": 1592824423.398314,
+            "last_retested_at_iso": "2020-06-22T11:13:43.398314",
             "status": "INVALID"
         },
         "28bet.": {
             "included_at_epoch": 1590879164.417281,
             "included_at_iso": "2020-05-30T22:52:44.417281",
-            "last_retested_at_epoch": 1592607548.474383,
-            "last_retested_at_iso": "2020-06-19T22:59:08.474383",
+            "last_retested_at_epoch": 1592824423.449444,
+            "last_retested_at_iso": "2020-06-22T11:13:43.449444",
             "status": "INVALID"
         },
         "338judicasino.": {
             "included_at_epoch": 1590879164.424691,
             "included_at_iso": "2020-05-30T22:52:44.424691",
-            "last_retested_at_epoch": 1592607548.499687,
-            "last_retested_at_iso": "2020-06-19T22:59:08.499687",
+            "last_retested_at_epoch": 1592824423.476289,
+            "last_retested_at_iso": "2020-06-22T11:13:43.476289",
             "status": "INVALID"
         },
         "365hoki.": {
             "included_at_epoch": 1590879164.428856,
             "included_at_iso": "2020-05-30T22:52:44.428856",
-            "last_retested_at_epoch": 1592607548.557474,
-            "last_retested_at_iso": "2020-06-19T22:59:08.557474",
+            "last_retested_at_epoch": 1592824423.528104,
+            "last_retested_at_iso": "2020-06-22T11:13:43.528104",
             "status": "INVALID"
         },
         "365kiu.": {
             "included_at_epoch": 1590879164.43661,
             "included_at_iso": "2020-05-30T22:52:44.436610",
-            "last_retested_at_epoch": 1592607548.608256,
-            "last_retested_at_iso": "2020-06-19T22:59:08.608256",
+            "last_retested_at_epoch": 1592824423.580101,
+            "last_retested_at_iso": "2020-06-22T11:13:43.580101",
             "status": "INVALID"
         },
         "365qiuqiu.": {
             "included_at_epoch": 1590879164.444328,
             "included_at_iso": "2020-05-30T22:52:44.444328",
-            "last_retested_at_epoch": 1592607548.633876,
-            "last_retested_at_iso": "2020-06-19T22:59:08.633876",
+            "last_retested_at_epoch": 1592824423.605262,
+            "last_retested_at_iso": "2020-06-22T11:13:43.605262",
             "status": "INVALID"
         },
         "388poker.": {
             "included_at_epoch": 1590879164.448104,
             "included_at_iso": "2020-05-30T22:52:44.448104",
-            "last_retested_at_epoch": 1592607548.659322,
-            "last_retested_at_iso": "2020-06-19T22:59:08.659322",
+            "last_retested_at_epoch": 1592824423.630483,
+            "last_retested_at_iso": "2020-06-22T11:13:43.630483",
             "status": "INVALID"
         },
         "396club.": {
             "included_at_epoch": 1590879164.451969,
             "included_at_iso": "2020-05-30T22:52:44.451969",
-            "last_retested_at_epoch": 1592607548.685053,
-            "last_retested_at_iso": "2020-06-19T22:59:08.685053",
+            "last_retested_at_epoch": 1592824423.656012,
+            "last_retested_at_iso": "2020-06-22T11:13:43.656012",
             "status": "INVALID"
         },
         "396dewa.": {
             "included_at_epoch": 1590879164.469934,
             "included_at_iso": "2020-05-30T22:52:44.469934",
-            "last_retested_at_epoch": 1592607548.709708,
-            "last_retested_at_iso": "2020-06-19T22:59:08.709708",
+            "last_retested_at_epoch": 1592824423.681479,
+            "last_retested_at_iso": "2020-06-22T11:13:43.681479",
             "status": "INVALID"
         },
         "46.166.167.16": {
             "included_at_epoch": 1592607535.914329,
             "included_at_iso": "2020-06-19T22:58:55.914329",
-            "last_retested_at_epoch": 1592607543.360823,
-            "last_retested_at_iso": "2020-06-19T22:59:03.360823",
+            "last_retested_at_epoch": 1592824418.368109,
+            "last_retested_at_iso": "2020-06-22T11:13:38.368109",
             "status": "INACTIVE"
         },
         "4dasli.": {
             "included_at_epoch": 1590879164.473755,
             "included_at_iso": "2020-05-30T22:52:44.473755",
-            "last_retested_at_epoch": 1592607548.773232,
-            "last_retested_at_iso": "2020-06-19T22:59:08.773232",
+            "last_retested_at_epoch": 1592824423.743139,
+            "last_retested_at_iso": "2020-06-22T11:13:43.743139",
             "status": "INVALID"
         },
         "560bet.": {
             "included_at_epoch": 1590879164.481991,
             "included_at_iso": "2020-05-30T22:52:44.481991",
-            "last_retested_at_epoch": 1592607548.822481,
-            "last_retested_at_iso": "2020-06-19T22:59:08.822481",
+            "last_retested_at_epoch": 1592824423.793879,
+            "last_retested_at_iso": "2020-06-22T11:13:43.793879",
             "status": "INVALID"
         },
         "588poker.": {
             "included_at_epoch": 1590879164.491164,
             "included_at_iso": "2020-05-30T22:52:44.491164",
-            "last_retested_at_epoch": 1592607548.873127,
-            "last_retested_at_iso": "2020-06-19T22:59:08.873127",
+            "last_retested_at_epoch": 1592824423.84486,
+            "last_retested_at_iso": "2020-06-22T11:13:43.844860",
             "status": "INVALID"
         },
         "5starbet.": {
             "included_at_epoch": 1590879164.500558,
             "included_at_iso": "2020-05-30T22:52:44.500558",
-            "last_retested_at_epoch": 1592607548.898693,
-            "last_retested_at_iso": "2020-06-19T22:59:08.898693",
+            "last_retested_at_epoch": 1592824423.870256,
+            "last_retested_at_iso": "2020-06-22T11:13:43.870256",
             "status": "INVALID"
         },
         "5starsbet.": {
             "included_at_epoch": 1590879164.504421,
             "included_at_iso": "2020-05-30T22:52:44.504421",
-            "last_retested_at_epoch": 1592607548.924184,
-            "last_retested_at_iso": "2020-06-19T22:59:08.924184",
+            "last_retested_at_epoch": 1592824423.895805,
+            "last_retested_at_iso": "2020-06-22T11:13:43.895805",
             "status": "INVALID"
         },
         "77megabet.": {
             "included_at_epoch": 1590879164.508372,
             "included_at_iso": "2020-05-30T22:52:44.508372",
-            "last_retested_at_epoch": 1592607548.949924,
-            "last_retested_at_iso": "2020-06-19T22:59:08.949924",
+            "last_retested_at_epoch": 1592824423.921064,
+            "last_retested_at_iso": "2020-06-22T11:13:43.921064",
             "status": "INVALID"
         },
         "7nagabet.": {
             "included_at_epoch": 1590879164.512528,
             "included_at_iso": "2020-05-30T22:52:44.512528",
-            "last_retested_at_epoch": 1592607549.000693,
-            "last_retested_at_iso": "2020-06-19T22:59:09.000693",
+            "last_retested_at_epoch": 1592824423.972453,
+            "last_retested_at_iso": "2020-06-22T11:13:43.972453",
             "status": "INVALID"
         },
         "7nagapoker.": {
             "included_at_epoch": 1590879164.520407,
             "included_at_iso": "2020-05-30T22:52:44.520407",
-            "last_retested_at_epoch": 1592607549.051835,
-            "last_retested_at_iso": "2020-06-19T22:59:09.051835",
+            "last_retested_at_epoch": 1592824424.023699,
+            "last_retested_at_iso": "2020-06-22T11:13:44.023699",
             "status": "INVALID"
         },
         "7nagatoto.": {
             "included_at_epoch": 1590879164.528579,
             "included_at_iso": "2020-05-30T22:52:44.528579",
-            "last_retested_at_epoch": 1592607549.102983,
-            "last_retested_at_iso": "2020-06-19T22:59:09.102983",
+            "last_retested_at_epoch": 1592824424.074514,
+            "last_retested_at_iso": "2020-06-22T11:13:44.074514",
             "status": "INVALID"
         },
         "805bet.": {
             "included_at_epoch": 1590879164.536981,
             "included_at_iso": "2020-05-30T22:52:44.536981",
-            "last_retested_at_epoch": 1592607549.128283,
-            "last_retested_at_iso": "2020-06-19T22:59:09.128283",
+            "last_retested_at_epoch": 1592824424.101335,
+            "last_retested_at_iso": "2020-06-22T11:13:44.101335",
             "status": "INVALID"
         },
         "855bandar.": {
             "included_at_epoch": 1590879164.542059,
             "included_at_iso": "2020-05-30T22:52:44.542059",
-            "last_retested_at_epoch": 1592607549.153845,
-            "last_retested_at_iso": "2020-06-19T22:59:09.153845",
+            "last_retested_at_epoch": 1592824424.126862,
+            "last_retested_at_iso": "2020-06-22T11:13:44.126862",
             "status": "INVALID"
         },
         "888poker.": {
             "included_at_epoch": 1590879164.546739,
             "included_at_iso": "2020-05-30T22:52:44.546739",
-            "last_retested_at_epoch": 1592607549.179591,
-            "last_retested_at_iso": "2020-06-19T22:59:09.179591",
+            "last_retested_at_epoch": 1592824424.15273,
+            "last_retested_at_iso": "2020-06-22T11:13:44.152730",
             "status": "INVALID"
         },
         "88bet.": {
             "included_at_epoch": 1590879164.551291,
             "included_at_iso": "2020-05-30T22:52:44.551291",
-            "last_retested_at_epoch": 1592607549.205383,
-            "last_retested_at_iso": "2020-06-19T22:59:09.205383",
+            "last_retested_at_epoch": 1592824424.178783,
+            "last_retested_at_iso": "2020-06-22T11:13:44.178783",
             "status": "INVALID"
         },
         "88beto.": {
             "included_at_epoch": 1590879164.555995,
             "included_at_iso": "2020-05-30T22:52:44.555995",
-            "last_retested_at_epoch": 1592607549.255847,
-            "last_retested_at_iso": "2020-06-19T22:59:09.255847",
+            "last_retested_at_epoch": 1592824424.230425,
+            "last_retested_at_iso": "2020-06-22T11:13:44.230425",
             "status": "INVALID"
         },
         "899-cash.": {
             "included_at_epoch": 1590879164.564869,
             "included_at_iso": "2020-05-30T22:52:44.564869",
-            "last_retested_at_epoch": 1592607549.306566,
-            "last_retested_at_iso": "2020-06-19T22:59:09.306566",
+            "last_retested_at_epoch": 1592824424.281551,
+            "last_retested_at_iso": "2020-06-22T11:13:44.281551",
             "status": "INVALID"
         },
         "899bola.": {
             "included_at_epoch": 1590879164.572743,
             "included_at_iso": "2020-05-30T22:52:44.572743",
-            "last_retested_at_epoch": 1592607549.331377,
-            "last_retested_at_iso": "2020-06-19T22:59:09.331377",
+            "last_retested_at_epoch": 1592824424.307648,
+            "last_retested_at_iso": "2020-06-22T11:13:44.307648",
             "status": "INVALID"
         },
         "899cash.": {
             "included_at_epoch": 1590879164.576805,
             "included_at_iso": "2020-05-30T22:52:44.576805",
-            "last_retested_at_epoch": 1592607549.381393,
-            "last_retested_at_iso": "2020-06-19T22:59:09.381393",
+            "last_retested_at_epoch": 1592824424.358313,
+            "last_retested_at_iso": "2020-06-22T11:13:44.358313",
             "status": "INVALID"
         },
         "8mpoker.": {
             "included_at_epoch": 1590879164.584893,
             "included_at_iso": "2020-05-30T22:52:44.584893",
-            "last_retested_at_epoch": 1592607549.431994,
-            "last_retested_at_iso": "2020-06-19T22:59:09.431994",
+            "last_retested_at_epoch": 1592824424.409917,
+            "last_retested_at_iso": "2020-06-22T11:13:44.409917",
             "status": "INVALID"
         },
         "8togel.": {
             "included_at_epoch": 1590879164.592863,
             "included_at_iso": "2020-05-30T22:52:44.592863",
-            "last_retested_at_epoch": 1592607549.456728,
-            "last_retested_at_iso": "2020-06-19T22:59:09.456728",
+            "last_retested_at_epoch": 1592824424.435368,
+            "last_retested_at_iso": "2020-06-22T11:13:44.435368",
             "status": "INVALID"
         },
         "988bet.": {
             "included_at_epoch": 1590879164.596791,
             "included_at_iso": "2020-05-30T22:52:44.596791",
-            "last_retested_at_epoch": 1592607549.506692,
-            "last_retested_at_iso": "2020-06-19T22:59:09.506692",
+            "last_retested_at_epoch": 1592824424.4862,
+            "last_retested_at_iso": "2020-06-22T11:13:44.486200",
             "status": "INVALID"
         },
         "99dinasti.": {
             "included_at_epoch": 1590879164.604734,
             "included_at_iso": "2020-05-30T22:52:44.604734",
-            "last_retested_at_epoch": 1592607549.53189,
-            "last_retested_at_iso": "2020-06-19T22:59:09.531890",
+            "last_retested_at_epoch": 1592824424.511491,
+            "last_retested_at_iso": "2020-06-22T11:13:44.511491",
             "status": "INVALID"
         },
         "99domino.": {
             "included_at_epoch": 1590879164.609073,
             "included_at_iso": "2020-05-30T22:52:44.609073",
-            "last_retested_at_epoch": 1592607549.557009,
-            "last_retested_at_iso": "2020-06-19T22:59:09.557009",
+            "last_retested_at_epoch": 1592824424.536676,
+            "last_retested_at_iso": "2020-06-22T11:13:44.536676",
             "status": "INVALID"
         },
         "99mania.": {
             "included_at_epoch": 1590879164.613101,
             "included_at_iso": "2020-05-30T22:52:44.613101",
-            "last_retested_at_epoch": 1592607549.582182,
-            "last_retested_at_iso": "2020-06-19T22:59:09.582182",
+            "last_retested_at_epoch": 1592824424.562675,
+            "last_retested_at_iso": "2020-06-22T11:13:44.562675",
             "status": "INVALID"
         },
         "99poker.": {
             "included_at_epoch": 1590879164.617167,
             "included_at_iso": "2020-05-30T22:52:44.617167",
-            "last_retested_at_epoch": 1592607549.607641,
-            "last_retested_at_iso": "2020-06-19T22:59:09.607641",
+            "last_retested_at_epoch": 1592824424.590687,
+            "last_retested_at_iso": "2020-06-22T11:13:44.590687",
             "status": "INVALID"
         },
         "9bet.": {
             "included_at_epoch": 1590879164.621276,
             "included_at_iso": "2020-05-30T22:52:44.621276",
-            "last_retested_at_epoch": 1592607549.632588,
-            "last_retested_at_iso": "2020-06-19T22:59:09.632588",
+            "last_retested_at_epoch": 1592824424.617175,
+            "last_retested_at_iso": "2020-06-22T11:13:44.617175",
             "status": "INVALID"
         },
         "9icmzvn6.website": {
             "included_at_epoch": 1592607525.117869,
             "included_at_iso": "2020-06-19T22:58:45.117869",
-            "last_retested_at_epoch": 1592607525.117869,
-            "last_retested_at_iso": "2020-06-19T22:58:45.117869",
+            "last_retested_at_epoch": 1592824400.118479,
+            "last_retested_at_iso": "2020-06-22T11:13:20.118479",
             "status": "INACTIVE"
         },
         "abgqq.": {
             "included_at_epoch": 1590879164.625502,
             "included_at_iso": "2020-05-30T22:52:44.625502",
-            "last_retested_at_epoch": 1592607549.683529,
-            "last_retested_at_iso": "2020-06-19T22:59:09.683529",
+            "last_retested_at_epoch": 1592824424.668947,
+            "last_retested_at_iso": "2020-06-22T11:13:44.668947",
             "status": "INVALID"
         },
         "abgqq88.": {
             "included_at_epoch": 1590879164.633869,
             "included_at_iso": "2020-05-30T22:52:44.633869",
-            "last_retested_at_epoch": 1592607549.708754,
-            "last_retested_at_iso": "2020-06-19T22:59:09.708754",
+            "last_retested_at_epoch": 1592824424.694713,
+            "last_retested_at_iso": "2020-06-22T11:13:44.694713",
             "status": "INVALID"
         },
         "abgqqnew.": {
             "included_at_epoch": 1590879164.637992,
             "included_at_iso": "2020-05-30T22:52:44.637992",
-            "last_retested_at_epoch": 1592607549.734851,
-            "last_retested_at_iso": "2020-06-19T22:59:09.734851",
+            "last_retested_at_epoch": 1592824424.719602,
+            "last_retested_at_iso": "2020-06-22T11:13:44.719602",
             "status": "INVALID"
         },
         "acerpoker.": {
             "included_at_epoch": 1590879164.642142,
             "included_at_iso": "2020-05-30T22:52:44.642142",
-            "last_retested_at_epoch": 1592607549.786066,
-            "last_retested_at_iso": "2020-06-19T22:59:09.786066",
+            "last_retested_at_epoch": 1592824424.773096,
+            "last_retested_at_iso": "2020-06-22T11:13:44.773096",
             "status": "INVALID"
         },
         "acmbet.": {
             "included_at_epoch": 1590879164.650687,
             "included_at_iso": "2020-05-30T22:52:44.650687",
-            "last_retested_at_epoch": 1592607549.837875,
-            "last_retested_at_iso": "2020-06-19T22:59:09.837875",
+            "last_retested_at_epoch": 1592824424.825284,
+            "last_retested_at_iso": "2020-06-22T11:13:44.825284",
             "status": "INVALID"
         },
         "adatogel.": {
             "included_at_epoch": 1590879164.659557,
             "included_at_iso": "2020-05-30T22:52:44.659557",
-            "last_retested_at_epoch": 1592607549.889223,
-            "last_retested_at_iso": "2020-06-19T22:59:09.889223",
+            "last_retested_at_epoch": 1592824424.878187,
+            "last_retested_at_iso": "2020-06-22T11:13:44.878187",
             "status": "INVALID"
         },
         "adjarabet.": {
             "included_at_epoch": 1590879164.667904,
             "included_at_iso": "2020-05-30T22:52:44.667904",
-            "last_retested_at_epoch": 1592607549.940804,
-            "last_retested_at_iso": "2020-06-19T22:59:09.940804",
+            "last_retested_at_epoch": 1592824424.931744,
+            "last_retested_at_iso": "2020-06-22T11:13:44.931744",
             "status": "INVALID"
         },
         "adscantikqq.": {
             "included_at_epoch": 1590879164.676309,
             "included_at_iso": "2020-05-30T22:52:44.676309",
-            "last_retested_at_epoch": 1592607549.994512,
-            "last_retested_at_iso": "2020-06-19T22:59:09.994512",
+            "last_retested_at_epoch": 1592824424.958387,
+            "last_retested_at_iso": "2020-06-22T11:13:44.958387",
             "status": "INVALID"
         },
         "adskartu66.": {
             "included_at_epoch": 1590879164.680547,
             "included_at_iso": "2020-05-30T22:52:44.680547",
-            "last_retested_at_epoch": 1592607549.968379,
-            "last_retested_at_iso": "2020-06-19T22:59:09.968379",
+            "last_retested_at_epoch": 1592824424.984524,
+            "last_retested_at_iso": "2020-06-22T11:13:44.984524",
             "status": "INVALID"
         },
         "adsklik365.": {
             "included_at_epoch": 1590879164.68475,
             "included_at_iso": "2020-05-30T22:52:44.684750",
-            "last_retested_at_epoch": 1592607550.047033,
-            "last_retested_at_iso": "2020-06-19T22:59:10.047033",
+            "last_retested_at_epoch": 1592824425.011017,
+            "last_retested_at_iso": "2020-06-22T11:13:45.011017",
             "status": "INVALID"
         },
         "adsklik66.": {
             "included_at_epoch": 1590879164.693745,
             "included_at_iso": "2020-05-30T22:52:44.693745",
-            "last_retested_at_epoch": 1592607550.02096,
-            "last_retested_at_iso": "2020-06-19T22:59:10.020960",
+            "last_retested_at_epoch": 1592824425.037655,
+            "last_retested_at_iso": "2020-06-22T11:13:45.037655",
             "status": "INVALID"
         },
         "adsklikqq.": {
             "included_at_epoch": 1590879164.689049,
             "included_at_iso": "2020-05-30T22:52:44.689049",
-            "last_retested_at_epoch": 1592607550.097604,
-            "last_retested_at_iso": "2020-06-19T22:59:10.097604",
+            "last_retested_at_epoch": 1592824425.064361,
+            "last_retested_at_iso": "2020-06-22T11:13:45.064361",
             "status": "INVALID"
         },
         "adslaga99.": {
             "included_at_epoch": 1590879164.698042,
             "included_at_iso": "2020-05-30T22:52:44.698042",
-            "last_retested_at_epoch": 1592607550.072816,
-            "last_retested_at_iso": "2020-06-19T22:59:10.072816",
+            "last_retested_at_epoch": 1592824425.090997,
+            "last_retested_at_iso": "2020-06-22T11:13:45.090997",
             "status": "INVALID"
         },
         "adsliga99.": {
             "included_at_epoch": 1590879164.702325,
             "included_at_iso": "2020-05-30T22:52:44.702325",
-            "last_retested_at_epoch": 1592607550.122271,
-            "last_retested_at_iso": "2020-06-19T22:59:10.122271",
+            "last_retested_at_epoch": 1592824425.117569,
+            "last_retested_at_iso": "2020-06-22T11:13:45.117569",
             "status": "INVALID"
         },
         "adsligabola.": {
             "included_at_epoch": 1590879164.70657,
             "included_at_iso": "2020-05-30T22:52:44.706570",
-            "last_retested_at_epoch": 1592607550.147787,
-            "last_retested_at_iso": "2020-06-19T22:59:10.147787",
+            "last_retested_at_epoch": 1592824425.14475,
+            "last_retested_at_iso": "2020-06-22T11:13:45.144750",
             "status": "INVALID"
         },
         "adsligacapsa.": {
             "included_at_epoch": 1590879164.710717,
             "included_at_iso": "2020-05-30T22:52:44.710717",
-            "last_retested_at_epoch": 1592607550.173938,
-            "last_retested_at_iso": "2020-06-19T22:59:10.173938",
+            "last_retested_at_epoch": 1592824425.178624,
+            "last_retested_at_iso": "2020-06-22T11:13:45.178624",
             "status": "INVALID"
         },
         "adsligapoker.": {
             "included_at_epoch": 1590879164.715296,
             "included_at_iso": "2020-05-30T22:52:44.715296",
-            "last_retested_at_epoch": 1592607550.199275,
-            "last_retested_at_iso": "2020-06-19T22:59:10.199275",
+            "last_retested_at_epoch": 1592824425.204218,
+            "last_retested_at_iso": "2020-06-22T11:13:45.204218",
             "status": "INVALID"
         },
         "adsrumahsakong.": {
             "included_at_epoch": 1590879164.719433,
             "included_at_iso": "2020-05-30T22:52:44.719433",
-            "last_retested_at_epoch": 1592607550.224582,
-            "last_retested_at_iso": "2020-06-19T22:59:10.224582",
+            "last_retested_at_epoch": 1592824425.230736,
+            "last_retested_at_iso": "2020-06-22T11:13:45.230736",
             "status": "INVALID"
         },
         "adubalak.": {
             "included_at_epoch": 1590879164.723623,
             "included_at_iso": "2020-05-30T22:52:44.723623",
-            "last_retested_at_epoch": 1592607550.249295,
-            "last_retested_at_iso": "2020-06-19T22:59:10.249295",
+            "last_retested_at_epoch": 1592824425.256197,
+            "last_retested_at_iso": "2020-06-22T11:13:45.256197",
             "status": "INVALID"
         },
         "aduqkartuqq.": {
             "included_at_epoch": 1590879164.728193,
             "included_at_iso": "2020-05-30T22:52:44.728193",
-            "last_retested_at_epoch": 1592607550.275106,
-            "last_retested_at_iso": "2020-06-19T22:59:10.275106",
+            "last_retested_at_epoch": 1592824425.282751,
+            "last_retested_at_iso": "2020-06-22T11:13:45.282751",
             "status": "INVALID"
         },
         "aduqq.": {
             "included_at_epoch": 1590879164.732407,
             "included_at_iso": "2020-05-30T22:52:44.732407",
-            "last_retested_at_epoch": 1592607550.299842,
-            "last_retested_at_iso": "2020-06-19T22:59:10.299842",
+            "last_retested_at_epoch": 1592824425.309239,
+            "last_retested_at_iso": "2020-06-22T11:13:45.309239",
             "status": "INVALID"
         },
         "aduqq88.": {
             "included_at_epoch": 1590879164.736572,
             "included_at_iso": "2020-05-30T22:52:44.736572",
-            "last_retested_at_epoch": 1592607550.326082,
-            "last_retested_at_iso": "2020-06-19T22:59:10.326082",
+            "last_retested_at_epoch": 1592824425.335262,
+            "last_retested_at_iso": "2020-06-22T11:13:45.335262",
             "status": "INVALID"
         },
         "aduqvip.": {
             "included_at_epoch": 1590879164.740726,
             "included_at_iso": "2020-05-30T22:52:44.740726",
-            "last_retested_at_epoch": 1592607550.351459,
-            "last_retested_at_iso": "2020-06-19T22:59:10.351459",
+            "last_retested_at_epoch": 1592824425.36154,
+            "last_retested_at_iso": "2020-06-22T11:13:45.361540",
             "status": "INVALID"
         },
         "afapkr.": {
             "included_at_epoch": 1590879164.744886,
             "included_at_iso": "2020-05-30T22:52:44.744886",
-            "last_retested_at_epoch": 1592607550.401514,
-            "last_retested_at_iso": "2020-06-19T22:59:10.401514",
+            "last_retested_at_epoch": 1592824425.413038,
+            "last_retested_at_iso": "2020-06-22T11:13:45.413038",
             "status": "INVALID"
         },
         "afapoker.": {
             "included_at_epoch": 1590879164.753118,
             "included_at_iso": "2020-05-30T22:52:44.753118",
-            "last_retested_at_epoch": 1592607550.427126,
-            "last_retested_at_iso": "2020-06-19T22:59:10.427126",
+            "last_retested_at_epoch": 1592824425.438719,
+            "last_retested_at_iso": "2020-06-22T11:13:45.438719",
             "status": "INVALID"
         },
         "afapoker69.": {
             "included_at_epoch": 1590879164.757627,
             "included_at_iso": "2020-05-30T22:52:44.757627",
-            "last_retested_at_epoch": 1592607550.453305,
-            "last_retested_at_iso": "2020-06-19T22:59:10.453305",
+            "last_retested_at_epoch": 1592824425.464854,
+            "last_retested_at_iso": "2020-06-22T11:13:45.464854",
             "status": "INVALID"
         },
         "afapokersky.": {
             "included_at_epoch": 1590879164.762109,
             "included_at_iso": "2020-05-30T22:52:44.762109",
-            "last_retested_at_epoch": 1592607550.478902,
-            "last_retested_at_iso": "2020-06-19T22:59:10.478902",
+            "last_retested_at_epoch": 1592824425.490338,
+            "last_retested_at_iso": "2020-06-22T11:13:45.490338",
             "status": "INVALID"
         },
         "afatogel.": {
             "included_at_epoch": 1590879164.76649,
             "included_at_iso": "2020-05-30T22:52:44.766490",
-            "last_retested_at_epoch": 1592607550.504541,
-            "last_retested_at_iso": "2020-06-19T22:59:10.504541",
+            "last_retested_at_epoch": 1592824425.516778,
+            "last_retested_at_iso": "2020-06-22T11:13:45.516778",
             "status": "INVALID"
         },
         "afatogel1.": {
             "included_at_epoch": 1590879164.770807,
             "included_at_iso": "2020-05-30T22:52:44.770807",
-            "last_retested_at_epoch": 1592607550.555239,
-            "last_retested_at_iso": "2020-06-19T22:59:10.555239",
+            "last_retested_at_epoch": 1592824425.567305,
+            "last_retested_at_iso": "2020-06-22T11:13:45.567305",
             "status": "INVALID"
         },
         "agen558.": {
             "included_at_epoch": 1590879164.780319,
             "included_at_iso": "2020-05-30T22:52:44.780319",
-            "last_retested_at_epoch": 1592607550.607272,
-            "last_retested_at_iso": "2020-06-19T22:59:10.607272",
+            "last_retested_at_epoch": 1592824425.619084,
+            "last_retested_at_iso": "2020-06-22T11:13:45.619084",
             "status": "INVALID"
         },
         "agen688.": {
             "included_at_epoch": 1590879164.791387,
             "included_at_iso": "2020-05-30T22:52:44.791387",
-            "last_retested_at_epoch": 1592607550.657159,
-            "last_retested_at_iso": "2020-06-19T22:59:10.657159",
+            "last_retested_at_epoch": 1592824425.670291,
+            "last_retested_at_iso": "2020-06-22T11:13:45.670291",
             "status": "INVALID"
         },
         "agenasia88.": {
             "included_at_epoch": 1590879164.801971,
             "included_at_iso": "2020-05-30T22:52:44.801971",
-            "last_retested_at_epoch": 1592607550.70777,
-            "last_retested_at_iso": "2020-06-19T22:59:10.707770",
+            "last_retested_at_epoch": 1592824425.724127,
+            "last_retested_at_iso": "2020-06-22T11:13:45.724127",
             "status": "INVALID"
         },
         "agenbandarjudi.": {
             "included_at_epoch": 1590879164.81124,
             "included_at_iso": "2020-05-30T22:52:44.811240",
-            "last_retested_at_epoch": 1592607550.73343,
-            "last_retested_at_iso": "2020-06-19T22:59:10.733430",
+            "last_retested_at_epoch": 1592824425.74933,
+            "last_retested_at_iso": "2020-06-22T11:13:45.749330",
             "status": "INVALID"
         },
         "agenbandarq.": {
             "included_at_epoch": 1590879164.815568,
             "included_at_iso": "2020-05-30T22:52:44.815568",
-            "last_retested_at_epoch": 1592607550.75872,
-            "last_retested_at_iso": "2020-06-19T22:59:10.758720",
+            "last_retested_at_epoch": 1592824425.774953,
+            "last_retested_at_iso": "2020-06-22T11:13:45.774953",
             "status": "INVALID"
         },
         "agenbandartaruhan.": {
             "included_at_epoch": 1590879164.820075,
             "included_at_iso": "2020-05-30T22:52:44.820075",
-            "last_retested_at_epoch": 1592607550.807916,
-            "last_retested_at_iso": "2020-06-19T22:59:10.807916",
+            "last_retested_at_epoch": 1592824425.80103,
+            "last_retested_at_iso": "2020-06-22T11:13:45.801030",
             "status": "INVALID"
         },
         "agenbola-judi.": {
             "included_at_epoch": 1590879164.824447,
             "included_at_iso": "2020-05-30T22:52:44.824447",
-            "last_retested_at_epoch": 1592607550.783516,
-            "last_retested_at_iso": "2020-06-19T22:59:10.783516",
+            "last_retested_at_epoch": 1592824425.826484,
+            "last_retested_at_iso": "2020-06-22T11:13:45.826484",
             "status": "INVALID"
         },
         "agenbola.": {
             "included_at_epoch": 1590879164.828861,
             "included_at_iso": "2020-05-30T22:52:44.828861",
-            "last_retested_at_epoch": 1592607550.857521,
-            "last_retested_at_iso": "2020-06-19T22:59:10.857521",
+            "last_retested_at_epoch": 1592824425.87766,
+            "last_retested_at_iso": "2020-06-22T11:13:45.877660",
             "status": "INVALID"
         },
         "agenbola24.": {
             "included_at_epoch": 1590879164.837668,
             "included_at_iso": "2020-05-30T22:52:44.837668",
-            "last_retested_at_epoch": 1592607550.907787,
-            "last_retested_at_iso": "2020-06-19T22:59:10.907787",
+            "last_retested_at_epoch": 1592824425.927905,
+            "last_retested_at_iso": "2020-06-22T11:13:45.927905",
             "status": "INVALID"
         },
         "agenbolataruhan.": {
             "included_at_epoch": 1590879164.846257,
             "included_at_iso": "2020-05-30T22:52:44.846257",
-            "last_retested_at_epoch": 1592607550.957586,
-            "last_retested_at_iso": "2020-06-19T22:59:10.957586",
+            "last_retested_at_epoch": 1592824425.953295,
+            "last_retested_at_iso": "2020-06-22T11:13:45.953295",
             "status": "INVALID"
         },
         "agenduniajudi.": {
             "included_at_epoch": 1590879164.850551,
             "included_at_iso": "2020-05-30T22:52:44.850551",
-            "last_retested_at_epoch": 1592607550.932859,
-            "last_retested_at_iso": "2020-06-19T22:59:10.932859",
+            "last_retested_at_epoch": 1592824425.979125,
+            "last_retested_at_iso": "2020-06-22T11:13:45.979125",
             "status": "INVALID"
         },
         "agenibc.": {
             "included_at_epoch": 1590879164.854762,
             "included_at_iso": "2020-05-30T22:52:44.854762",
-            "last_retested_at_epoch": 1592607551.007312,
-            "last_retested_at_iso": "2020-06-19T22:59:11.007312",
+            "last_retested_at_epoch": 1592824426.030136,
+            "last_retested_at_iso": "2020-06-22T11:13:46.030136",
             "status": "INVALID"
         },
         "agenjoker123.": {
             "included_at_epoch": 1590879164.863849,
             "included_at_iso": "2020-05-30T22:52:44.863849",
-            "last_retested_at_epoch": 1592607551.031999,
-            "last_retested_at_iso": "2020-06-19T22:59:11.031999",
+            "last_retested_at_epoch": 1592824426.056721,
+            "last_retested_at_iso": "2020-06-22T11:13:46.056721",
             "status": "INVALID"
         },
         "agenjudi.": {
             "included_at_epoch": 1590879164.86844,
             "included_at_iso": "2020-05-30T22:52:44.868440",
-            "last_retested_at_epoch": 1592607551.056825,
-            "last_retested_at_iso": "2020-06-19T22:59:11.056825",
+            "last_retested_at_epoch": 1592824426.083322,
+            "last_retested_at_iso": "2020-06-22T11:13:46.083322",
             "status": "INVALID"
         },
         "agenjudi1388.": {
             "included_at_epoch": 1590879164.873628,
             "included_at_iso": "2020-05-30T22:52:44.873628",
-            "last_retested_at_epoch": 1592607551.081879,
-            "last_retested_at_iso": "2020-06-19T22:59:11.081879",
+            "last_retested_at_epoch": 1592824426.135976,
+            "last_retested_at_iso": "2020-06-22T11:13:46.135976",
             "status": "INVALID"
         },
         "agenjudi338a.": {
             "included_at_epoch": 1590879164.878175,
             "included_at_iso": "2020-05-30T22:52:44.878175",
-            "last_retested_at_epoch": 1592607551.107187,
-            "last_retested_at_iso": "2020-06-19T22:59:11.107187",
+            "last_retested_at_epoch": 1592824426.109601,
+            "last_retested_at_iso": "2020-06-22T11:13:46.109601",
             "status": "INVALID"
         },
         "agenjudibola.": {
             "included_at_epoch": 1590879164.883002,
             "included_at_iso": "2020-05-30T22:52:44.883002",
-            "last_retested_at_epoch": 1592607551.131925,
-            "last_retested_at_iso": "2020-06-19T22:59:11.131925",
+            "last_retested_at_epoch": 1592824426.162006,
+            "last_retested_at_iso": "2020-06-22T11:13:46.162006",
             "status": "INVALID"
         },
         "agenjudibola1388.": {
             "included_at_epoch": 1590879164.887826,
             "included_at_iso": "2020-05-30T22:52:44.887826",
-            "last_retested_at_epoch": 1592607551.158011,
-            "last_retested_at_iso": "2020-06-19T22:59:11.158011",
+            "last_retested_at_epoch": 1592824426.188875,
+            "last_retested_at_iso": "2020-06-22T11:13:46.188875",
             "status": "INVALID"
         },
         "agenjudibolaibcbet.": {
             "included_at_epoch": 1590879164.892665,
             "included_at_iso": "2020-05-30T22:52:44.892665",
-            "last_retested_at_epoch": 1592607551.183885,
-            "last_retested_at_iso": "2020-06-19T22:59:11.183885",
+            "last_retested_at_epoch": 1592824426.215118,
+            "last_retested_at_iso": "2020-06-22T11:13:46.215118",
             "status": "INVALID"
         },
         "agenjudibolaonline.": {
             "included_at_epoch": 1590879164.897436,
             "included_at_iso": "2020-05-30T22:52:44.897436",
-            "last_retested_at_epoch": 1592607551.20964,
-            "last_retested_at_iso": "2020-06-19T22:59:11.209640",
+            "last_retested_at_epoch": 1592824426.241172,
+            "last_retested_at_iso": "2020-06-22T11:13:46.241172",
             "status": "INVALID"
         },
         "agenjudibolasbobet.": {
             "included_at_epoch": 1590879164.902088,
             "included_at_iso": "2020-05-30T22:52:44.902088",
-            "last_retested_at_epoch": 1592607551.234368,
-            "last_retested_at_iso": "2020-06-19T22:59:11.234368",
+            "last_retested_at_epoch": 1592824426.267226,
+            "last_retested_at_iso": "2020-06-22T11:13:46.267226",
             "status": "INVALID"
         },
         "agenjudibolatangkas.": {
             "included_at_epoch": 1590879164.906665,
             "included_at_iso": "2020-05-30T22:52:44.906665",
-            "last_retested_at_epoch": 1592607551.259155,
-            "last_retested_at_iso": "2020-06-19T22:59:11.259155",
+            "last_retested_at_epoch": 1592824426.293095,
+            "last_retested_at_iso": "2020-06-22T11:13:46.293095",
             "status": "INVALID"
         },
         "agenjudibolaterbaik.": {
             "included_at_epoch": 1590879164.911535,
             "included_at_iso": "2020-05-30T22:52:44.911535",
-            "last_retested_at_epoch": 1592607551.308641,
-            "last_retested_at_iso": "2020-06-19T22:59:11.308641",
+            "last_retested_at_epoch": 1592824426.3194,
+            "last_retested_at_iso": "2020-06-22T11:13:46.319400",
             "status": "INVALID"
         },
         "agenjudicasino.": {
             "included_at_epoch": 1590879164.916095,
             "included_at_iso": "2020-05-30T22:52:44.916095",
-            "last_retested_at_epoch": 1592607551.283606,
-            "last_retested_at_iso": "2020-06-19T22:59:11.283606",
+            "last_retested_at_epoch": 1592824426.344672,
+            "last_retested_at_iso": "2020-06-22T11:13:46.344672",
             "status": "INVALID"
         },
         "agenjudiibbcbet.": {
             "included_at_epoch": 1590879164.921117,
             "included_at_iso": "2020-05-30T22:52:44.921117",
-            "last_retested_at_epoch": 1592607551.333779,
-            "last_retested_at_iso": "2020-06-19T22:59:11.333779",
+            "last_retested_at_epoch": 1592824426.370724,
+            "last_retested_at_iso": "2020-06-22T11:13:46.370724",
             "status": "INVALID"
         },
         "agenjudionline.": {
             "included_at_epoch": 1590879164.926329,
             "included_at_iso": "2020-05-30T22:52:44.926329",
-            "last_retested_at_epoch": 1592607551.358919,
-            "last_retested_at_iso": "2020-06-19T22:59:11.358919",
+            "last_retested_at_epoch": 1592824426.397265,
+            "last_retested_at_iso": "2020-06-22T11:13:46.397265",
             "status": "INVALID"
         },
         "agenjudionlinesbobet.": {
             "included_at_epoch": 1590879164.93148,
             "included_at_iso": "2020-05-30T22:52:44.931480",
-            "last_retested_at_epoch": 1592607551.383841,
-            "last_retested_at_iso": "2020-06-19T22:59:11.383841",
+            "last_retested_at_epoch": 1592824426.423833,
+            "last_retested_at_iso": "2020-06-22T11:13:46.423833",
             "status": "INVALID"
         },
         "agenjudisbobet.": {
             "included_at_epoch": 1590879164.937493,
             "included_at_iso": "2020-05-30T22:52:44.937493",
-            "last_retested_at_epoch": 1592607551.409905,
-            "last_retested_at_iso": "2020-06-19T22:59:11.409905",
+            "last_retested_at_epoch": 1592824426.450265,
+            "last_retested_at_iso": "2020-06-22T11:13:46.450265",
             "status": "INVALID"
         },
         "agenjuditerbaik.": {
             "included_at_epoch": 1590879164.94242,
             "included_at_iso": "2020-05-30T22:52:44.942420",
-            "last_retested_at_epoch": 1592607551.43458,
-            "last_retested_at_iso": "2020-06-19T22:59:11.434580",
+            "last_retested_at_epoch": 1592824426.47641,
+            "last_retested_at_iso": "2020-06-22T11:13:46.476410",
             "status": "INVALID"
         },
         "agenjuditerpercaya.": {
             "included_at_epoch": 1590879164.947175,
             "included_at_iso": "2020-05-30T22:52:44.947175",
-            "last_retested_at_epoch": 1592607551.459483,
-            "last_retested_at_iso": "2020-06-19T22:59:11.459483",
+            "last_retested_at_epoch": 1592824426.502864,
+            "last_retested_at_iso": "2020-06-22T11:13:46.502864",
             "status": "INVALID"
         },
         "agenjuditogel.": {
             "included_at_epoch": 1590879164.95249,
             "included_at_iso": "2020-05-30T22:52:44.952490",
-            "last_retested_at_epoch": 1592607551.484791,
-            "last_retested_at_iso": "2020-06-19T22:59:11.484791",
+            "last_retested_at_epoch": 1592824426.52905,
+            "last_retested_at_iso": "2020-06-22T11:13:46.529050",
             "status": "INVALID"
         },
         "agenjuditogelterbaik.": {
             "included_at_epoch": 1590879164.957299,
             "included_at_iso": "2020-05-30T22:52:44.957299",
-            "last_retested_at_epoch": 1592607551.509937,
-            "last_retested_at_iso": "2020-06-19T22:59:11.509937",
+            "last_retested_at_epoch": 1592824426.554802,
+            "last_retested_at_iso": "2020-06-22T11:13:46.554802",
             "status": "INVALID"
         },
         "agenonlinejudi.": {
             "included_at_epoch": 1590879164.961905,
             "included_at_iso": "2020-05-30T22:52:44.961905",
-            "last_retested_at_epoch": 1592607551.560944,
-            "last_retested_at_iso": "2020-06-19T22:59:11.560944",
+            "last_retested_at_epoch": 1592824426.580297,
+            "last_retested_at_iso": "2020-06-22T11:13:46.580297",
             "status": "INVALID"
         },
         "agenpasarjudi.": {
             "included_at_epoch": 1590879164.966705,
             "included_at_iso": "2020-05-30T22:52:44.966705",
-            "last_retested_at_epoch": 1592607551.535121,
-            "last_retested_at_iso": "2020-06-19T22:59:11.535121",
+            "last_retested_at_epoch": 1592824426.605933,
+            "last_retested_at_iso": "2020-06-22T11:13:46.605933",
             "status": "INVALID"
         },
         "agenpasartaruhan.": {
             "included_at_epoch": 1590879164.97169,
             "included_at_iso": "2020-05-30T22:52:44.971690",
-            "last_retested_at_epoch": 1592607551.586472,
-            "last_retested_at_iso": "2020-06-19T22:59:11.586472",
+            "last_retested_at_epoch": 1592824426.631437,
+            "last_retested_at_iso": "2020-06-22T11:13:46.631437",
             "status": "INVALID"
         },
         "agenpokerking.": {
             "included_at_epoch": 1590879164.976358,
             "included_at_iso": "2020-05-30T22:52:44.976358",
-            "last_retested_at_epoch": 1592607551.611574,
-            "last_retested_at_iso": "2020-06-19T22:59:11.611574",
+            "last_retested_at_epoch": 1592824426.656666,
+            "last_retested_at_iso": "2020-06-22T11:13:46.656666",
             "status": "INVALID"
         },
         "agenpokeronline.": {
             "included_at_epoch": 1590879164.981257,
             "included_at_iso": "2020-05-30T22:52:44.981257",
-            "last_retested_at_epoch": 1592607551.637505,
-            "last_retested_at_iso": "2020-06-19T22:59:11.637505",
+            "last_retested_at_epoch": 1592824426.682857,
+            "last_retested_at_iso": "2020-06-22T11:13:46.682857",
             "status": "INVALID"
         },
         "agenpokerterbaik.": {
             "included_at_epoch": 1590879164.986186,
             "included_at_iso": "2020-05-30T22:52:44.986186",
-            "last_retested_at_epoch": 1592607551.664045,
-            "last_retested_at_iso": "2020-06-19T22:59:11.664045",
+            "last_retested_at_epoch": 1592824426.709857,
+            "last_retested_at_iso": "2020-06-22T11:13:46.709857",
             "status": "INVALID"
         },
         "agenpusattaruhan.": {
             "included_at_epoch": 1590879164.991433,
             "included_at_iso": "2020-05-30T22:52:44.991433",
-            "last_retested_at_epoch": 1592607551.688812,
-            "last_retested_at_iso": "2020-06-19T22:59:11.688812",
+            "last_retested_at_epoch": 1592824426.762722,
+            "last_retested_at_iso": "2020-06-22T11:13:46.762722",
             "status": "INVALID"
         },
         "agenqq.": {
             "included_at_epoch": 1590879164.996706,
             "included_at_iso": "2020-05-30T22:52:44.996706",
-            "last_retested_at_epoch": 1592607551.740359,
-            "last_retested_at_iso": "2020-06-19T22:59:11.740359",
+            "last_retested_at_epoch": 1592824426.789513,
+            "last_retested_at_iso": "2020-06-22T11:13:46.789513",
             "status": "INVALID"
         },
         "agenqqnew.": {
             "included_at_epoch": 1590879165.007141,
             "included_at_iso": "2020-05-30T22:52:45.007141",
-            "last_retested_at_epoch": 1592607551.766017,
-            "last_retested_at_iso": "2020-06-19T22:59:11.766017",
+            "last_retested_at_epoch": 1592824426.816559,
+            "last_retested_at_iso": "2020-06-22T11:13:46.816559",
             "status": "INVALID"
         },
         "agensakong.": {
             "included_at_epoch": 1590879165.011898,
             "included_at_iso": "2020-05-30T22:52:45.011898",
-            "last_retested_at_epoch": 1592607551.817641,
-            "last_retested_at_iso": "2020-06-19T22:59:11.817641",
+            "last_retested_at_epoch": 1592824426.869917,
+            "last_retested_at_iso": "2020-06-22T11:13:46.869917",
             "status": "INVALID"
         },
         "agensitusjudi.": {
             "included_at_epoch": 1590879165.021725,
             "included_at_iso": "2020-05-30T22:52:45.021725",
-            "last_retested_at_epoch": 1592607551.842515,
-            "last_retested_at_iso": "2020-06-19T22:59:11.842515",
+            "last_retested_at_epoch": 1592824426.895535,
+            "last_retested_at_iso": "2020-06-22T11:13:46.895535",
             "status": "INVALID"
         },
         "agent926.": {
             "included_at_epoch": 1590879165.026553,
             "included_at_iso": "2020-05-30T22:52:45.026553",
-            "last_retested_at_epoch": 1592607551.893115,
-            "last_retested_at_iso": "2020-06-19T22:59:11.893115",
+            "last_retested_at_epoch": 1592824426.948942,
+            "last_retested_at_iso": "2020-06-22T11:13:46.948942",
             "status": "INVALID"
         },
         "agentaruhan-bola.": {
             "included_at_epoch": 1590879165.036495,
             "included_at_iso": "2020-05-30T22:52:45.036495",
-            "last_retested_at_epoch": 1592607551.91917,
-            "last_retested_at_iso": "2020-06-19T22:59:11.919170",
+            "last_retested_at_epoch": 1592824426.975653,
+            "last_retested_at_iso": "2020-06-22T11:13:46.975653",
             "status": "INVALID"
         },
         "agentaruhan.": {
             "included_at_epoch": 1590879165.041704,
             "included_at_iso": "2020-05-30T22:52:45.041704",
-            "last_retested_at_epoch": 1592607551.970005,
-            "last_retested_at_iso": "2020-06-19T22:59:11.970005",
+            "last_retested_at_epoch": 1592824427.029509,
+            "last_retested_at_iso": "2020-06-22T11:13:47.029509",
             "status": "INVALID"
         },
         "agentaruhan338a.": {
             "included_at_epoch": 1590879165.053167,
             "included_at_iso": "2020-05-30T22:52:45.053167",
-            "last_retested_at_epoch": 1592607551.995369,
-            "last_retested_at_iso": "2020-06-19T22:59:11.995369",
+            "last_retested_at_epoch": 1592824427.056135,
+            "last_retested_at_iso": "2020-06-22T11:13:47.056135",
             "status": "INVALID"
         },
         "agentaruhanbandar.": {
             "included_at_epoch": 1590879165.058328,
             "included_at_iso": "2020-05-30T22:52:45.058328",
-            "last_retested_at_epoch": 1592607552.02009,
-            "last_retested_at_iso": "2020-06-19T22:59:12.020090",
+            "last_retested_at_epoch": 1592824427.082707,
+            "last_retested_at_iso": "2020-06-22T11:13:47.082707",
             "status": "INVALID"
         },
         "agentaruhanbola.": {
             "included_at_epoch": 1590879165.063578,
             "included_at_iso": "2020-05-30T22:52:45.063578",
-            "last_retested_at_epoch": 1592607552.04621,
-            "last_retested_at_iso": "2020-06-19T22:59:12.046210",
+            "last_retested_at_epoch": 1592824427.109309,
+            "last_retested_at_iso": "2020-06-22T11:13:47.109309",
             "status": "INVALID"
         },
         "agentaruhanibcbet.": {
             "included_at_epoch": 1590879165.069063,
             "included_at_iso": "2020-05-30T22:52:45.069063",
-            "last_retested_at_epoch": 1592607552.070969,
-            "last_retested_at_iso": "2020-06-19T22:59:12.070969",
+            "last_retested_at_epoch": 1592824427.136078,
+            "last_retested_at_iso": "2020-06-22T11:13:47.136078",
             "status": "INVALID"
         },
         "agentaruhanjudibola.": {
             "included_at_epoch": 1590879165.075011,
             "included_at_iso": "2020-05-30T22:52:45.075011",
-            "last_retested_at_epoch": 1592607552.096559,
-            "last_retested_at_iso": "2020-06-19T22:59:12.096559",
+            "last_retested_at_epoch": 1592824427.162744,
+            "last_retested_at_iso": "2020-06-22T11:13:47.162744",
             "status": "INVALID"
         },
         "agentaruhanonline.": {
             "included_at_epoch": 1590879165.080937,
             "included_at_iso": "2020-05-30T22:52:45.080937",
-            "last_retested_at_epoch": 1592607552.121343,
-            "last_retested_at_iso": "2020-06-19T22:59:12.121343",
+            "last_retested_at_epoch": 1592824427.18992,
+            "last_retested_at_iso": "2020-06-22T11:13:47.189920",
             "status": "INVALID"
         },
         "agentaruhansbobet.": {
             "included_at_epoch": 1590879165.086185,
             "included_at_iso": "2020-05-30T22:52:45.086185",
-            "last_retested_at_epoch": 1592607552.146938,
-            "last_retested_at_iso": "2020-06-19T22:59:12.146938",
+            "last_retested_at_epoch": 1592824427.216497,
+            "last_retested_at_iso": "2020-06-22T11:13:47.216497",
             "status": "INVALID"
         },
         "agentjudibola.": {
             "included_at_epoch": 1590879165.091812,
             "included_at_iso": "2020-05-30T22:52:45.091812",
-            "last_retested_at_epoch": 1592607552.172017,
-            "last_retested_at_iso": "2020-06-19T22:59:12.172017",
+            "last_retested_at_epoch": 1592824427.242794,
+            "last_retested_at_iso": "2020-06-22T11:13:47.242794",
             "status": "INVALID"
         },
         "agentjudibolaonline.": {
             "included_at_epoch": 1590879165.096895,
             "included_at_iso": "2020-05-30T22:52:45.096895",
-            "last_retested_at_epoch": 1592607552.197531,
-            "last_retested_at_iso": "2020-06-19T22:59:12.197531",
+            "last_retested_at_epoch": 1592824427.269392,
+            "last_retested_at_iso": "2020-06-22T11:13:47.269392",
             "status": "INVALID"
         },
         "agentjudicasino.": {
             "included_at_epoch": 1590879165.101933,
             "included_at_iso": "2020-05-30T22:52:45.101933",
-            "last_retested_at_epoch": 1592607552.223364,
-            "last_retested_at_iso": "2020-06-19T22:59:12.223364",
+            "last_retested_at_epoch": 1592824427.296227,
+            "last_retested_at_iso": "2020-06-22T11:13:47.296227",
             "status": "INVALID"
         },
         "agentjudionline.": {
             "included_at_epoch": 1590879165.106954,
             "included_at_iso": "2020-05-30T22:52:45.106954",
-            "last_retested_at_epoch": 1592607552.247847,
-            "last_retested_at_iso": "2020-06-19T22:59:12.247847",
+            "last_retested_at_epoch": 1592824427.321954,
+            "last_retested_at_iso": "2020-06-22T11:13:47.321954",
             "status": "INVALID"
         },
         "agentjuditerpercaya.": {
             "included_at_epoch": 1590879165.11196,
             "included_at_iso": "2020-05-30T22:52:45.111960",
-            "last_retested_at_epoch": 1592607552.272653,
-            "last_retested_at_iso": "2020-06-19T22:59:12.272653",
+            "last_retested_at_epoch": 1592824427.348193,
+            "last_retested_at_iso": "2020-06-22T11:13:47.348193",
             "status": "INVALID"
         },
         "agentogel-online.": {
             "included_at_epoch": 1590879165.117252,
             "included_at_iso": "2020-05-30T22:52:45.117252",
-            "last_retested_at_epoch": 1592607552.297891,
-            "last_retested_at_iso": "2020-06-19T22:59:12.297891",
+            "last_retested_at_epoch": 1592824427.374784,
+            "last_retested_at_iso": "2020-06-22T11:13:47.374784",
             "status": "INVALID"
         },
         "agentogel.": {
             "included_at_epoch": 1590879165.122548,
             "included_at_iso": "2020-05-30T22:52:45.122548",
-            "last_retested_at_epoch": 1592607552.322946,
-            "last_retested_at_iso": "2020-06-19T22:59:12.322946",
+            "last_retested_at_epoch": 1592824427.400891,
+            "last_retested_at_iso": "2020-06-22T11:13:47.400891",
             "status": "INVALID"
         },
         "agentogeljitu.": {
             "included_at_epoch": 1590879165.127781,
             "included_at_iso": "2020-05-30T22:52:45.127781",
-            "last_retested_at_epoch": 1592607552.348853,
-            "last_retested_at_iso": "2020-06-19T22:59:12.348853",
+            "last_retested_at_epoch": 1592824427.426546,
+            "last_retested_at_iso": "2020-06-22T11:13:47.426546",
             "status": "INVALID"
         },
         "agentogelonline.": {
             "included_at_epoch": 1590879165.132866,
             "included_at_iso": "2020-05-30T22:52:45.132866",
-            "last_retested_at_epoch": 1592607552.374654,
-            "last_retested_at_iso": "2020-06-19T22:59:12.374654",
+            "last_retested_at_epoch": 1592824427.452578,
+            "last_retested_at_iso": "2020-06-22T11:13:47.452578",
             "status": "INVALID"
         },
         "agenttaruhanonline.": {
             "included_at_epoch": 1590879165.138359,
             "included_at_iso": "2020-05-30T22:52:45.138359",
-            "last_retested_at_epoch": 1592607552.39988,
-            "last_retested_at_iso": "2020-06-19T22:59:12.399880",
+            "last_retested_at_epoch": 1592824427.478407,
+            "last_retested_at_iso": "2020-06-22T11:13:47.478407",
             "status": "INVALID"
         },
         "agenvimaxindo.": {
             "included_at_epoch": 1590879165.143728,
             "included_at_iso": "2020-05-30T22:52:45.143728",
-            "last_retested_at_epoch": 1592607552.425238,
-            "last_retested_at_iso": "2020-06-19T22:59:12.425238",
+            "last_retested_at_epoch": 1592824427.504175,
+            "last_retested_at_iso": "2020-06-22T11:13:47.504175",
             "status": "INVALID"
         },
         "agtwpoker.": {
             "included_at_epoch": 1590879165.149854,
             "included_at_iso": "2020-05-30T22:52:45.149854",
-            "last_retested_at_epoch": 1592607552.475606,
-            "last_retested_at_iso": "2020-06-19T22:59:12.475606",
+            "last_retested_at_epoch": 1592824427.555902,
+            "last_retested_at_iso": "2020-06-22T11:13:47.555902",
             "status": "INVALID"
         },
         "agungpoker.": {
             "included_at_epoch": 1590879165.162441,
             "included_at_iso": "2020-05-30T22:52:45.162441",
-            "last_retested_at_epoch": 1592607552.525765,
-            "last_retested_at_iso": "2020-06-19T22:59:12.525765",
+            "last_retested_at_epoch": 1592824427.610192,
+            "last_retested_at_iso": "2020-06-22T11:13:47.610192",
             "status": "INVALID"
         },
         "agungqiu.": {
             "included_at_epoch": 1590879165.174225,
             "included_at_iso": "2020-05-30T22:52:45.174225",
-            "last_retested_at_epoch": 1592607552.550689,
-            "last_retested_at_iso": "2020-06-19T22:59:12.550689",
+            "last_retested_at_epoch": 1592824427.63583,
+            "last_retested_at_iso": "2020-06-22T11:13:47.635830",
             "status": "INVALID"
         },
         "agungqq.": {
             "included_at_epoch": 1590879165.17968,
             "included_at_iso": "2020-05-30T22:52:45.179680",
-            "last_retested_at_epoch": 1592607552.575397,
-            "last_retested_at_iso": "2020-06-19T22:59:12.575397",
+            "last_retested_at_epoch": 1592824427.6618,
+            "last_retested_at_iso": "2020-06-22T11:13:47.661800",
             "status": "INVALID"
         },
         "agwcash.": {
             "included_at_epoch": 1590879165.185273,
             "included_at_iso": "2020-05-30T22:52:45.185273",
-            "last_retested_at_epoch": 1592607552.624658,
-            "last_retested_at_iso": "2020-06-19T22:59:12.624658",
+            "last_retested_at_epoch": 1592824427.71247,
+            "last_retested_at_iso": "2020-06-22T11:13:47.712470",
             "status": "INVALID"
         },
         "ahliqq.": {
             "included_at_epoch": 1590879165.196034,
             "included_at_iso": "2020-05-30T22:52:45.196034",
-            "last_retested_at_epoch": 1592607552.674052,
-            "last_retested_at_iso": "2020-06-19T22:59:12.674052",
+            "last_retested_at_epoch": 1592824427.765382,
+            "last_retested_at_iso": "2020-06-22T11:13:47.765382",
             "status": "INVALID"
         },
         "ajobola.": {
             "included_at_epoch": 1590879165.206641,
             "included_at_iso": "2020-05-30T22:52:45.206641",
-            "last_retested_at_epoch": 1592607552.725108,
-            "last_retested_at_iso": "2020-06-19T22:59:12.725108",
+            "last_retested_at_epoch": 1592824427.81587,
+            "last_retested_at_iso": "2020-06-22T11:13:47.815870",
             "status": "INVALID"
         },
         "aktorqq.": {
             "included_at_epoch": 1590879165.217046,
             "included_at_iso": "2020-05-30T22:52:45.217046",
-            "last_retested_at_epoch": 1592607552.775419,
-            "last_retested_at_iso": "2020-06-19T22:59:12.775419",
+            "last_retested_at_epoch": 1592824427.841608,
+            "last_retested_at_iso": "2020-06-22T11:13:47.841608",
             "status": "INVALID"
         },
         "aladincash7.": {
             "included_at_epoch": 1590879165.222263,
             "included_at_iso": "2020-05-30T22:52:45.222263",
-            "last_retested_at_epoch": 1592607552.750369,
-            "last_retested_at_iso": "2020-06-19T22:59:12.750369",
+            "last_retested_at_epoch": 1592824427.866688,
+            "last_retested_at_iso": "2020-06-22T11:13:47.866688",
             "status": "INVALID"
         },
         "aladincash7t.": {
             "included_at_epoch": 1590879165.228924,
             "included_at_iso": "2020-05-30T22:52:45.228924",
-            "last_retested_at_epoch": 1592607552.827557,
-            "last_retested_at_iso": "2020-06-19T22:59:12.827557",
+            "last_retested_at_epoch": 1592824427.918047,
+            "last_retested_at_iso": "2020-06-22T11:13:47.918047",
             "status": "INVALID"
         },
         "aladinpoker.": {
             "included_at_epoch": 1590879165.241783,
             "included_at_iso": "2020-05-30T22:52:45.241783",
-            "last_retested_at_epoch": 1592607552.8808,
-            "last_retested_at_iso": "2020-06-19T22:59:12.880800",
+            "last_retested_at_epoch": 1592824427.969363,
+            "last_retested_at_iso": "2020-06-22T11:13:47.969363",
             "status": "INVALID"
         },
         "alamiqq.": {
             "included_at_epoch": 1590879165.252812,
             "included_at_iso": "2020-05-30T22:52:45.252812",
-            "last_retested_at_epoch": 1592607552.932375,
-            "last_retested_at_iso": "2020-06-19T22:59:12.932375",
+            "last_retested_at_epoch": 1592824428.022415,
+            "last_retested_at_iso": "2020-06-22T11:13:48.022415",
             "status": "INVALID"
         },
         "alampoker.": {
             "included_at_epoch": 1590879165.264282,
             "included_at_iso": "2020-05-30T22:52:45.264282",
-            "last_retested_at_epoch": 1592607552.985405,
-            "last_retested_at_iso": "2020-06-19T22:59:12.985405",
+            "last_retested_at_epoch": 1592824428.074748,
+            "last_retested_at_iso": "2020-06-22T11:13:48.074748",
             "status": "INVALID"
         },
         "alexisbola.": {
             "included_at_epoch": 1590879165.27566,
             "included_at_iso": "2020-05-30T22:52:45.275660",
-            "last_retested_at_epoch": 1592607553.010927,
-            "last_retested_at_iso": "2020-06-19T22:59:13.010927",
+            "last_retested_at_epoch": 1592824428.101158,
+            "last_retested_at_iso": "2020-06-22T11:13:48.101158",
             "status": "INVALID"
         },
         "alternatif188bet.": {
             "included_at_epoch": 1590879165.281275,
             "included_at_iso": "2020-05-30T22:52:45.281275",
-            "last_retested_at_epoch": 1592607553.061064,
-            "last_retested_at_iso": "2020-06-19T22:59:13.061064",
+            "last_retested_at_epoch": 1592824428.153572,
+            "last_retested_at_iso": "2020-06-22T11:13:48.153572",
             "status": "INVALID"
         },
         "aman99.": {
             "included_at_epoch": 1590879165.292496,
             "included_at_iso": "2020-05-30T22:52:45.292496",
-            "last_retested_at_epoch": 1592607553.085807,
-            "last_retested_at_iso": "2020-06-19T22:59:13.085807",
+            "last_retested_at_epoch": 1592824428.180215,
+            "last_retested_at_iso": "2020-06-22T11:13:48.180215",
             "status": "INVALID"
         },
         "amanqq.": {
             "included_at_epoch": 1590879165.298188,
             "included_at_iso": "2020-05-30T22:52:45.298188",
-            "last_retested_at_epoch": 1592607553.135984,
-            "last_retested_at_iso": "2020-06-19T22:59:13.135984",
+            "last_retested_at_epoch": 1592824428.206961,
+            "last_retested_at_iso": "2020-06-22T11:13:48.206961",
             "status": "INVALID"
         },
         "amdbet.": {
             "included_at_epoch": 1590879165.303584,
             "included_at_iso": "2020-05-30T22:52:45.303584",
-            "last_retested_at_epoch": 1592607553.110511,
-            "last_retested_at_iso": "2020-06-19T22:59:13.110511",
+            "last_retested_at_epoch": 1592824428.232406,
+            "last_retested_at_iso": "2020-06-22T11:13:48.232406",
             "status": "INVALID"
         },
         "amdbet88.": {
             "included_at_epoch": 1590879165.309228,
             "included_at_iso": "2020-05-30T22:52:45.309228",
-            "last_retested_at_epoch": 1592607553.185545,
-            "last_retested_at_iso": "2020-06-19T22:59:13.185545",
+            "last_retested_at_epoch": 1592824428.284375,
+            "last_retested_at_iso": "2020-06-22T11:13:48.284375",
             "status": "INVALID"
         },
         "anekabola.": {
             "included_at_epoch": 1590879165.320259,
             "included_at_iso": "2020-05-30T22:52:45.320259",
-            "last_retested_at_epoch": 1592607553.235911,
-            "last_retested_at_iso": "2020-06-19T22:59:13.235911",
+            "last_retested_at_epoch": 1592824428.309861,
+            "last_retested_at_iso": "2020-06-22T11:13:48.309861",
             "status": "INVALID"
         },
         "anekaqq.": {
             "included_at_epoch": 1590879165.325856,
             "included_at_iso": "2020-05-30T22:52:45.325856",
-            "last_retested_at_epoch": 1592607553.28591,
-            "last_retested_at_iso": "2020-06-19T22:59:13.285910",
+            "last_retested_at_epoch": 1592824428.362984,
+            "last_retested_at_iso": "2020-06-22T11:13:48.362984",
             "status": "INVALID"
         },
         "angkajitutogel.": {
             "included_at_epoch": 1590879165.337094,
             "included_at_iso": "2020-05-30T22:52:45.337094",
-            "last_retested_at_epoch": 1592607553.310825,
-            "last_retested_at_iso": "2020-06-19T22:59:13.310825",
+            "last_retested_at_epoch": 1592824428.415277,
+            "last_retested_at_iso": "2020-06-22T11:13:48.415277",
             "status": "INVALID"
         },
         "angkakembar.": {
             "included_at_epoch": 1590879165.34808,
             "included_at_iso": "2020-05-30T22:52:45.348080",
-            "last_retested_at_epoch": 1592607553.361246,
-            "last_retested_at_iso": "2020-06-19T22:59:13.361246",
+            "last_retested_at_epoch": 1592824428.467306,
+            "last_retested_at_iso": "2020-06-22T11:13:48.467306",
             "status": "INVALID"
         },
         "angkatogel.": {
             "included_at_epoch": 1590879165.359363,
             "included_at_iso": "2020-05-30T22:52:45.359363",
-            "last_retested_at_epoch": 1592607553.386202,
-            "last_retested_at_iso": "2020-06-19T22:59:13.386202",
+            "last_retested_at_epoch": 1592824428.49316,
+            "last_retested_at_iso": "2020-06-22T11:13:48.493160",
             "status": "INVALID"
         },
         "antikqq.": {
             "included_at_epoch": 1590879165.365123,
             "included_at_iso": "2020-05-30T22:52:45.365123",
-            "last_retested_at_epoch": 1592607553.41187,
-            "last_retested_at_iso": "2020-06-19T22:59:13.411870",
+            "last_retested_at_epoch": 1592824428.51888,
+            "last_retested_at_iso": "2020-06-22T11:13:48.518880",
             "status": "INVALID"
         },
         "aoecash.": {
             "included_at_epoch": 1590879165.370781,
             "included_at_iso": "2020-05-30T22:52:45.370781",
-            "last_retested_at_epoch": 1592607553.462446,
-            "last_retested_at_iso": "2020-06-19T22:59:13.462446",
+            "last_retested_at_epoch": 1592824428.568891,
+            "last_retested_at_iso": "2020-06-22T11:13:48.568891",
             "status": "INVALID"
         },
         "aon-bet.": {
             "included_at_epoch": 1590879165.38203,
             "included_at_iso": "2020-05-30T22:52:45.382030",
-            "last_retested_at_epoch": 1592607553.513034,
-            "last_retested_at_iso": "2020-06-19T22:59:13.513034",
+            "last_retested_at_epoch": 1592824428.618878,
+            "last_retested_at_iso": "2020-06-22T11:13:48.618878",
             "status": "INVALID"
         },
         "aonbet.": {
             "included_at_epoch": 1590879165.393369,
             "included_at_iso": "2020-05-30T22:52:45.393369",
-            "last_retested_at_epoch": 1592607553.538183,
-            "last_retested_at_iso": "2020-06-19T22:59:13.538183",
+            "last_retested_at_epoch": 1592824428.643991,
+            "last_retested_at_iso": "2020-06-22T11:13:48.643991",
             "status": "INVALID"
         },
         "aoncash.": {
             "included_at_epoch": 1590879165.398839,
             "included_at_iso": "2020-05-30T22:52:45.398839",
-            "last_retested_at_epoch": 1592607553.564833,
-            "last_retested_at_iso": "2020-06-19T22:59:13.564833",
+            "last_retested_at_epoch": 1592824428.669221,
+            "last_retested_at_iso": "2020-06-22T11:13:48.669221",
             "status": "INVALID"
         },
         "apibet.": {
             "included_at_epoch": 1590879165.40479,
             "included_at_iso": "2020-05-30T22:52:45.404790",
-            "last_retested_at_epoch": 1592607553.591579,
-            "last_retested_at_iso": "2020-06-19T22:59:13.591579",
+            "last_retested_at_epoch": 1592824428.694347,
+            "last_retested_at_iso": "2020-06-22T11:13:48.694347",
             "status": "INVALID"
         },
         "areabet.": {
             "included_at_epoch": 1590879165.410573,
             "included_at_iso": "2020-05-30T22:52:45.410573",
-            "last_retested_at_epoch": 1592607553.616372,
-            "last_retested_at_iso": "2020-06-19T22:59:13.616372",
+            "last_retested_at_epoch": 1592824428.719654,
+            "last_retested_at_iso": "2020-06-22T11:13:48.719654",
             "status": "INVALID"
         },
         "areabola.": {
             "included_at_epoch": 1590879165.416103,
             "included_at_iso": "2020-05-30T22:52:45.416103",
-            "last_retested_at_epoch": 1592607553.668253,
-            "last_retested_at_iso": "2020-06-19T22:59:13.668253",
+            "last_retested_at_epoch": 1592824428.771302,
+            "last_retested_at_iso": "2020-06-22T11:13:48.771302",
             "status": "INVALID"
         },
         "arenacapsa.": {
             "included_at_epoch": 1590879165.42731,
             "included_at_iso": "2020-05-30T22:52:45.427310",
-            "last_retested_at_epoch": 1592607553.692716,
-            "last_retested_at_iso": "2020-06-19T22:59:13.692716",
+            "last_retested_at_epoch": 1592824428.79679,
+            "last_retested_at_iso": "2020-06-22T11:13:48.796790",
             "status": "INVALID"
         },
         "arenacash88.": {
             "included_at_epoch": 1590879165.433453,
             "included_at_iso": "2020-05-30T22:52:45.433453",
-            "last_retested_at_epoch": 1592607553.743447,
-            "last_retested_at_iso": "2020-06-19T22:59:13.743447",
+            "last_retested_at_epoch": 1592824428.847855,
+            "last_retested_at_iso": "2020-06-22T11:13:48.847855",
             "status": "INVALID"
         },
         "arenaqq.": {
             "included_at_epoch": 1590879165.445208,
             "included_at_iso": "2020-05-30T22:52:45.445208",
-            "last_retested_at_epoch": 1592607553.768255,
-            "last_retested_at_iso": "2020-06-19T22:59:13.768255",
+            "last_retested_at_epoch": 1592824428.873484,
+            "last_retested_at_iso": "2020-06-22T11:13:48.873484",
             "status": "INVALID"
         },
         "armanipoker.": {
             "included_at_epoch": 1590879165.451967,
             "included_at_iso": "2020-05-30T22:52:45.451967",
-            "last_retested_at_epoch": 1592607553.819224,
-            "last_retested_at_iso": "2020-06-19T22:59:13.819224",
+            "last_retested_at_epoch": 1592824428.924336,
+            "last_retested_at_iso": "2020-06-22T11:13:48.924336",
             "status": "INVALID"
         },
         "armaniqq.": {
             "included_at_epoch": 1590879165.4645,
             "included_at_iso": "2020-05-30T22:52:45.464500",
-            "last_retested_at_epoch": 1592607553.843628,
-            "last_retested_at_iso": "2020-06-19T22:59:13.843628",
+            "last_retested_at_epoch": 1592824428.949762,
+            "last_retested_at_iso": "2020-06-22T11:13:48.949762",
             "status": "INVALID"
         },
         "armanitogel.": {
             "included_at_epoch": 1590879165.470918,
             "included_at_iso": "2020-05-30T22:52:45.470918",
-            "last_retested_at_epoch": 1592607553.894216,
-            "last_retested_at_iso": "2020-06-19T22:59:13.894216",
+            "last_retested_at_epoch": 1592824429.001109,
+            "last_retested_at_iso": "2020-06-22T11:13:49.001109",
             "status": "INVALID"
         },
         "asalqq.": {
             "included_at_epoch": 1590879165.482577,
             "included_at_iso": "2020-05-30T22:52:45.482577",
-            "last_retested_at_epoch": 1592607553.945337,
-            "last_retested_at_iso": "2020-06-19T22:59:13.945337",
+            "last_retested_at_epoch": 1592824429.05197,
+            "last_retested_at_iso": "2020-06-22T11:13:49.051970",
             "status": "INVALID"
         },
         "asbet888.": {
             "included_at_epoch": 1590879165.49697,
             "included_at_iso": "2020-05-30T22:52:45.496970",
-            "last_retested_at_epoch": 1592607553.970328,
-            "last_retested_at_iso": "2020-06-19T22:59:13.970328",
+            "last_retested_at_epoch": 1592824429.07763,
+            "last_retested_at_iso": "2020-06-22T11:13:49.077630",
             "status": "INVALID"
         },
         "aseangol.": {
             "included_at_epoch": 1590879165.504969,
             "included_at_iso": "2020-05-30T22:52:45.504969",
-            "last_retested_at_epoch": 1592607553.996088,
-            "last_retested_at_iso": "2020-06-19T22:59:13.996088",
+            "last_retested_at_epoch": 1592824429.103305,
+            "last_retested_at_iso": "2020-06-22T11:13:49.103305",
             "status": "INVALID"
         },
         "aseanqq.": {
             "included_at_epoch": 1590879165.513996,
             "included_at_iso": "2020-05-30T22:52:45.513996",
-            "last_retested_at_epoch": 1592607554.02222,
-            "last_retested_at_iso": "2020-06-19T22:59:14.022220",
+            "last_retested_at_epoch": 1592824429.128502,
+            "last_retested_at_iso": "2020-06-22T11:13:49.128502",
             "status": "INVALID"
         },
         "asetbet.": {
             "included_at_epoch": 1590879165.520531,
             "included_at_iso": "2020-05-30T22:52:45.520531",
-            "last_retested_at_epoch": 1592607554.047723,
-            "last_retested_at_iso": "2020-06-19T22:59:14.047723",
+            "last_retested_at_epoch": 1592824429.15418,
+            "last_retested_at_iso": "2020-06-22T11:13:49.154180",
             "status": "INVALID"
         },
         "asia88bet.": {
             "included_at_epoch": 1590879165.527262,
             "included_at_iso": "2020-05-30T22:52:45.527262",
-            "last_retested_at_epoch": 1592607554.097318,
-            "last_retested_at_iso": "2020-06-19T22:59:14.097318",
+            "last_retested_at_epoch": 1592824429.205798,
+            "last_retested_at_iso": "2020-06-22T11:13:49.205798",
             "status": "INVALID"
         },
         "asiabandar.": {
             "included_at_epoch": 1590879165.54143,
             "included_at_iso": "2020-05-30T22:52:45.541430",
-            "last_retested_at_epoch": 1592607554.123378,
-            "last_retested_at_iso": "2020-06-19T22:59:14.123378",
+            "last_retested_at_epoch": 1592824429.23135,
+            "last_retested_at_iso": "2020-06-22T11:13:49.231350",
             "status": "INVALID"
         },
         "asiabandarkiu.": {
             "included_at_epoch": 1590879165.547569,
             "included_at_iso": "2020-05-30T22:52:45.547569",
-            "last_retested_at_epoch": 1592607554.174758,
-            "last_retested_at_iso": "2020-06-19T22:59:14.174758",
+            "last_retested_at_epoch": 1592824429.281324,
+            "last_retested_at_iso": "2020-06-22T11:13:49.281324",
             "status": "INVALID"
         },
         "asiabandarqq.": {
             "included_at_epoch": 1590879165.560283,
             "included_at_iso": "2020-05-30T22:52:45.560283",
-            "last_retested_at_epoch": 1592607554.200621,
-            "last_retested_at_iso": "2020-06-19T22:59:14.200621",
+            "last_retested_at_epoch": 1592824429.307281,
+            "last_retested_at_iso": "2020-06-22T11:13:49.307281",
             "status": "INVALID"
         },
         "asiabet.": {
             "included_at_epoch": 1590879165.566266,
             "included_at_iso": "2020-05-30T22:52:45.566266",
-            "last_retested_at_epoch": 1592607554.225553,
-            "last_retested_at_iso": "2020-06-19T22:59:14.225553",
+            "last_retested_at_epoch": 1592824429.332575,
+            "last_retested_at_iso": "2020-06-22T11:13:49.332575",
             "status": "INVALID"
         },
         "asiabet66.": {
             "included_at_epoch": 1590879165.572176,
             "included_at_iso": "2020-05-30T22:52:45.572176",
-            "last_retested_at_epoch": 1592607554.251486,
-            "last_retested_at_iso": "2020-06-19T22:59:14.251486",
+            "last_retested_at_epoch": 1592824429.358683,
+            "last_retested_at_iso": "2020-06-22T11:13:49.358683",
             "status": "INVALID"
         },
         "asiabolabet.": {
             "included_at_epoch": 1590879165.578331,
             "included_at_iso": "2020-05-30T22:52:45.578331",
-            "last_retested_at_epoch": 1592607554.302632,
-            "last_retested_at_iso": "2020-06-19T22:59:14.302632",
+            "last_retested_at_epoch": 1592824429.410591,
+            "last_retested_at_iso": "2020-06-22T11:13:49.410591",
             "status": "INVALID"
         },
         "asiaforbet.": {
             "included_at_epoch": 1590879165.590278,
             "included_at_iso": "2020-05-30T22:52:45.590278",
-            "last_retested_at_epoch": 1592607554.327584,
-            "last_retested_at_iso": "2020-06-19T22:59:14.327584",
+            "last_retested_at_epoch": 1592824429.436474,
+            "last_retested_at_iso": "2020-06-22T11:13:49.436474",
             "status": "INVALID"
         },
         "asiakasino.": {
             "included_at_epoch": 1590879165.596616,
             "included_at_iso": "2020-05-30T22:52:45.596616",
-            "last_retested_at_epoch": 1592607554.35351,
-            "last_retested_at_iso": "2020-06-19T22:59:14.353510",
+            "last_retested_at_epoch": 1592824429.462366,
+            "last_retested_at_iso": "2020-06-22T11:13:49.462366",
             "status": "INVALID"
         },
         "asian4d.": {
             "included_at_epoch": 1590879165.602769,
             "included_at_iso": "2020-05-30T22:52:45.602769",
-            "last_retested_at_epoch": 1592607554.404952,
-            "last_retested_at_iso": "2020-06-19T22:59:14.404952",
+            "last_retested_at_epoch": 1592824429.516522,
+            "last_retested_at_iso": "2020-06-22T11:13:49.516522",
             "status": "INVALID"
         },
         "asianbandarq.": {
             "included_at_epoch": 1590879165.615044,
             "included_at_iso": "2020-05-30T22:52:45.615044",
-            "last_retested_at_epoch": 1592607554.456451,
-            "last_retested_at_iso": "2020-06-19T22:59:14.456451",
+            "last_retested_at_epoch": 1592824429.568907,
+            "last_retested_at_iso": "2020-06-22T11:13:49.568907",
             "status": "INVALID"
         },
         "asianbrain.": {
             "included_at_epoch": 1590879165.626962,
             "included_at_iso": "2020-05-30T22:52:45.626962",
-            "last_retested_at_epoch": 1592607554.507106,
-            "last_retested_at_iso": "2020-06-19T22:59:14.507106",
+            "last_retested_at_epoch": 1592824429.620828,
+            "last_retested_at_iso": "2020-06-22T11:13:49.620828",
             "status": "INVALID"
         },
         "asianpokerseo.": {
             "included_at_epoch": 1590879165.639091,
             "included_at_iso": "2020-05-30T22:52:45.639091",
-            "last_retested_at_epoch": 1592607554.556934,
-            "last_retested_at_iso": "2020-06-19T22:59:14.556934",
+            "last_retested_at_epoch": 1592824429.672178,
+            "last_retested_at_iso": "2020-06-22T11:13:49.672178",
             "status": "INVALID"
         },
         "asiantogel.": {
             "included_at_epoch": 1590879165.651156,
             "included_at_iso": "2020-05-30T22:52:45.651156",
-            "last_retested_at_epoch": 1592607554.582078,
-            "last_retested_at_iso": "2020-06-19T22:59:14.582078",
+            "last_retested_at_epoch": 1592824429.69858,
+            "last_retested_at_iso": "2020-06-22T11:13:49.698580",
             "status": "INVALID"
         },
         "asiapoker.": {
             "included_at_epoch": 1590879165.657669,
             "included_at_iso": "2020-05-30T22:52:45.657669",
-            "last_retested_at_epoch": 1592607554.633669,
-            "last_retested_at_iso": "2020-06-19T22:59:14.633669",
+            "last_retested_at_epoch": 1592824429.752674,
+            "last_retested_at_iso": "2020-06-22T11:13:49.752674",
             "status": "INVALID"
         },
         "asiaqq.": {
             "included_at_epoch": 1590879165.671127,
             "included_at_iso": "2020-05-30T22:52:45.671127",
-            "last_retested_at_epoch": 1592607554.65958,
-            "last_retested_at_iso": "2020-06-19T22:59:14.659580",
+            "last_retested_at_epoch": 1592824429.77916,
+            "last_retested_at_iso": "2020-06-22T11:13:49.779160",
             "status": "INVALID"
         },
         "asiatoto.": {
             "included_at_epoch": 1590879165.677828,
             "included_at_iso": "2020-05-30T22:52:45.677828",
-            "last_retested_at_epoch": 1592607554.684479,
-            "last_retested_at_iso": "2020-06-19T22:59:14.684479",
+            "last_retested_at_epoch": 1592824429.831094,
+            "last_retested_at_iso": "2020-06-22T11:13:49.831094",
             "status": "INVALID"
         },
         "asikbookie.": {
             "included_at_epoch": 1590879165.684196,
             "included_at_iso": "2020-05-30T22:52:45.684196",
-            "last_retested_at_epoch": 1592607554.733948,
-            "last_retested_at_iso": "2020-06-19T22:59:14.733948",
+            "last_retested_at_epoch": 1592824429.856699,
+            "last_retested_at_iso": "2020-06-22T11:13:49.856699",
             "status": "INVALID"
         },
         "asikqq.": {
             "included_at_epoch": 1590879165.69734,
             "included_at_iso": "2020-05-30T22:52:45.697340",
-            "last_retested_at_epoch": 1592607554.758604,
-            "last_retested_at_iso": "2020-06-19T22:59:14.758604",
+            "last_retested_at_epoch": 1592824429.883145,
+            "last_retested_at_iso": "2020-06-22T11:13:49.883145",
             "status": "INVALID"
         },
         "asliqq.": {
             "included_at_epoch": 1590879165.703433,
             "included_at_iso": "2020-05-30T22:52:45.703433",
-            "last_retested_at_epoch": 1592607554.783793,
-            "last_retested_at_iso": "2020-06-19T22:59:14.783793",
+            "last_retested_at_epoch": 1592824429.936478,
+            "last_retested_at_iso": "2020-06-22T11:13:49.936478",
             "status": "INVALID"
         },
         "astonbet.": {
             "included_at_epoch": 1590879165.715795,
             "included_at_iso": "2020-05-30T22:52:45.715795",
-            "last_retested_at_epoch": 1592607554.809568,
-            "last_retested_at_iso": "2020-06-19T22:59:14.809568",
+            "last_retested_at_epoch": 1592824429.909566,
+            "last_retested_at_iso": "2020-06-22T11:13:49.909566",
             "status": "INVALID"
         },
         "astonbola.": {
             "included_at_epoch": 1590879165.709693,
             "included_at_iso": "2020-05-30T22:52:45.709693",
-            "last_retested_at_epoch": 1592607554.861585,
-            "last_retested_at_iso": "2020-06-19T22:59:14.861585",
+            "last_retested_at_epoch": 1592824429.98975,
+            "last_retested_at_iso": "2020-06-22T11:13:49.989750",
             "status": "INVALID"
         },
         "astonwin.": {
             "included_at_epoch": 1590879165.728102,
             "included_at_iso": "2020-05-30T22:52:45.728102",
-            "last_retested_at_epoch": 1592607554.886671,
-            "last_retested_at_iso": "2020-06-19T22:59:14.886671",
+            "last_retested_at_epoch": 1592824430.016254,
+            "last_retested_at_iso": "2020-06-22T11:13:50.016254",
             "status": "INVALID"
         },
         "astrototo.": {
             "included_at_epoch": 1590879165.734573,
             "included_at_iso": "2020-05-30T22:52:45.734573",
-            "last_retested_at_epoch": 1592607554.962611,
-            "last_retested_at_iso": "2020-06-19T22:59:14.962611",
+            "last_retested_at_epoch": 1592824430.069475,
+            "last_retested_at_iso": "2020-06-22T11:13:50.069475",
             "status": "INVALID"
         },
         "auxbet.": {
             "included_at_epoch": 1590879165.747502,
             "included_at_iso": "2020-05-30T22:52:45.747502",
-            "last_retested_at_epoch": 1592607554.988739,
-            "last_retested_at_iso": "2020-06-19T22:59:14.988739",
+            "last_retested_at_epoch": 1592824430.121722,
+            "last_retested_at_iso": "2020-06-22T11:13:50.121722",
             "status": "INVALID"
         },
         "avoqq.": {
             "included_at_epoch": 1590879165.759643,
             "included_at_iso": "2020-05-30T22:52:45.759643",
-            "last_retested_at_epoch": 1592607555.013634,
-            "last_retested_at_iso": "2020-06-19T22:59:15.013634",
+            "last_retested_at_epoch": 1592824430.147425,
+            "last_retested_at_iso": "2020-06-22T11:13:50.147425",
             "status": "INVALID"
         },
         "awbet.": {
             "included_at_epoch": 1590879165.766053,
             "included_at_iso": "2020-05-30T22:52:45.766053",
-            "last_retested_at_epoch": 1592607555.038531,
-            "last_retested_at_iso": "2020-06-19T22:59:15.038531",
+            "last_retested_at_epoch": 1592824430.173391,
+            "last_retested_at_iso": "2020-06-22T11:13:50.173391",
             "status": "INVALID"
         },
         "axiobola.": {
             "included_at_epoch": 1590879165.772049,
             "included_at_iso": "2020-05-30T22:52:45.772049",
-            "last_retested_at_epoch": 1592607555.087666,
-            "last_retested_at_iso": "2020-06-19T22:59:15.087666",
+            "last_retested_at_epoch": 1592824430.225553,
+            "last_retested_at_iso": "2020-06-22T11:13:50.225553",
             "status": "INVALID"
         },
         "axiooqq.": {
             "included_at_epoch": 1590879165.784572,
             "included_at_iso": "2020-05-30T22:52:45.784572",
-            "last_retested_at_epoch": 1592607555.113222,
-            "last_retested_at_iso": "2020-06-19T22:59:15.113222",
+            "last_retested_at_epoch": 1592824430.250762,
+            "last_retested_at_iso": "2020-06-22T11:13:50.250762",
             "status": "INVALID"
         },
         "ayojuara.": {
             "included_at_epoch": 1590879165.790994,
             "included_at_iso": "2020-05-30T22:52:45.790994",
-            "last_retested_at_epoch": 1592607555.164213,
-            "last_retested_at_iso": "2020-06-19T22:59:15.164213",
+            "last_retested_at_epoch": 1592824430.303527,
+            "last_retested_at_iso": "2020-06-22T11:13:50.303527",
             "status": "INVALID"
         },
         "ayomainqq.": {
             "included_at_epoch": 1590879165.804099,
             "included_at_iso": "2020-05-30T22:52:45.804099",
-            "last_retested_at_epoch": 1592607555.214678,
-            "last_retested_at_iso": "2020-06-19T22:59:15.214678",
+            "last_retested_at_epoch": 1592824430.355622,
+            "last_retested_at_iso": "2020-06-22T11:13:50.355622",
             "status": "INVALID"
         },
         "ayoqq.": {
             "included_at_epoch": 1590879165.816475,
             "included_at_iso": "2020-05-30T22:52:45.816475",
-            "last_retested_at_epoch": 1592607555.239715,
-            "last_retested_at_iso": "2020-06-19T22:59:15.239715",
+            "last_retested_at_epoch": 1592824430.381502,
+            "last_retested_at_iso": "2020-06-22T11:13:50.381502",
             "status": "INVALID"
         },
         "ayoqqnew.": {
             "included_at_epoch": 1590879165.823011,
             "included_at_iso": "2020-05-30T22:52:45.823011",
-            "last_retested_at_epoch": 1592607555.264456,
-            "last_retested_at_iso": "2020-06-19T22:59:15.264456",
+            "last_retested_at_epoch": 1592824430.406927,
+            "last_retested_at_iso": "2020-06-22T11:13:50.406927",
             "status": "INVALID"
         },
         "ayoqqsakong.": {
             "included_at_epoch": 1590879165.829532,
             "included_at_iso": "2020-05-30T22:52:45.829532",
-            "last_retested_at_epoch": 1592607555.289226,
-            "last_retested_at_iso": "2020-06-19T22:59:15.289226",
+            "last_retested_at_epoch": 1592824430.432323,
+            "last_retested_at_iso": "2020-06-22T11:13:50.432323",
             "status": "INVALID"
         },
         "ayukqq.": {
             "included_at_epoch": 1590879165.835815,
             "included_at_iso": "2020-05-30T22:52:45.835815",
-            "last_retested_at_epoch": 1592607555.314236,
-            "last_retested_at_iso": "2020-06-19T22:59:15.314236",
+            "last_retested_at_epoch": 1592824430.457835,
+            "last_retested_at_iso": "2020-06-22T11:13:50.457835",
             "status": "INVALID"
         },
         "b2poker.": {
             "included_at_epoch": 1590879165.842211,
             "included_at_iso": "2020-05-30T22:52:45.842211",
-            "last_retested_at_epoch": 1592607555.365652,
-            "last_retested_at_iso": "2020-06-19T22:59:15.365652",
+            "last_retested_at_epoch": 1592824430.50986,
+            "last_retested_at_iso": "2020-06-22T11:13:50.509860",
             "status": "INVALID"
         },
         "bacanpoker.": {
             "included_at_epoch": 1590879165.855486,
             "included_at_iso": "2020-05-30T22:52:45.855486",
-            "last_retested_at_epoch": 1592607555.391138,
-            "last_retested_at_iso": "2020-06-19T22:59:15.391138",
+            "last_retested_at_epoch": 1592824430.53689,
+            "last_retested_at_iso": "2020-06-22T11:13:50.536890",
             "status": "INVALID"
         },
         "badutqq.": {
             "included_at_epoch": 1590879165.861887,
             "included_at_iso": "2020-05-30T22:52:45.861887",
-            "last_retested_at_epoch": 1592607555.416445,
-            "last_retested_at_iso": "2020-06-19T22:59:15.416445",
+            "last_retested_at_epoch": 1592824430.562186,
+            "last_retested_at_iso": "2020-06-22T11:13:50.562186",
             "status": "INVALID"
         },
         "baftarbandarkiu.": {
             "included_at_epoch": 1590879165.868139,
             "included_at_iso": "2020-05-30T22:52:45.868139",
-            "last_retested_at_epoch": 1592607555.467728,
-            "last_retested_at_iso": "2020-06-19T22:59:15.467728",
+            "last_retested_at_epoch": 1592824430.614042,
+            "last_retested_at_iso": "2020-06-22T11:13:50.614042",
             "status": "INVALID"
         },
         "bagusqq.": {
             "included_at_epoch": 1590879165.880761,
             "included_at_iso": "2020-05-30T22:52:45.880761",
-            "last_retested_at_epoch": 1592607555.49319,
-            "last_retested_at_iso": "2020-06-19T22:59:15.493190",
+            "last_retested_at_epoch": 1592824430.640589,
+            "last_retested_at_iso": "2020-06-22T11:13:50.640589",
             "status": "INVALID"
         },
         "balak9.": {
             "included_at_epoch": 1590879165.88707,
             "included_at_iso": "2020-05-30T22:52:45.887070",
-            "last_retested_at_epoch": 1592607555.544251,
-            "last_retested_at_iso": "2020-06-19T22:59:15.544251",
+            "last_retested_at_epoch": 1592824430.692802,
+            "last_retested_at_iso": "2020-06-22T11:13:50.692802",
             "status": "INVALID"
         },
         "balakdewa.": {
             "included_at_epoch": 1590879165.899752,
             "included_at_iso": "2020-05-30T22:52:45.899752",
-            "last_retested_at_epoch": 1592607555.569008,
-            "last_retested_at_iso": "2020-06-19T22:59:15.569008",
+            "last_retested_at_epoch": 1592824430.718609,
+            "last_retested_at_iso": "2020-06-22T11:13:50.718609",
             "status": "INVALID"
         },
         "balakqq.": {
             "included_at_epoch": 1590879165.906215,
             "included_at_iso": "2020-05-30T22:52:45.906215",
-            "last_retested_at_epoch": 1592607901.566062,
-            "last_retested_at_iso": "2020-06-19T23:05:01.566062",
+            "last_retested_at_epoch": 1592824430.769664,
+            "last_retested_at_iso": "2020-06-22T11:13:50.769664",
             "status": "INVALID"
         },
         "bandar228.": {
             "included_at_epoch": 1590879165.919994,
             "included_at_iso": "2020-05-30T22:52:45.919994",
-            "last_retested_at_epoch": 1592607901.621006,
-            "last_retested_at_iso": "2020-06-19T23:05:01.621006",
+            "last_retested_at_epoch": 1592824430.820859,
+            "last_retested_at_iso": "2020-06-22T11:13:50.820859",
             "status": "INVALID"
         },
         "bandar2d.": {
             "included_at_epoch": 1590879165.934342,
             "included_at_iso": "2020-05-30T22:52:45.934342",
-            "last_retested_at_epoch": 1592607901.648403,
-            "last_retested_at_iso": "2020-06-19T23:05:01.648403",
+            "last_retested_at_epoch": 1592824430.872096,
+            "last_retested_at_iso": "2020-06-22T11:13:50.872096",
             "status": "INVALID"
         },
         "bandar55.": {
             "included_at_epoch": 1590879165.940863,
             "included_at_iso": "2020-05-30T22:52:45.940863",
-            "last_retested_at_epoch": 1592607901.701337,
-            "last_retested_at_iso": "2020-06-19T23:05:01.701337",
+            "last_retested_at_epoch": 1592824430.923629,
+            "last_retested_at_iso": "2020-06-22T11:13:50.923629",
             "status": "INVALID"
         },
         "bandar66.": {
             "included_at_epoch": 1590879165.953734,
             "included_at_iso": "2020-05-30T22:52:45.953734",
-            "last_retested_at_epoch": 1592607901.727629,
-            "last_retested_at_iso": "2020-06-19T23:05:01.727629",
+            "last_retested_at_epoch": 1592824430.897704,
+            "last_retested_at_iso": "2020-06-22T11:13:50.897704",
             "status": "INVALID"
         },
         "bandarasia.": {
             "included_at_epoch": 1590879165.960134,
             "included_at_iso": "2020-05-30T22:52:45.960134",
-            "last_retested_at_epoch": 1592607901.779824,
-            "last_retested_at_iso": "2020-06-19T23:05:01.779824",
+            "last_retested_at_epoch": 1592824430.975313,
+            "last_retested_at_iso": "2020-06-22T11:13:50.975313",
             "status": "INVALID"
         },
         "bandarbet.": {
             "included_at_epoch": 1590879165.974124,
             "included_at_iso": "2020-05-30T22:52:45.974124",
-            "last_retested_at_epoch": 1592607901.806209,
-            "last_retested_at_iso": "2020-06-19T23:05:01.806209",
+            "last_retested_at_epoch": 1592824431.00122,
+            "last_retested_at_iso": "2020-06-22T11:13:51.001220",
             "status": "INVALID"
         },
         "bandarbet77.": {
             "included_at_epoch": 1590879165.980943,
             "included_at_iso": "2020-05-30T22:52:45.980943",
-            "last_retested_at_epoch": 1592607901.86002,
-            "last_retested_at_iso": "2020-06-19T23:05:01.860020",
+            "last_retested_at_epoch": 1592824431.052971,
+            "last_retested_at_iso": "2020-06-22T11:13:51.052971",
             "status": "INVALID"
         },
         "bandarbolaasia.": {
             "included_at_epoch": 1590879165.995724,
             "included_at_iso": "2020-05-30T22:52:45.995724",
-            "last_retested_at_epoch": 1592607901.914947,
-            "last_retested_at_iso": "2020-06-19T23:05:01.914947",
+            "last_retested_at_epoch": 1592824431.103533,
+            "last_retested_at_iso": "2020-06-22T11:13:51.103533",
             "status": "INVALID"
         },
         "bandarbursa.": {
             "included_at_epoch": 1590879166.009942,
             "included_at_iso": "2020-05-30T22:52:46.009942",
-            "last_retested_at_epoch": 1592607901.969391,
-            "last_retested_at_iso": "2020-06-19T23:05:01.969391",
+            "last_retested_at_epoch": 1592824431.154239,
+            "last_retested_at_iso": "2020-06-22T11:13:51.154239",
             "status": "INVALID"
         },
         "bandarg.": {
             "included_at_epoch": 1590879166.029496,
             "included_at_iso": "2020-05-30T22:52:46.029496",
-            "last_retested_at_epoch": 1592607901.995152,
-            "last_retested_at_iso": "2020-06-19T23:05:01.995152",
+            "last_retested_at_epoch": 1592824431.179879,
+            "last_retested_at_iso": "2020-06-22T11:13:51.179879",
             "status": "INVALID"
         },
         "bandarjudi.": {
             "included_at_epoch": 1590879166.022916,
             "included_at_iso": "2020-05-30T22:52:46.022916",
-            "last_retested_at_epoch": 1592607902.048266,
-            "last_retested_at_iso": "2020-06-19T23:05:02.048266",
+            "last_retested_at_epoch": 1592824431.230942,
+            "last_retested_at_iso": "2020-06-22T11:13:51.230942",
             "status": "INVALID"
         },
         "bandarjudi338a.": {
             "included_at_epoch": 1590879166.042851,
             "included_at_iso": "2020-05-30T22:52:46.042851",
-            "last_retested_at_epoch": 1592607902.074805,
-            "last_retested_at_iso": "2020-06-19T23:05:02.074805",
+            "last_retested_at_epoch": 1592824431.281961,
+            "last_retested_at_iso": "2020-06-22T11:13:51.281961",
             "status": "INVALID"
         },
         "bandarjudibola.": {
             "included_at_epoch": 1590879166.049606,
             "included_at_iso": "2020-05-30T22:52:46.049606",
-            "last_retested_at_epoch": 1592607902.104794,
-            "last_retested_at_iso": "2020-06-19T23:05:02.104794",
+            "last_retested_at_epoch": 1592824431.256478,
+            "last_retested_at_iso": "2020-06-22T11:13:51.256478",
             "status": "INVALID"
         },
         "bandarjudiibcbet.": {
             "included_at_epoch": 1590879166.05628,
             "included_at_iso": "2020-05-30T22:52:46.056280",
-            "last_retested_at_epoch": 1592607902.130901,
-            "last_retested_at_iso": "2020-06-19T23:05:02.130901",
+            "last_retested_at_epoch": 1592824431.307621,
+            "last_retested_at_iso": "2020-06-22T11:13:51.307621",
             "status": "INVALID"
         },
         "bandarjudiinternet.": {
             "included_at_epoch": 1590879166.063043,
             "included_at_iso": "2020-05-30T22:52:46.063043",
-            "last_retested_at_epoch": 1592607902.15727,
-            "last_retested_at_iso": "2020-06-19T23:05:02.157270",
+            "last_retested_at_epoch": 1592824431.332693,
+            "last_retested_at_iso": "2020-06-22T11:13:51.332693",
             "status": "INVALID"
         },
         "bandarjudionline.": {
             "included_at_epoch": 1590879166.069716,
             "included_at_iso": "2020-05-30T22:52:46.069716",
-            "last_retested_at_epoch": 1592607902.184034,
-            "last_retested_at_iso": "2020-06-19T23:05:02.184034",
+            "last_retested_at_epoch": 1592824431.358114,
+            "last_retested_at_iso": "2020-06-22T11:13:51.358114",
             "status": "INVALID"
         },
         "bandarjudisbobet.": {
             "included_at_epoch": 1590879166.082864,
             "included_at_iso": "2020-05-30T22:52:46.082864",
-            "last_retested_at_epoch": 1592607902.210098,
-            "last_retested_at_iso": "2020-06-19T23:05:02.210098",
+            "last_retested_at_epoch": 1592824431.383408,
+            "last_retested_at_iso": "2020-06-22T11:13:51.383408",
             "status": "INVALID"
         },
         "bandarjuditaruhan.": {
             "included_at_epoch": 1590879166.076212,
             "included_at_iso": "2020-05-30T22:52:46.076212",
-            "last_retested_at_epoch": 1592607902.236725,
-            "last_retested_at_iso": "2020-06-19T23:05:02.236725",
+            "last_retested_at_epoch": 1592824431.4093,
+            "last_retested_at_iso": "2020-06-22T11:13:51.409300",
             "status": "INVALID"
         },
         "bandarkiu.": {
             "included_at_epoch": 1590879166.089732,
             "included_at_iso": "2020-05-30T22:52:46.089732",
-            "last_retested_at_epoch": 1592607902.290659,
-            "last_retested_at_iso": "2020-06-19T23:05:02.290659",
+            "last_retested_at_epoch": 1592824431.461108,
+            "last_retested_at_iso": "2020-06-22T11:13:51.461108",
             "status": "INVALID"
         },
         "bandarpoker.": {
             "included_at_epoch": 1590879166.104162,
             "included_at_iso": "2020-05-30T22:52:46.104162",
-            "last_retested_at_epoch": 1592607902.344486,
-            "last_retested_at_iso": "2020-06-19T23:05:02.344486",
+            "last_retested_at_epoch": 1592824431.513919,
+            "last_retested_at_iso": "2020-06-22T11:13:51.513919",
             "status": "INVALID"
         },
         "bandarq.": {
             "included_at_epoch": 1590879166.118437,
             "included_at_iso": "2020-05-30T22:52:46.118437",
-            "last_retested_at_epoch": 1592607902.398521,
-            "last_retested_at_iso": "2020-06-19T23:05:02.398521",
+            "last_retested_at_epoch": 1592824431.566889,
+            "last_retested_at_iso": "2020-06-22T11:13:51.566889",
             "status": "INVALID"
         },
         "bandarq168.": {
             "included_at_epoch": 1590879166.132517,
             "included_at_iso": "2020-05-30T22:52:46.132517",
-            "last_retested_at_epoch": 1592607902.427701,
-            "last_retested_at_iso": "2020-06-19T23:05:02.427701",
+            "last_retested_at_epoch": 1592824431.592524,
+            "last_retested_at_iso": "2020-06-22T11:13:51.592524",
             "status": "INVALID"
         },
         "bandarq728x90.": {
             "included_at_epoch": 1590879166.139479,
             "included_at_iso": "2020-05-30T22:52:46.139479",
-            "last_retested_at_epoch": 1592607902.45421,
-            "last_retested_at_iso": "2020-06-19T23:05:02.454210",
+            "last_retested_at_epoch": 1592824431.617327,
+            "last_retested_at_iso": "2020-06-22T11:13:51.617327",
             "status": "INVALID"
         },
         "bandarqq.": {
             "included_at_epoch": 1590879166.146291,
             "included_at_iso": "2020-05-30T22:52:46.146291",
-            "last_retested_at_epoch": 1592607902.507924,
-            "last_retested_at_iso": "2020-06-19T23:05:02.507924",
+            "last_retested_at_epoch": 1592824431.669733,
+            "last_retested_at_iso": "2020-06-22T11:13:51.669733",
             "status": "INVALID"
         },
         "bandarqq365.": {
             "included_at_epoch": 1590879166.159787,
             "included_at_iso": "2020-05-30T22:52:46.159787",
-            "last_retested_at_epoch": 1592607902.534103,
-            "last_retested_at_iso": "2020-06-19T23:05:02.534103",
+            "last_retested_at_epoch": 1592824431.696216,
+            "last_retested_at_iso": "2020-06-22T11:13:51.696216",
             "status": "INVALID"
         },
         "bandarqterpercaya.": {
             "included_at_epoch": 1590879166.166827,
             "included_at_iso": "2020-05-30T22:52:46.166827",
-            "last_retested_at_epoch": 1592607902.586085,
-            "last_retested_at_iso": "2020-06-19T23:05:02.586085",
+            "last_retested_at_epoch": 1592824431.747076,
+            "last_retested_at_iso": "2020-06-22T11:13:51.747076",
             "status": "INVALID"
         },
         "bandarsakong.": {
             "included_at_epoch": 1590879166.180869,
             "included_at_iso": "2020-05-30T22:52:46.180869",
-            "last_retested_at_epoch": 1592607902.638801,
-            "last_retested_at_iso": "2020-06-19T23:05:02.638801",
+            "last_retested_at_epoch": 1592824431.799172,
+            "last_retested_at_iso": "2020-06-22T11:13:51.799172",
             "status": "INVALID"
         },
         "bandarsatu.": {
             "included_at_epoch": 1590879166.195444,
             "included_at_iso": "2020-05-30T22:52:46.195444",
-            "last_retested_at_epoch": 1592607902.665923,
-            "last_retested_at_iso": "2020-06-19T23:05:02.665923",
+            "last_retested_at_epoch": 1592824431.825232,
+            "last_retested_at_iso": "2020-06-22T11:13:51.825232",
             "status": "INVALID"
         },
         "bandartaruhan.": {
             "included_at_epoch": 1590879166.202535,
             "included_at_iso": "2020-05-30T22:52:46.202535",
-            "last_retested_at_epoch": 1592607902.718364,
-            "last_retested_at_iso": "2020-06-19T23:05:02.718364",
+            "last_retested_at_epoch": 1592824431.902863,
+            "last_retested_at_iso": "2020-06-22T11:13:51.902863",
             "status": "INVALID"
         },
         "bandartaruhanbola.": {
             "included_at_epoch": 1590879166.216532,
             "included_at_iso": "2020-05-30T22:52:46.216532",
-            "last_retested_at_epoch": 1592607902.745923,
-            "last_retested_at_iso": "2020-06-19T23:05:02.745923",
+            "last_retested_at_epoch": 1592824431.87682,
+            "last_retested_at_iso": "2020-06-22T11:13:51.876820",
             "status": "INVALID"
         },
         "bandartaruhancasino.": {
             "included_at_epoch": 1590879166.22345,
             "included_at_iso": "2020-05-30T22:52:46.223450",
-            "last_retested_at_epoch": 1592607902.773206,
-            "last_retested_at_iso": "2020-06-19T23:05:02.773206",
+            "last_retested_at_epoch": 1592824431.928983,
+            "last_retested_at_iso": "2020-06-22T11:13:51.928983",
             "status": "INVALID"
         },
         "bandartaruhanibcbet.": {
             "included_at_epoch": 1590879166.230514,
             "included_at_iso": "2020-05-30T22:52:46.230514",
-            "last_retested_at_epoch": 1592607902.800286,
-            "last_retested_at_iso": "2020-06-19T23:05:02.800286",
+            "last_retested_at_epoch": 1592824431.954576,
+            "last_retested_at_iso": "2020-06-22T11:13:51.954576",
             "status": "INVALID"
         },
         "bandartaruhanjudi.": {
             "included_at_epoch": 1590879166.237493,
             "included_at_iso": "2020-05-30T22:52:46.237493",
-            "last_retested_at_epoch": 1592607902.826628,
-            "last_retested_at_iso": "2020-06-19T23:05:02.826628",
+            "last_retested_at_epoch": 1592824431.980377,
+            "last_retested_at_iso": "2020-06-22T11:13:51.980377",
             "status": "INVALID"
         },
         "bandartogel.": {
             "included_at_epoch": 1590879166.244526,
             "included_at_iso": "2020-05-30T22:52:46.244526",
-            "last_retested_at_epoch": 1592607902.852869,
-            "last_retested_at_iso": "2020-06-19T23:05:02.852869",
+            "last_retested_at_epoch": 1592824432.005285,
+            "last_retested_at_iso": "2020-06-22T11:13:52.005285",
             "status": "INVALID"
         },
         "bandartogelsingapore.": {
             "included_at_epoch": 1590879166.251732,
             "included_at_iso": "2020-05-30T22:52:46.251732",
-            "last_retested_at_epoch": 1592607902.908569,
-            "last_retested_at_iso": "2020-06-19T23:05:02.908569",
+            "last_retested_at_epoch": 1592824432.057358,
+            "last_retested_at_iso": "2020-06-22T11:13:52.057358",
             "status": "INVALID"
         },
         "bandartoke.": {
             "included_at_epoch": 1590879166.265894,
             "included_at_iso": "2020-05-30T22:52:46.265894",
-            "last_retested_at_epoch": 1592607902.934783,
-            "last_retested_at_iso": "2020-06-19T23:05:02.934783",
+            "last_retested_at_epoch": 1592824432.10922,
+            "last_retested_at_iso": "2020-06-22T11:13:52.109220",
             "status": "INVALID"
         },
         "bangun3.com": {
@@ -1963,316 +1963,316 @@
         "barakjudi.": {
             "included_at_epoch": 1590879166.273169,
             "included_at_iso": "2020-05-30T22:52:46.273169",
-            "last_retested_at_epoch": 1592607902.987548,
-            "last_retested_at_iso": "2020-06-19T23:05:02.987548",
+            "last_retested_at_epoch": 1592824432.135085,
+            "last_retested_at_iso": "2020-06-22T11:13:52.135085",
             "status": "INVALID"
         },
         "barutogel.": {
             "included_at_epoch": 1590879166.287921,
             "included_at_iso": "2020-05-30T22:52:46.287921",
-            "last_retested_at_epoch": 1592607903.01388,
-            "last_retested_at_iso": "2020-06-19T23:05:03.013880",
+            "last_retested_at_epoch": 1592824432.160686,
+            "last_retested_at_iso": "2020-06-22T11:13:52.160686",
             "status": "INVALID"
         },
         "bbm88id.": {
             "included_at_epoch": 1590879166.295819,
             "included_at_iso": "2020-05-30T22:52:46.295819",
-            "last_retested_at_epoch": 1592607903.040478,
-            "last_retested_at_iso": "2020-06-19T23:05:03.040478",
+            "last_retested_at_epoch": 1592824432.212528,
+            "last_retested_at_iso": "2020-06-22T11:13:52.212528",
             "status": "INVALID"
         },
         "bca99.": {
             "included_at_epoch": 1590879166.302874,
             "included_at_iso": "2020-05-30T22:52:46.302874",
-            "last_retested_at_epoch": 1592607903.093326,
-            "last_retested_at_iso": "2020-06-19T23:05:03.093326",
+            "last_retested_at_epoch": 1592824432.238208,
+            "last_retested_at_iso": "2020-06-22T11:13:52.238208",
             "status": "INVALID"
         },
         "bcabet.": {
             "included_at_epoch": 1590879166.317825,
             "included_at_iso": "2020-05-30T22:52:46.317825",
-            "last_retested_at_epoch": 1592607903.119914,
-            "last_retested_at_iso": "2020-06-19T23:05:03.119914",
+            "last_retested_at_epoch": 1592824432.262969,
+            "last_retested_at_iso": "2020-06-22T11:13:52.262969",
             "status": "INVALID"
         },
         "bcadomino.": {
             "included_at_epoch": 1590879166.324986,
             "included_at_iso": "2020-05-30T22:52:46.324986",
-            "last_retested_at_epoch": 1592607903.172534,
-            "last_retested_at_iso": "2020-06-19T23:05:03.172534",
+            "last_retested_at_epoch": 1592824432.315167,
+            "last_retested_at_iso": "2020-06-22T11:13:52.315167",
             "status": "INVALID"
         },
         "bcaqq.": {
             "included_at_epoch": 1590879166.339635,
             "included_at_iso": "2020-05-30T22:52:46.339635",
-            "last_retested_at_epoch": 1592607903.199034,
-            "last_retested_at_iso": "2020-06-19T23:05:03.199034",
+            "last_retested_at_epoch": 1592824432.341096,
+            "last_retested_at_iso": "2020-06-22T11:13:52.341096",
             "status": "INVALID"
         },
         "bdr99.": {
             "included_at_epoch": 1590879166.34709,
             "included_at_iso": "2020-05-30T22:52:46.347090",
-            "last_retested_at_epoch": 1592607903.251277,
-            "last_retested_at_iso": "2020-06-19T23:05:03.251277",
+            "last_retested_at_epoch": 1592824432.394587,
+            "last_retested_at_iso": "2020-06-22T11:13:52.394587",
             "status": "INVALID"
         },
         "bdrqq.": {
             "included_at_epoch": 1590879166.362,
             "included_at_iso": "2020-05-30T22:52:46.362000",
-            "last_retested_at_epoch": 1592607903.331697,
-            "last_retested_at_iso": "2020-06-19T23:05:03.331697",
+            "last_retested_at_epoch": 1592824432.447979,
+            "last_retested_at_iso": "2020-06-22T11:13:52.447979",
             "status": "INVALID"
         },
         "bejopoker.": {
             "included_at_epoch": 1590879166.376326,
             "included_at_iso": "2020-05-30T22:52:46.376326",
-            "last_retested_at_epoch": 1592607903.358566,
-            "last_retested_at_iso": "2020-06-19T23:05:03.358566",
+            "last_retested_at_epoch": 1592824432.501157,
+            "last_retested_at_iso": "2020-06-22T11:13:52.501157",
             "status": "INVALID"
         },
         "bejoqq.": {
             "included_at_epoch": 1590879166.391063,
             "included_at_iso": "2020-05-30T22:52:46.391063",
-            "last_retested_at_epoch": 1592607903.385259,
-            "last_retested_at_iso": "2020-06-19T23:05:03.385259",
+            "last_retested_at_epoch": 1592824432.52702,
+            "last_retested_at_iso": "2020-06-22T11:13:52.527020",
             "status": "INVALID"
         },
         "bejototo.": {
             "included_at_epoch": 1590879166.398302,
             "included_at_iso": "2020-05-30T22:52:46.398302",
-            "last_retested_at_epoch": 1592607903.438581,
-            "last_retested_at_iso": "2020-06-19T23:05:03.438581",
+            "last_retested_at_epoch": 1592824432.579435,
+            "last_retested_at_iso": "2020-06-22T11:13:52.579435",
             "status": "INVALID"
         },
         "belajar-bisnis.": {
             "included_at_epoch": 1590879166.413304,
             "included_at_iso": "2020-05-30T22:52:46.413304",
-            "last_retested_at_epoch": 1592607903.491198,
-            "last_retested_at_iso": "2020-06-19T23:05:03.491198",
+            "last_retested_at_epoch": 1592824432.631974,
+            "last_retested_at_iso": "2020-06-22T11:13:52.631974",
             "status": "INVALID"
         },
         "beliqq.": {
             "included_at_epoch": 1590879166.427914,
             "included_at_iso": "2020-05-30T22:52:46.427914",
-            "last_retested_at_epoch": 1592607903.544657,
-            "last_retested_at_iso": "2020-06-19T23:05:03.544657",
+            "last_retested_at_epoch": 1592824432.683744,
+            "last_retested_at_iso": "2020-06-22T11:13:52.683744",
             "status": "INVALID"
         },
         "bellaads.com": {
             "included_at_epoch": 1592607525.570173,
             "included_at_iso": "2020-06-19T22:58:45.570173",
-            "last_retested_at_epoch": 1592607525.570173,
-            "last_retested_at_iso": "2020-06-19T22:58:45.570173",
+            "last_retested_at_epoch": 1592824400.589176,
+            "last_retested_at_iso": "2020-06-22T11:13:20.589176",
             "status": "INACTIVE"
         },
         "bendera-bet.": {
             "included_at_epoch": 1590879166.442277,
             "included_at_iso": "2020-05-30T22:52:46.442277",
-            "last_retested_at_epoch": 1592607903.571042,
-            "last_retested_at_iso": "2020-06-19T23:05:03.571042",
+            "last_retested_at_epoch": 1592824432.710303,
+            "last_retested_at_iso": "2020-06-22T11:13:52.710303",
             "status": "INVALID"
         },
         "benderabet.": {
             "included_at_epoch": 1590879166.449492,
             "included_at_iso": "2020-05-30T22:52:46.449492",
-            "last_retested_at_epoch": 1592607903.597353,
-            "last_retested_at_iso": "2020-06-19T23:05:03.597353",
+            "last_retested_at_epoch": 1592824432.73589,
+            "last_retested_at_iso": "2020-06-22T11:13:52.735890",
             "status": "INVALID"
         },
         "benderapoker.": {
             "included_at_epoch": 1590879166.45663,
             "included_at_iso": "2020-05-30T22:52:46.456630",
-            "last_retested_at_epoch": 1592607903.650936,
-            "last_retested_at_iso": "2020-06-19T23:05:03.650936",
+            "last_retested_at_epoch": 1592824432.787838,
+            "last_retested_at_iso": "2020-06-22T11:13:52.787838",
             "status": "INVALID"
         },
         "beritataruhanbola.": {
             "included_at_epoch": 1590879166.471356,
             "included_at_iso": "2020-05-30T22:52:46.471356",
-            "last_retested_at_epoch": 1592607903.678421,
-            "last_retested_at_iso": "2020-06-19T23:05:03.678421",
+            "last_retested_at_epoch": 1592824432.813684,
+            "last_retested_at_iso": "2020-06-22T11:13:52.813684",
             "status": "INVALID"
         },
         "bersama365.": {
             "included_at_epoch": 1590879166.479152,
             "included_at_iso": "2020-05-30T22:52:46.479152",
-            "last_retested_at_epoch": 1592607903.732079,
-            "last_retested_at_iso": "2020-06-19T23:05:03.732079",
+            "last_retested_at_epoch": 1592824432.865854,
+            "last_retested_at_iso": "2020-06-22T11:13:52.865854",
             "status": "INVALID"
         },
         "bet2link.": {
             "included_at_epoch": 1590879166.494441,
             "included_at_iso": "2020-05-30T22:52:46.494441",
-            "last_retested_at_epoch": 1592607903.758542,
-            "last_retested_at_iso": "2020-06-19T23:05:03.758542",
+            "last_retested_at_epoch": 1592824432.891469,
+            "last_retested_at_iso": "2020-06-22T11:13:52.891469",
             "status": "INVALID"
         },
         "bet2poker.": {
             "included_at_epoch": 1590879166.501906,
             "included_at_iso": "2020-05-30T22:52:46.501906",
-            "last_retested_at_epoch": 1592607903.785033,
-            "last_retested_at_iso": "2020-06-19T23:05:03.785033",
+            "last_retested_at_epoch": 1592824432.917578,
+            "last_retested_at_iso": "2020-06-22T11:13:52.917578",
             "status": "INVALID"
         },
         "bet365.": {
             "included_at_epoch": 1590879166.509084,
             "included_at_iso": "2020-05-30T22:52:46.509084",
-            "last_retested_at_epoch": 1592607903.812203,
-            "last_retested_at_iso": "2020-06-19T23:05:03.812203",
+            "last_retested_at_epoch": 1592824432.942532,
+            "last_retested_at_iso": "2020-06-22T11:13:52.942532",
             "status": "INVALID"
         },
         "bet88me.": {
             "included_at_epoch": 1590879166.516871,
             "included_at_iso": "2020-05-30T22:52:46.516871",
-            "last_retested_at_epoch": 1592607903.838932,
-            "last_retested_at_iso": "2020-06-19T23:05:03.838932",
+            "last_retested_at_epoch": 1592824432.968338,
+            "last_retested_at_iso": "2020-06-22T11:13:52.968338",
             "status": "INVALID"
         },
         "betafb.": {
             "included_at_epoch": 1590879166.524558,
             "included_at_iso": "2020-05-30T22:52:46.524558",
-            "last_retested_at_epoch": 1592607903.865507,
-            "last_retested_at_iso": "2020-06-19T23:05:03.865507",
+            "last_retested_at_epoch": 1592824432.994282,
+            "last_retested_at_iso": "2020-06-22T11:13:52.994282",
             "status": "INVALID"
         },
         "betawiqq.": {
             "included_at_epoch": 1590879166.533325,
             "included_at_iso": "2020-05-30T22:52:46.533325",
-            "last_retested_at_epoch": 1592607903.892307,
-            "last_retested_at_iso": "2020-06-19T23:05:03.892307",
+            "last_retested_at_epoch": 1592824433.020224,
+            "last_retested_at_iso": "2020-06-22T11:13:53.020224",
             "status": "INVALID"
         },
         "betberry.": {
             "included_at_epoch": 1590879166.540868,
             "included_at_iso": "2020-05-30T22:52:46.540868",
-            "last_retested_at_epoch": 1592607903.918988,
-            "last_retested_at_iso": "2020-06-19T23:05:03.918988",
+            "last_retested_at_epoch": 1592824433.046038,
+            "last_retested_at_iso": "2020-06-22T11:13:53.046038",
             "status": "INVALID"
         },
         "bethost24.": {
             "included_at_epoch": 1590879166.548326,
             "included_at_iso": "2020-05-30T22:52:46.548326",
-            "last_retested_at_epoch": 1592607903.971659,
-            "last_retested_at_iso": "2020-06-19T23:05:03.971659",
+            "last_retested_at_epoch": 1592824433.071787,
+            "last_retested_at_iso": "2020-06-22T11:13:53.071787",
             "status": "INVALID"
         },
         "betjudibola.": {
             "included_at_epoch": 1590879166.556256,
             "included_at_iso": "2020-05-30T22:52:46.556256",
-            "last_retested_at_epoch": 1592607903.945389,
-            "last_retested_at_iso": "2020-06-19T23:05:03.945389",
+            "last_retested_at_epoch": 1592824433.097603,
+            "last_retested_at_iso": "2020-06-22T11:13:53.097603",
             "status": "INVALID"
         },
         "betkiukiu.": {
             "included_at_epoch": 1590879166.564121,
             "included_at_iso": "2020-05-30T22:52:46.564121",
-            "last_retested_at_epoch": 1592607903.998983,
-            "last_retested_at_iso": "2020-06-19T23:05:03.998983",
+            "last_retested_at_epoch": 1592824433.149552,
+            "last_retested_at_iso": "2020-06-22T11:13:53.149552",
             "status": "INVALID"
         },
         "betlive889.": {
             "included_at_epoch": 1590879166.571972,
             "included_at_iso": "2020-05-30T22:52:46.571972",
-            "last_retested_at_epoch": 1592607904.025289,
-            "last_retested_at_iso": "2020-06-19T23:05:04.025289",
+            "last_retested_at_epoch": 1592824433.123727,
+            "last_retested_at_iso": "2020-06-22T11:13:53.123727",
             "status": "INVALID"
         },
         "betonlinepoker.": {
             "included_at_epoch": 1590879166.579444,
             "included_at_iso": "2020-05-30T22:52:46.579444",
-            "last_retested_at_epoch": 1592607904.051169,
-            "last_retested_at_iso": "2020-06-19T23:05:04.051169",
+            "last_retested_at_epoch": 1592824433.201459,
+            "last_retested_at_iso": "2020-06-22T11:13:53.201459",
             "status": "INVALID"
         },
         "betsaja.": {
             "included_at_epoch": 1590879166.58707,
             "included_at_iso": "2020-05-30T22:52:46.587070",
-            "last_retested_at_epoch": 1592607904.104329,
-            "last_retested_at_iso": "2020-06-19T23:05:04.104329",
+            "last_retested_at_epoch": 1592824433.226117,
+            "last_retested_at_iso": "2020-06-22T11:13:53.226117",
             "status": "INVALID"
         },
         "betting303.": {
             "included_at_epoch": 1590879166.602653,
             "included_at_iso": "2020-05-30T22:52:46.602653",
-            "last_retested_at_epoch": 1592607904.130911,
-            "last_retested_at_iso": "2020-06-19T23:05:04.130911",
+            "last_retested_at_epoch": 1592824433.252209,
+            "last_retested_at_iso": "2020-06-22T11:13:53.252209",
             "status": "INVALID"
         },
         "bettingjudicasino.": {
             "included_at_epoch": 1590879166.610339,
             "included_at_iso": "2020-05-30T22:52:46.610339",
-            "last_retested_at_epoch": 1592607904.158397,
-            "last_retested_at_iso": "2020-06-19T23:05:04.158397",
+            "last_retested_at_epoch": 1592824433.278219,
+            "last_retested_at_iso": "2020-06-22T11:13:53.278219",
             "status": "INVALID"
         },
         "bettingjudisbobet.": {
             "included_at_epoch": 1590879166.617812,
             "included_at_iso": "2020-05-30T22:52:46.617812",
-            "last_retested_at_epoch": 1592607904.184409,
-            "last_retested_at_iso": "2020-06-19T23:05:04.184409",
+            "last_retested_at_epoch": 1592824433.304091,
+            "last_retested_at_iso": "2020-06-22T11:13:53.304091",
             "status": "INVALID"
         },
         "betwin188.": {
             "included_at_epoch": 1590879166.626692,
             "included_at_iso": "2020-05-30T22:52:46.626692",
-            "last_retested_at_epoch": 1592607904.237641,
-            "last_retested_at_iso": "2020-06-19T23:05:04.237641",
+            "last_retested_at_epoch": 1592824433.355368,
+            "last_retested_at_iso": "2020-06-22T11:13:53.355368",
             "status": "INVALID"
         },
         "bianglalaqq.": {
             "included_at_epoch": 1590879166.643849,
             "included_at_iso": "2020-05-30T22:52:46.643849",
-            "last_retested_at_epoch": 1592607904.265026,
-            "last_retested_at_iso": "2020-06-19T23:05:04.265026",
+            "last_retested_at_epoch": 1592824433.407845,
+            "last_retested_at_iso": "2020-06-22T11:13:53.407845",
             "status": "INVALID"
         },
         "bigextracash.": {
             "included_at_epoch": 1590879166.651501,
             "included_at_iso": "2020-05-30T22:52:46.651501",
-            "last_retested_at_epoch": 1592607904.316909,
-            "last_retested_at_iso": "2020-06-19T23:05:04.316909",
+            "last_retested_at_epoch": 1592824433.432689,
+            "last_retested_at_iso": "2020-06-22T11:13:53.432689",
             "status": "INVALID"
         },
         "bintangbola.": {
             "included_at_epoch": 1590879166.66881,
             "included_at_iso": "2020-05-30T22:52:46.668810",
-            "last_retested_at_epoch": 1592607904.369838,
-            "last_retested_at_iso": "2020-06-19T23:05:04.369838",
+            "last_retested_at_epoch": 1592824433.483129,
+            "last_retested_at_iso": "2020-06-22T11:13:53.483129",
             "status": "INVALID"
         },
         "bintangcapsa.": {
             "included_at_epoch": 1590879166.683894,
             "included_at_iso": "2020-05-30T22:52:46.683894",
-            "last_retested_at_epoch": 1592607904.422718,
-            "last_retested_at_iso": "2020-06-19T23:05:04.422718",
+            "last_retested_at_epoch": 1592824433.534711,
+            "last_retested_at_iso": "2020-06-22T11:13:53.534711",
             "status": "INVALID"
         },
         "bioskop99.me": {
             "included_at_epoch": 1592175341.698752,
             "included_at_iso": "2020-06-14T22:55:41.698752",
-            "last_retested_at_epoch": 1592607538.822493,
-            "last_retested_at_iso": "2020-06-19T22:58:58.822493",
+            "last_retested_at_epoch": 1592824413.88962,
+            "last_retested_at_iso": "2020-06-22T11:13:33.889620",
             "status": "INACTIVE"
         },
         "bioskopbos.com": {
             "included_at_epoch": 1590879159.788982,
             "included_at_iso": "2020-05-30T22:52:39.788982",
-            "last_retested_at_epoch": 1592607543.027124,
-            "last_retested_at_iso": "2020-06-19T22:59:03.027124",
+            "last_retested_at_epoch": 1592824418.046896,
+            "last_retested_at_iso": "2020-06-22T11:13:38.046896",
             "status": "INACTIVE"
         },
         "bioskopmovie.tv": {
             "included_at_epoch": 1592607532.88728,
             "included_at_iso": "2020-06-19T22:58:52.887280",
-            "last_retested_at_epoch": 1592607536.433471,
-            "last_retested_at_iso": "2020-06-19T22:58:56.433471",
+            "last_retested_at_epoch": 1592824411.519772,
+            "last_retested_at_iso": "2020-06-22T11:13:31.519772",
             "status": "INACTIVE"
         },
         "bisa88.": {
             "included_at_epoch": 1590879166.699453,
             "included_at_iso": "2020-05-30T22:52:46.699453",
-            "last_retested_at_epoch": 1592607904.476219,
-            "last_retested_at_iso": "2020-06-19T23:05:04.476219",
+            "last_retested_at_epoch": 1592824433.58598,
+            "last_retested_at_iso": "2020-06-22T11:13:53.585980",
             "status": "INVALID"
         },
         "bisnishandal.": {
@@ -2299,8 +2299,8 @@
         "blog.taryo.net": {
             "included_at_epoch": 1592175338.167991,
             "included_at_iso": "2020-06-14T22:55:38.167991",
-            "last_retested_at_epoch": 1592607531.113363,
-            "last_retested_at_iso": "2020-06-19T22:58:51.113363",
+            "last_retested_at_epoch": 1592824406.133942,
+            "last_retested_at_iso": "2020-06-22T11:13:26.133942",
             "status": "INACTIVE"
         },
         "bmwpoker.": {
@@ -2327,8 +2327,8 @@
         "bokeponline.download": {
             "included_at_epoch": 1592607542.266087,
             "included_at_iso": "2020-06-19T22:59:02.266087",
-            "last_retested_at_epoch": 1592607542.266087,
-            "last_retested_at_iso": "2020-06-19T22:59:02.266087",
+            "last_retested_at_epoch": 1592824417.21374,
+            "last_retested_at_iso": "2020-06-22T11:13:37.213740",
             "status": "INACTIVE"
         },
         "bola168.": {
@@ -2551,8 +2551,8 @@
         "bp.blogspot.com": {
             "included_at_epoch": 1592607528.105544,
             "included_at_iso": "2020-06-19T22:58:48.105544",
-            "last_retested_at_epoch": 1592607528.130569,
-            "last_retested_at_iso": "2020-06-19T22:58:48.130569",
+            "last_retested_at_epoch": 1592824403.105747,
+            "last_retested_at_iso": "2020-06-22T11:13:23.105747",
             "status": "INACTIVE"
         },
         "bromopk.": {
@@ -2649,8 +2649,8 @@
         "c-stat.eu": {
             "included_at_epoch": 1592607527.748728,
             "included_at_iso": "2020-06-19T22:58:47.748728",
-            "last_retested_at_epoch": 1592607527.748728,
-            "last_retested_at_iso": "2020-06-19T22:58:47.748728",
+            "last_retested_at_epoch": 1592824402.733893,
+            "last_retested_at_iso": "2020-06-22T11:13:22.733893",
             "status": "INACTIVE"
         },
         "cacingnaga.": {
@@ -2887,8 +2887,8 @@
         "cfs1.uzone.id": {
             "included_at_epoch": 1592607527.776179,
             "included_at_iso": "2020-06-19T22:58:47.776179",
-            "last_retested_at_epoch": 1592607527.776179,
-            "last_retested_at_iso": "2020-06-19T22:58:47.776179",
+            "last_retested_at_epoch": 1592824402.757735,
+            "last_retested_at_iso": "2020-06-22T11:13:22.757735",
             "status": "INACTIVE"
         },
         "champspoker.": {
@@ -2936,8 +2936,8 @@
         "clip.cewecewe.com": {
             "included_at_epoch": 1592175344.829971,
             "included_at_iso": "2020-06-14T22:55:44.829971",
-            "last_retested_at_epoch": 1592607537.439741,
-            "last_retested_at_iso": "2020-06-19T22:58:57.439741",
+            "last_retested_at_epoch": 1592824412.506372,
+            "last_retested_at_iso": "2020-06-22T11:13:32.506372",
             "status": "INACTIVE"
         },
         "cmcbet.": {
@@ -2978,8 +2978,8 @@
         "coblos.net": {
             "included_at_epoch": 1592607528.263139,
             "included_at_iso": "2020-06-19T22:58:48.263139",
-            "last_retested_at_epoch": 1592607528.263139,
-            "last_retested_at_iso": "2020-06-19T22:58:48.263139",
+            "last_retested_at_epoch": 1592824403.220341,
+            "last_retested_at_iso": "2020-06-22T11:13:23.220341",
             "status": "INACTIVE"
         },
         "cocobet.": {
@@ -3930,22 +3930,22 @@
         "filmbagus21.web.id": {
             "included_at_epoch": 1592607533.210878,
             "included_at_iso": "2020-06-19T22:58:53.210878",
-            "last_retested_at_epoch": 1592607533.210878,
-            "last_retested_at_iso": "2020-06-19T22:58:53.210878",
+            "last_retested_at_epoch": 1592824408.225765,
+            "last_retested_at_iso": "2020-06-22T11:13:28.225765",
             "status": "INACTIVE"
         },
         "filmbaru.in": {
             "included_at_epoch": 1592175343.873478,
             "included_at_iso": "2020-06-14T22:55:43.873478",
-            "last_retested_at_epoch": 1592607536.741307,
-            "last_retested_at_iso": "2020-06-19T22:58:56.741307",
+            "last_retested_at_epoch": 1592824411.775371,
+            "last_retested_at_iso": "2020-06-22T11:13:31.775371",
             "status": "INACTIVE"
         },
         "filmterbaru.id": {
             "included_at_epoch": 1590450507.831621,
             "included_at_iso": "2020-05-25T23:48:27.831621",
-            "last_retested_at_epoch": 1592607542.875735,
-            "last_retested_at_iso": "2020-06-19T22:59:02.875735",
+            "last_retested_at_epoch": 1592824417.884181,
+            "last_retested_at_iso": "2020-06-22T11:13:37.884181",
             "status": "INACTIVE"
         },
         "formulabisnis.": {
@@ -3958,8 +3958,8 @@
         "forums.mangafox.me": {
             "included_at_epoch": 1590450508.748498,
             "included_at_iso": "2020-05-25T23:48:28.748498",
-            "last_retested_at_epoch": 1592607544.097448,
-            "last_retested_at_iso": "2020-06-19T22:59:04.097448",
+            "last_retested_at_epoch": 1592824419.107156,
+            "last_retested_at_iso": "2020-06-22T11:13:39.107156",
             "status": "INACTIVE"
         },
         "fullbet.": {
@@ -4042,8 +4042,8 @@
         "ganoollk21.info": {
             "included_at_epoch": 1592607539.930026,
             "included_at_iso": "2020-06-19T22:58:59.930026",
-            "last_retested_at_epoch": 1592607539.930026,
-            "last_retested_at_iso": "2020-06-19T22:58:59.930026",
+            "last_retested_at_epoch": 1592824414.973568,
+            "last_retested_at_iso": "2020-06-22T11:13:34.973568",
             "status": "INACTIVE"
         },
         "ganoolqq.": {
@@ -4175,15 +4175,15 @@
         "gerwen.info": {
             "included_at_epoch": 1592607528.577183,
             "included_at_iso": "2020-06-19T22:58:48.577183",
-            "last_retested_at_epoch": 1592607528.577183,
-            "last_retested_at_iso": "2020-06-19T22:58:48.577183",
+            "last_retested_at_epoch": 1592824403.532052,
+            "last_retested_at_iso": "2020-06-22T11:13:23.532052",
             "status": "INACTIVE"
         },
         "get.web.id": {
             "included_at_epoch": 1592607531.17317,
             "included_at_iso": "2020-06-19T22:58:51.173170",
-            "last_retested_at_epoch": 1592607531.17317,
-            "last_retested_at_iso": "2020-06-19T22:58:51.173170",
+            "last_retested_at_epoch": 1592824406.193825,
+            "last_retested_at_iso": "2020-06-22T11:13:26.193825",
             "status": "INACTIVE"
         },
         "go88sbo.": {
@@ -4742,8 +4742,8 @@
         "idfl.*": {
             "included_at_epoch": 1592607528.708192,
             "included_at_iso": "2020-06-19T22:58:48.708192",
-            "last_retested_at_epoch": 1592607528.708192,
-            "last_retested_at_iso": "2020-06-19T22:58:48.708192",
+            "last_retested_at_epoch": 1592824403.659835,
+            "last_retested_at_iso": "2020-06-22T11:13:23.659835",
             "status": "INVALID"
         },
         "idn55bet.": {
@@ -4847,8 +4847,8 @@
         "iklantop.net": {
             "included_at_epoch": 1592607526.214592,
             "included_at_iso": "2020-06-19T22:58:46.214592",
-            "last_retested_at_epoch": 1592607526.214592,
-            "last_retested_at_iso": "2020-06-19T22:58:46.214592",
+            "last_retested_at_epoch": 1592824401.205833,
+            "last_retested_at_iso": "2020-06-22T11:13:21.205833",
             "status": "INACTIVE"
         },
         "iklanx.": {
@@ -4875,8 +4875,8 @@
         "images.gameweb.co.id": {
             "included_at_epoch": 1592607528.755434,
             "included_at_iso": "2020-06-19T22:58:48.755434",
-            "last_retested_at_epoch": 1592607528.755434,
-            "last_retested_at_iso": "2020-06-19T22:58:48.755434",
+            "last_retested_at_epoch": 1592824403.707523,
+            "last_retested_at_iso": "2020-06-22T11:13:23.707523",
             "status": "INACTIVE"
         },
         "imcbet.": {
@@ -4917,8 +4917,8 @@
         "img.sukipli.com": {
             "included_at_epoch": 1592607528.779926,
             "included_at_iso": "2020-06-19T22:58:48.779926",
-            "last_retested_at_epoch": 1592607528.779926,
-            "last_retested_at_iso": "2020-06-19T22:58:48.779926",
+            "last_retested_at_epoch": 1592824403.731444,
+            "last_retested_at_iso": "2020-06-22T11:13:23.731444",
             "status": "INACTIVE"
         },
         "incarqq.": {
@@ -4945,8 +4945,8 @@
         "indonesiasatu.kompas.com": {
             "included_at_epoch": 1592175345.861181,
             "included_at_iso": "2020-06-14T22:55:45.861181",
-            "last_retested_at_epoch": 1592607538.474414,
-            "last_retested_at_iso": "2020-06-19T22:58:58.474414",
+            "last_retested_at_epoch": 1592824413.536339,
+            "last_retested_at_iso": "2020-06-22T11:13:33.536339",
             "status": "INACTIVE"
         },
         "indorajaqq.": {
@@ -6163,8 +6163,8 @@
         "keripikcadas.com": {
             "included_at_epoch": 1592607529.008543,
             "included_at_iso": "2020-06-19T22:58:49.008543",
-            "last_retested_at_epoch": 1592607529.008543,
-            "last_retested_at_iso": "2020-06-19T22:58:49.008543",
+            "last_retested_at_epoch": 1592824403.964396,
+            "last_retested_at_iso": "2020-06-22T11:13:23.964396",
             "status": "INACTIVE"
         },
         "ketuapkr.": {
@@ -6387,8 +6387,8 @@
         "l9tdhe6.com": {
             "included_at_epoch": 1592607526.462233,
             "included_at_iso": "2020-06-19T22:58:46.462233",
-            "last_retested_at_epoch": 1592607526.462233,
-            "last_retested_at_iso": "2020-06-19T22:58:46.462233",
+            "last_retested_at_epoch": 1592824401.451442,
+            "last_retested_at_iso": "2020-06-22T11:13:21.451442",
             "status": "INACTIVE"
         },
         "lacakqq.": {
@@ -6800,22 +6800,22 @@
         "lk-21.me": {
             "included_at_epoch": 1590450508.024733,
             "included_at_iso": "2020-05-25T23:48:28.024733",
-            "last_retested_at_epoch": 1592607543.283313,
-            "last_retested_at_iso": "2020-06-19T22:59:03.283313",
+            "last_retested_at_epoch": 1592824418.135957,
+            "last_retested_at_iso": "2020-06-22T11:13:38.135957",
             "status": "INACTIVE"
         },
         "lk21indo.co": {
             "included_at_epoch": 1590450508.051264,
             "included_at_iso": "2020-05-25T23:48:28.051264",
-            "last_retested_at_epoch": 1592607543.141452,
-            "last_retested_at_iso": "2020-06-19T22:59:03.141452",
+            "last_retested_at_epoch": 1592824418.161207,
+            "last_retested_at_iso": "2020-06-22T11:13:38.161207",
             "status": "INACTIVE"
         },
         "lk21xxi.co": {
             "included_at_epoch": 1590450508.136441,
             "included_at_iso": "2020-05-25T23:48:28.136441",
-            "last_retested_at_epoch": 1592607543.166275,
-            "last_retested_at_iso": "2020-06-19T22:59:03.166275",
+            "last_retested_at_epoch": 1592824418.211731,
+            "last_retested_at_iso": "2020-06-22T11:13:38.211731",
             "status": "INACTIVE"
         },
         "lobbyqq.": {
@@ -7815,8 +7815,8 @@
         "nontonbox.tv": {
             "included_at_epoch": 1592607529.334635,
             "included_at_iso": "2020-06-19T22:58:49.334635",
-            "last_retested_at_epoch": 1592607529.334635,
-            "last_retested_at_iso": "2020-06-19T22:58:49.334635",
+            "last_retested_at_epoch": 1592824404.290914,
+            "last_retested_at_iso": "2020-06-22T11:13:24.290914",
             "status": "INACTIVE"
         },
         "nontonfilm21.": {
@@ -7829,8 +7829,8 @@
         "ns21.*": {
             "included_at_epoch": 1592607529.369802,
             "included_at_iso": "2020-06-19T22:58:49.369802",
-            "last_retested_at_epoch": 1592607529.369802,
-            "last_retested_at_iso": "2020-06-19T22:58:49.369802",
+            "last_retested_at_epoch": 1592824404.327407,
+            "last_retested_at_iso": "2020-06-22T11:13:24.327407",
             "status": "INVALID"
         },
         "nusantarabet.": {
@@ -8480,8 +8480,8 @@
         "playpokeronline.": {
             "included_at_epoch": 1590879162.699898,
             "included_at_iso": "2020-05-30T22:52:42.699898",
-            "last_retested_at_epoch": 1592607546.213773,
-            "last_retested_at_iso": "2020-06-19T22:59:06.213773",
+            "last_retested_at_epoch": 1592824421.227497,
+            "last_retested_at_iso": "2020-06-22T11:13:41.227497",
             "status": "INVALID"
         },
         "poin4d.": {
@@ -8613,15 +8613,15 @@
         "pokercc2.com": {
             "included_at_epoch": 1590879162.830408,
             "included_at_iso": "2020-05-30T22:52:42.830408",
-            "last_retested_at_epoch": 1592607546.352186,
-            "last_retested_at_iso": "2020-06-19T22:59:06.352186",
+            "last_retested_at_epoch": 1592824421.364314,
+            "last_retested_at_iso": "2020-06-22T11:13:41.364314",
             "status": "INACTIVE"
         },
         "pokercc4.com": {
             "included_at_epoch": 1591311342.132956,
             "included_at_iso": "2020-06-04T22:55:42.132956",
-            "last_retested_at_epoch": 1592607546.390611,
-            "last_retested_at_iso": "2020-06-19T22:59:06.390611",
+            "last_retested_at_epoch": 1592824421.401543,
+            "last_retested_at_iso": "2020-06-22T11:13:41.401543",
             "status": "INACTIVE"
         },
         "pokerdex.": {
@@ -8865,8 +8865,8 @@
         "popunderjs.club": {
             "included_at_epoch": 1592607526.872625,
             "included_at_iso": "2020-06-19T22:58:46.872625",
-            "last_retested_at_epoch": 1592607526.872625,
-            "last_retested_at_iso": "2020-06-19T22:58:46.872625",
+            "last_retested_at_epoch": 1592824401.866799,
+            "last_retested_at_iso": "2020-06-22T11:13:21.866799",
             "status": "INACTIVE"
         },
         "power338bet.": {
@@ -9047,8 +9047,8 @@
         "q1xyxm89.com": {
             "included_at_epoch": 1592607526.988936,
             "included_at_iso": "2020-06-19T22:58:46.988936",
-            "last_retested_at_epoch": 1592607526.988936,
-            "last_retested_at_iso": "2020-06-19T22:58:46.988936",
+            "last_retested_at_epoch": 1592824401.972624,
+            "last_retested_at_iso": "2020-06-22T11:13:21.972624",
             "status": "INACTIVE"
         },
         "q99bet.": {
@@ -9544,8 +9544,8 @@
         "replase.gq": {
             "included_at_epoch": 1592607527.023678,
             "included_at_iso": "2020-06-19T22:58:47.023678",
-            "last_retested_at_epoch": 1592607527.023678,
-            "last_retested_at_iso": "2020-06-19T22:58:47.023678",
+            "last_retested_at_epoch": 1592824402.008174,
+            "last_retested_at_iso": "2020-06-22T11:13:22.008174",
             "status": "INACTIVE"
         },
         "rezekibola.": {
@@ -9677,8 +9677,8 @@
         "s2pops.club": {
             "included_at_epoch": 1592607527.082569,
             "included_at_iso": "2020-06-19T22:58:47.082569",
-            "last_retested_at_epoch": 1592607527.082569,
-            "last_retested_at_iso": "2020-06-19T22:58:47.082569",
+            "last_retested_at_epoch": 1592824402.067298,
+            "last_retested_at_iso": "2020-06-22T11:13:22.067298",
             "status": "INACTIVE"
         },
         "s7bola.": {
@@ -9782,15 +9782,15 @@
         "sashahillfilm.com": {
             "included_at_epoch": 1590450507.613922,
             "included_at_iso": "2020-05-25T23:48:27.613922",
-            "last_retested_at_epoch": 1592607542.635105,
-            "last_retested_at_iso": "2020-06-19T22:59:02.635105",
+            "last_retested_at_epoch": 1592824417.694502,
+            "last_retested_at_iso": "2020-06-22T11:13:37.694502",
             "status": "INACTIVE"
         },
         "satujiwa.net": {
             "included_at_epoch": 1590450507.639628,
             "included_at_iso": "2020-05-25T23:48:27.639628",
-            "last_retested_at_epoch": 1592607542.674159,
-            "last_retested_at_iso": "2020-06-19T22:59:02.674159",
+            "last_retested_at_epoch": 1592824417.718972,
+            "last_retested_at_iso": "2020-06-22T11:13:37.718972",
             "status": "INACTIVE"
         },
         "sbbanner.": {
@@ -9964,8 +9964,8 @@
         "scriptall.ml": {
             "included_at_epoch": 1592607527.129248,
             "included_at_iso": "2020-06-19T22:58:47.129248",
-            "last_retested_at_epoch": 1592607527.129248,
-            "last_retested_at_iso": "2020-06-19T22:58:47.129248",
+            "last_retested_at_epoch": 1592824402.114024,
+            "last_retested_at_iso": "2020-06-22T11:13:22.114024",
             "status": "INACTIVE"
         },
         "sdsblotto.": {
@@ -9978,8 +9978,8 @@
         "sebar.idblognetwork.com": {
             "included_at_epoch": 1592607527.163808,
             "included_at_iso": "2020-06-19T22:58:47.163808",
-            "last_retested_at_epoch": 1592607527.163808,
-            "last_retested_at_iso": "2020-06-19T22:58:47.163808",
+            "last_retested_at_epoch": 1592824402.149667,
+            "last_retested_at_iso": "2020-06-22T11:13:22.149667",
             "status": "INACTIVE"
         },
         "sedapqqq.": {
@@ -10209,8 +10209,8 @@
         "sinema21.id": {
             "included_at_epoch": 1592607533.483929,
             "included_at_iso": "2020-06-19T22:58:53.483929",
-            "last_retested_at_epoch": 1592607533.483929,
-            "last_retested_at_iso": "2020-06-19T22:58:53.483929",
+            "last_retested_at_epoch": 1592824408.508958,
+            "last_retested_at_iso": "2020-06-22T11:13:28.508958",
             "status": "INACTIVE"
         },
         "singa168.": {
@@ -11182,8 +11182,8 @@
         "texaspokercc1.com": {
             "included_at_epoch": 1590879163.687727,
             "included_at_iso": "2020-05-30T22:52:43.687727",
-            "last_retested_at_epoch": 1592607547.190006,
-            "last_retested_at_iso": "2020-06-19T22:59:07.190006",
+            "last_retested_at_epoch": 1592824422.165039,
+            "last_retested_at_iso": "2020-06-22T11:13:42.165039",
             "status": "INACTIVE"
         },
         "texasqq.": {
@@ -11672,15 +11672,15 @@
         "track.zerofriend.com": {
             "included_at_epoch": 1592175334.6757,
             "included_at_iso": "2020-06-14T22:55:34.675700",
-            "last_retested_at_epoch": 1592607527.854111,
-            "last_retested_at_iso": "2020-06-19T22:58:47.854111",
+            "last_retested_at_epoch": 1592824402.833338,
+            "last_retested_at_iso": "2020-06-22T11:13:22.833338",
             "status": "INACTIVE"
         },
         "tracker.lazada.co.id": {
             "included_at_epoch": 1592607527.879852,
             "included_at_iso": "2020-06-19T22:58:47.879852",
-            "last_retested_at_epoch": 1592607527.879852,
-            "last_retested_at_iso": "2020-06-19T22:58:47.879852",
+            "last_retested_at_epoch": 1592824402.858145,
+            "last_retested_at_iso": "2020-06-22T11:13:22.858145",
             "status": "INACTIVE"
         },
         "transpoker.": {
@@ -12120,15 +12120,15 @@
         "webjudionline.com": {
             "included_at_epoch": 1592175733.562566,
             "included_at_iso": "2020-06-14T23:02:13.562566",
-            "last_retested_at_epoch": 1592607547.746748,
-            "last_retested_at_iso": "2020-06-19T22:59:07.746748",
+            "last_retested_at_epoch": 1592824422.712448,
+            "last_retested_at_iso": "2020-06-22T11:13:42.712448",
             "status": "INACTIVE"
         },
         "weblogiklan.com": {
             "included_at_epoch": 1592607527.590824,
             "included_at_iso": "2020-06-19T22:58:47.590824",
-            "last_retested_at_epoch": 1592607527.590824,
-            "last_retested_at_iso": "2020-06-19T22:58:47.590824",
+            "last_retested_at_epoch": 1592824402.586001,
+            "last_retested_at_iso": "2020-06-22T11:13:22.586001",
             "status": "INACTIVE"
         },
         "websitejudibola.": {
@@ -12253,15 +12253,15 @@
         "window-close.cf": {
             "included_at_epoch": 1592607527.614629,
             "included_at_iso": "2020-06-19T22:58:47.614629",
-            "last_retested_at_epoch": 1592607527.614629,
-            "last_retested_at_iso": "2020-06-19T22:58:47.614629",
+            "last_retested_at_epoch": 1592824402.61074,
+            "last_retested_at_iso": "2020-06-22T11:13:22.610740",
             "status": "INACTIVE"
         },
         "window-close.ga": {
             "included_at_epoch": 1592607527.641528,
             "included_at_iso": "2020-06-19T22:58:47.641528",
-            "last_retested_at_epoch": 1592607527.641528,
-            "last_retested_at_iso": "2020-06-19T22:58:47.641528",
+            "last_retested_at_epoch": 1592824402.635606,
+            "last_retested_at_iso": "2020-06-22T11:13:22.635606",
             "status": "INACTIVE"
         },
         "winft95.": {
@@ -12372,15 +12372,15 @@
         "www.filmdewasa.me": {
             "included_at_epoch": 1592607534.427035,
             "included_at_iso": "2020-06-19T22:58:54.427035",
-            "last_retested_at_epoch": 1592607534.427035,
-            "last_retested_at_iso": "2020-06-19T22:58:54.427035",
+            "last_retested_at_epoch": 1592824409.453264,
+            "last_retested_at_iso": "2020-06-22T11:13:29.453264",
             "status": "INACTIVE"
         },
         "www.nontondramas.net": {
             "included_at_epoch": 1592175349.479155,
             "included_at_iso": "2020-06-14T22:55:49.479155",
-            "last_retested_at_epoch": 1592607541.789415,
-            "last_retested_at_iso": "2020-06-19T22:59:01.789415",
+            "last_retested_at_epoch": 1592824416.819851,
+            "last_retested_at_iso": "2020-06-22T11:13:36.819851",
             "status": "INACTIVE"
         },
         "www.permainanvip.com": {
@@ -12393,15 +12393,15 @@
         "www.streamingbokeps.co": {
             "included_at_epoch": 1592175339.202205,
             "included_at_iso": "2020-06-14T22:55:39.202205",
-            "last_retested_at_epoch": 1592607532.182366,
-            "last_retested_at_iso": "2020-06-19T22:58:52.182366",
+            "last_retested_at_epoch": 1592824407.187295,
+            "last_retested_at_iso": "2020-06-22T11:13:27.187295",
             "status": "INACTIVE"
         },
         "www1.lk-21.me": {
             "included_at_epoch": 1590450508.42006,
             "included_at_iso": "2020-05-25T23:48:28.420060",
-            "last_retested_at_epoch": 1592607543.612424,
-            "last_retested_at_iso": "2020-06-19T22:59:03.612424",
+            "last_retested_at_epoch": 1592824418.645348,
+            "last_retested_at_iso": "2020-06-22T11:13:38.645348",
             "status": "INACTIVE"
         },
         "wwwsgopoker.": {
@@ -12470,8 +12470,8 @@
         "zonapanaz.net": {
             "included_at_epoch": 1592175347.248827,
             "included_at_iso": "2020-06-14T22:55:47.248827",
-            "last_retested_at_epoch": 1592607539.729304,
-            "last_retested_at_iso": "2020-06-19T22:58:59.729304",
+            "last_retested_at_epoch": 1592824414.772089,
+            "last_retested_at_iso": "2020-06-22T11:13:34.772089",
             "status": "INACTIVE"
         },
         "zonaprediksi.": {
