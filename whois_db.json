@@ -1025,9 +1025,9 @@
         "state": "future"
     },
     "bioskop90.com": {
-        "epoch": 1592784000.0,
-        "expiration_date": "22-jun-2020",
-        "state": "past"
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
+        "state": "future"
     },
     "bioskop90.me": {
         "epoch": 1612224000.0,
@@ -2462,7 +2462,7 @@
     "hasiltogel.club": {
         "epoch": 1593129600.0,
         "expiration_date": "26-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "hdfree.se": {
         "epoch": 1598572800.0,
@@ -4365,8 +4365,8 @@
         "state": "future"
     },
     "netijenshare.com": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "neumanga.tv": {
@@ -4400,9 +4400,9 @@
         "state": "future"
     },
     "njiir.com": {
-        "epoch": 1592784000.0,
-        "expiration_date": "22-jun-2020",
-        "state": "past"
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
+        "state": "future"
     },
     "nobarfilm21.net": {
         "epoch": 1596758400.0,
@@ -4560,14 +4560,14 @@
         "state": "future"
     },
     "nontonmovie81.com": {
-        "epoch": 1593043200.0,
-        "expiration_date": "25-jun-2020",
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
         "state": "future"
     },
     "nontononline99.com": {
-        "epoch": 1592784000.0,
-        "expiration_date": "22-jun-2020",
-        "state": "past"
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
+        "state": "future"
     },
     "nontononlinedrama.com": {
         "epoch": 1594252800.0,
@@ -5025,8 +5025,8 @@
         "state": "future"
     },
     "poker338a.com": {
-        "epoch": 1593043200.0,
-        "expiration_date": "25-jun-2020",
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
         "state": "future"
     },
     "poker4ever.com": {
@@ -5135,9 +5135,9 @@
         "state": "future"
     },
     "pokern.com": {
-        "epoch": 1592784000.0,
-        "expiration_date": "22-jun-2020",
-        "state": "past"
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
+        "state": "future"
     },
     "pokernetonline.com": {
         "epoch": 1610755200.0,
@@ -6100,8 +6100,8 @@
         "state": "future"
     },
     "taruhanjudi.com": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "taruhanku.com": {
