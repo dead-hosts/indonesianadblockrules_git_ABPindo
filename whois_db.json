@@ -14,6 +14,11 @@
         "expiration_date": "21-jan-2021",
         "state": "future"
     },
+    "1001win.site": {
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
+        "state": "future"
+    },
     "1227.com": {
         "epoch": 1825891200.0,
         "expiration_date": "11-nov-2027",
@@ -187,6 +192,11 @@
     "6kartudewa.net": {
         "epoch": 1614988800.0,
         "expiration_date": "06-mar-2021",
+        "state": "future"
+    },
+    "77hoki.com": {
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
         "state": "future"
     },
     "77upcash.com": {
@@ -1220,8 +1230,8 @@
         "state": "future"
     },
     "bottleguy.com": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
         "state": "future"
     },
     "bowlgirl.com": {
@@ -3309,6 +3319,11 @@
         "expiration_date": "15-mar-2021",
         "state": "future"
     },
+    "k9win-indonesia.com": {
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
+        "state": "future"
+    },
     "kabar2.com": {
         "epoch": 1597449600.0,
         "expiration_date": "15-aug-2020",
@@ -5389,6 +5404,11 @@
         "expiration_date": "24-nov-2020",
         "state": "future"
     },
+    "qqangpao.online": {
+        "epoch": 1613692800.0,
+        "expiration_date": "19-feb-2021",
+        "state": "future"
+    },
     "qqcinema21.com": {
         "epoch": 1643241600.0,
         "expiration_date": "27-jan-2022",
@@ -5400,8 +5420,8 @@
         "state": "future"
     },
     "qqgaming88e.com": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
         "state": "future"
     },
     "qqrolet77.com": {
@@ -5982,6 +6002,11 @@
     "suki48.web.id": {
         "epoch": 1614556800.0,
         "expiration_date": "01-mar-2021",
+        "state": "future"
+    },
+    "sultanplay.net": {
+        "epoch": 1598400000.0,
+        "expiration_date": "26-aug-2020",
         "state": "future"
     },
     "sumberiklan.com": {
