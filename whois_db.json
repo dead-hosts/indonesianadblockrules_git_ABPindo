@@ -260,8 +260,8 @@
         "state": "future"
     },
     "actionpoker.com": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
         "state": "future"
     },
     "ad4msan.com": {
@@ -660,8 +660,8 @@
         "state": "future"
     },
     "anitoki.com": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
         "state": "future"
     },
     "anizan.slask.pl": {
@@ -810,8 +810,8 @@
         "state": "future"
     },
     "badskies.com": {
-        "epoch": 1593820800.0,
-        "expiration_date": "04-jul-2020",
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
         "state": "future"
     },
     "bagas31.com": {
@@ -865,8 +865,8 @@
         "state": "future"
     },
     "bebasjudi.com": {
-        "epoch": 1593820800.0,
-        "expiration_date": "04-jul-2020",
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
         "state": "future"
     },
     "bebasjudi88.com": {
@@ -980,8 +980,8 @@
         "state": "future"
     },
     "bioskop19.com": {
-        "epoch": 1593820800.0,
-        "expiration_date": "04-jul-2020",
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
         "state": "future"
     },
     "bioskop201.biz": {
@@ -2050,8 +2050,8 @@
         "state": "future"
     },
     "film-ganool.com": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
         "state": "future"
     },
     "film21terbaru.org": {
@@ -2585,8 +2585,8 @@
         "state": "future"
     },
     "hokitogel.com": {
-        "epoch": 1593216000.0,
-        "expiration_date": "27-jun-2020",
+        "epoch": 1624752000.0,
+        "expiration_date": "27-jun-2021",
         "state": "future"
     },
     "holdempokerchat.com": {
@@ -2940,9 +2940,9 @@
         "state": "future"
     },
     "indoxx1.pw": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
-        "state": "past"
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
+        "state": "future"
     },
     "indoxxi.net": {
         "epoch": 1606521600.0,
@@ -3242,7 +3242,7 @@
     "judionline1388.com": {
         "epoch": 1593907200.0,
         "expiration_date": "05-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "judionlinebet.com": {
         "epoch": 1599782400.0,
@@ -3540,8 +3540,8 @@
         "state": "future"
     },
     "kuyhaa-me.com": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
         "state": "future"
     },
     "lapak-online.net": {
@@ -4945,8 +4945,8 @@
         "state": "future"
     },
     "pheersie.com": {
-        "epoch": 1593820800.0,
-        "expiration_date": "04-jul-2020",
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
         "state": "future"
     },
     "phonejapan.com": {
@@ -5985,8 +5985,8 @@
         "state": "future"
     },
     "sumberiklan.com": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
         "state": "future"
     },
     "sundul.com": {
