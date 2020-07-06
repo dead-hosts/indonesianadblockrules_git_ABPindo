@@ -972,7 +972,7 @@
     "bioskop1080.com": {
         "epoch": 1593993600.0,
         "expiration_date": "06-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "bioskop168.co": {
         "epoch": 1598140800.0,
@@ -3250,9 +3250,9 @@
         "state": "future"
     },
     "judionline1388.com": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
-        "state": "past"
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
+        "state": "future"
     },
     "judionlinebet.com": {
         "epoch": 1599782400.0,
@@ -3480,8 +3480,8 @@
         "state": "future"
     },
     "komikindo.web.id": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
         "state": "future"
     },
     "komiku.net": {
@@ -4150,8 +4150,8 @@
         "state": "future"
     },
     "modemku.com": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
         "state": "future"
     },
     "modifikasi.com": {
@@ -4357,7 +4357,7 @@
     "neobola.club": {
         "epoch": 1593993600.0,
         "expiration_date": "06-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "neonime.com": {
         "epoch": 1607731200.0,
@@ -6495,8 +6495,8 @@
         "state": "future"
     },
     "totos4d.com": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
         "state": "future"
     },
     "totosport99.com": {
@@ -6525,8 +6525,8 @@
         "state": "future"
     },
     "traffic-monetizer.com": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
         "state": "future"
     },
     "trafficfactory.biz": {
