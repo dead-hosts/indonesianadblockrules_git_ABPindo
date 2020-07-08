@@ -345,8 +345,8 @@
         "state": "future"
     },
     "adreach.co": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
         "state": "future"
     },
     "adreviewcamp.com": {
@@ -970,9 +970,9 @@
         "state": "future"
     },
     "bioskop1080.com": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
-        "state": "past"
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
+        "state": "future"
     },
     "bioskop168.co": {
         "epoch": 1598140800.0,
@@ -4105,8 +4105,8 @@
         "state": "future"
     },
     "mestresdopoker.com": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "mickeypoker.com": {
@@ -4385,8 +4385,8 @@
         "state": "future"
     },
     "neumanga.tv": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "news-tech.xyz": {
