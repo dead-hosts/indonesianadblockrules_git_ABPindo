@@ -27,7 +27,7 @@
     "123drakor.com": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "188affiliates.com": {
         "epoch": 1605312000.0,
@@ -1822,7 +1822,7 @@
     "dunia21.cx": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "dunia21.ltd": {
         "epoch": 1614643200.0,
@@ -4435,8 +4435,8 @@
         "state": "future"
     },
     "nonton-streaming.com": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
         "state": "future"
     },
     "nonton21.net": {
@@ -5275,9 +5275,9 @@
         "state": "future"
     },
     "prediksitoptogel.com": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
-        "state": "past"
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
+        "state": "future"
     },
     "premierexxi.com": {
         "epoch": 1612483200.0,
@@ -5900,8 +5900,8 @@
         "state": "future"
     },
     "situstaruhan.com": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
         "state": "future"
     },
     "situstogelonline.com": {
