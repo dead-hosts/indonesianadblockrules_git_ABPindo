@@ -25,9 +25,9 @@
         "state": "future"
     },
     "123drakor.com": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
-        "state": "past"
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
+        "state": "future"
     },
     "188affiliates.com": {
         "epoch": 1605312000.0,
@@ -690,8 +690,8 @@
         "state": "future"
     },
     "anoboy.org": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "anoboy.us": {
@@ -1090,8 +1090,8 @@
         "state": "future"
     },
     "bioskopstar88.com": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "bioskoptigalima.com": {
@@ -2282,7 +2282,7 @@
     "ganool.st": {
         "epoch": 1594684800.0,
         "expiration_date": "14-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "ganool.watch": {
         "epoch": 1614556800.0,
@@ -2292,6 +2292,11 @@
     "ganool.web.id": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
+        "state": "future"
+    },
+    "ganool21.watch": {
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
         "state": "future"
     },
     "ganoolmovie.video": {
@@ -3525,8 +3530,8 @@
         "state": "future"
     },
     "ktrackdata.com": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "kumparan.com": {
@@ -5302,7 +5307,7 @@
     "primbon.com": {
         "epoch": 1594771200.0,
         "expiration_date": "15-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "probet.biz": {
         "epoch": 1619481600.0,
@@ -6192,6 +6197,11 @@
     "terasjakarta.id": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
+        "state": "future"
+    },
+    "terbit21.cool": {
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
         "state": "future"
     },
     "terkini.id": {
