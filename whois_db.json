@@ -1322,7 +1322,7 @@
     "cdpoker.com": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "cdramabase.com": {
         "epoch": 1597795200.0,
@@ -1802,7 +1802,7 @@
     "dream.co.id": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "drewpickles.com": {
         "epoch": 1602374400.0,
@@ -3659,6 +3659,11 @@
         "expiration_date": "26-feb-2021",
         "state": "future"
     },
+    "lazacasino.com": {
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
+        "state": "future"
+    },
     "ld2tv.com": {
         "epoch": 1621036800.0,
         "expiration_date": "15-may-2021",
@@ -3890,8 +3895,8 @@
         "state": "future"
     },
     "lusuh.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "luven.xyz": {
@@ -4540,8 +4545,8 @@
         "state": "future"
     },
     "nontonfilmdrama.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "nontonganool.net": {
@@ -4779,6 +4784,11 @@
         "expiration_date": "02-nov-2020",
         "state": "future"
     },
+    "onsafelink.com": {
+        "epoch": 1616976000.0,
+        "expiration_date": "29-mar-2021",
+        "state": "future"
+    },
     "oomph.co.id": {
         "epoch": 1631491200.0,
         "expiration_date": "13-sep-2021",
@@ -4890,8 +4900,8 @@
         "state": "future"
     },
     "pandujudionline.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "pantauterus.me": {
@@ -5305,9 +5315,9 @@
         "state": "future"
     },
     "primbon.com": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
-        "state": "past"
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
+        "state": "future"
     },
     "probet.biz": {
         "epoch": 1619481600.0,
@@ -5959,6 +5969,11 @@
         "expiration_date": "24-oct-2020",
         "state": "future"
     },
+    "starcasino88.net": {
+        "epoch": 1602288000.0,
+        "expiration_date": "10-oct-2020",
+        "state": "future"
+    },
     "strawpoii.me": {
         "epoch": 1609372800.0,
         "expiration_date": "31-dec-2020",
@@ -6195,8 +6210,8 @@
         "state": "future"
     },
     "terasjakarta.id": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "terbit21.cool": {
@@ -6425,8 +6440,8 @@
         "state": "future"
     },
     "tokojudionline.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "topfilmz.com": {
