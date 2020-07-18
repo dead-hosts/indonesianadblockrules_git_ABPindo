@@ -657,7 +657,7 @@
     "animenonton.tv": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "animersindo.net": {
         "epoch": 1595462400.0,
@@ -1320,9 +1320,9 @@
         "state": "future"
     },
     "cdpoker.com": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
-        "state": "past"
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
+        "state": "future"
     },
     "cdramabase.com": {
         "epoch": 1597795200.0,
@@ -1800,9 +1800,9 @@
         "state": "future"
     },
     "dream.co.id": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
-        "state": "past"
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
+        "state": "future"
     },
     "drewpickles.com": {
         "epoch": 1602374400.0,
@@ -4452,7 +4452,7 @@
     "nonton21.net": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "nonton21.tv": {
         "epoch": 1611619200.0,
@@ -5110,8 +5110,8 @@
         "state": "past"
     },
     "pokerchipsonline.com": {
-        "epoch": 1595030400.0,
-        "expiration_date": "18-jul-2020",
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
         "state": "future"
     },
     "pokerclub88.com": {
