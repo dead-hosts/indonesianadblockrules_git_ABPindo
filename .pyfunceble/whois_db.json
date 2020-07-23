@@ -650,8 +650,8 @@
         "state": "future"
     },
     "animeku.tv": {
-        "epoch": 1595376000.0,
-        "expiration_date": "22-jul-2020",
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
         "state": "future"
     },
     "animenonton.tv": {
@@ -660,8 +660,8 @@
         "state": "future"
     },
     "animersindo.net": {
-        "epoch": 1595462400.0,
-        "expiration_date": "23-jul-2020",
+        "epoch": 1626998400.0,
+        "expiration_date": "23-jul-2021",
         "state": "future"
     },
     "animexin.xyz": {
@@ -1775,8 +1775,8 @@
         "state": "future"
     },
     "dramaind.com": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
         "state": "future"
     },
     "dramamu.net": {
@@ -1795,8 +1795,8 @@
         "state": "future"
     },
     "dramaserial.xyz": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
         "state": "future"
     },
     "dream.co.id": {
@@ -1890,9 +1890,9 @@
         "state": "future"
     },
     "dutatoto.com": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
-        "state": "past"
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
+        "state": "future"
     },
     "dwa21.org": {
         "epoch": 1617062400.0,
@@ -2810,8 +2810,8 @@
         "state": "future"
     },
     "iklantelevisi.com": {
-        "epoch": 1595462400.0,
-        "expiration_date": "23-jul-2020",
+        "epoch": 1626998400.0,
+        "expiration_date": "23-jul-2021",
         "state": "future"
     },
     "iklantext.com": {
@@ -4330,8 +4330,8 @@
         "state": "future"
     },
     "naturalhealthy.xyz": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
         "state": "future"
     },
     "negumo.com": {
@@ -4605,8 +4605,8 @@
         "state": "future"
     },
     "nontonserial.com": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
         "state": "future"
     },
     "nontonsini.com": {
@@ -5185,8 +5185,8 @@
         "state": "future"
     },
     "pokerplayerus.com": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1658275200.0,
+        "expiration_date": "20-jul-2022",
         "state": "future"
     },
     "pokerrewards.com": {
@@ -6390,9 +6390,9 @@
         "state": "future"
     },
     "togelholic.com": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
-        "state": "past"
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
+        "state": "future"
     },
     "togeljakarta.com": {
         "epoch": 1617408000.0,
@@ -6495,8 +6495,8 @@
         "state": "future"
     },
     "totobet24.com": {
-        "epoch": 1595376000.0,
-        "expiration_date": "22-jul-2020",
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
         "state": "future"
     },
     "totobet4d.com": {
@@ -6675,8 +6675,8 @@
         "state": "future"
     },
     "useads.com": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
         "state": "future"
     },
     "uzone.id": {
