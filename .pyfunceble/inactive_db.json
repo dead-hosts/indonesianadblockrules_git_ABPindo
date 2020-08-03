@@ -1953,6 +1953,13 @@
             "last_retested_at_iso": "2020-08-02T23:35:33.004808",
             "status": "INVALID"
         },
+        "bangun3.com": {
+            "included_at_epoch": 1596412831.436919,
+            "included_at_iso": "2020-08-03T00:00:31.436919",
+            "last_retested_at_epoch": 1596412831.436919,
+            "last_retested_at_iso": "2020-08-03T00:00:31.436919",
+            "status": "INACTIVE"
+        },
         "barakjudi.": {
             "included_at_epoch": 1596411333.011386,
             "included_at_iso": "2020-08-02T23:35:33.011386",
@@ -2974,6 +2981,20 @@
             "last_retested_at_epoch": 1596411334.390808,
             "last_retested_at_iso": "2020-08-02T23:35:34.390808",
             "status": "INVALID"
+        },
+        "copyright-reform.info": {
+            "included_at_epoch": 1596412831.59037,
+            "included_at_iso": "2020-08-03T00:00:31.590370",
+            "last_retested_at_epoch": 1596412831.59037,
+            "last_retested_at_iso": "2020-08-03T00:00:31.590370",
+            "status": "INACTIVE"
+        },
+        "cshacks.partycat.us": {
+            "included_at_epoch": 1596412831.631416,
+            "included_at_iso": "2020-08-03T00:00:31.631416",
+            "last_retested_at_epoch": 1596412831.631416,
+            "last_retested_at_iso": "2020-08-03T00:00:31.631416",
+            "status": "INACTIVE"
         },
         "cyakibet.": {
             "included_at_epoch": 1596411334.399428,
@@ -4501,6 +4522,13 @@
             "last_retested_at_iso": "2020-08-02T23:35:37.302693",
             "status": "INVALID"
         },
+        "howtotroll.org": {
+            "included_at_epoch": 1596412831.959604,
+            "included_at_iso": "2020-08-03T00:00:31.959604",
+            "last_retested_at_epoch": 1596412831.959604,
+            "last_retested_at_iso": "2020-08-03T00:00:31.959604",
+            "status": "INACTIVE"
+        },
         "hoya-jackpot.": {
             "included_at_epoch": 1596411337.314386,
             "included_at_iso": "2020-08-02T23:35:37.314386",
@@ -5971,6 +5999,13 @@
             "last_retested_at_iso": "2020-08-02T23:35:40.858149",
             "status": "INVALID"
         },
+        "junecleeland.com": {
+            "included_at_epoch": 1596412832.041008,
+            "included_at_iso": "2020-08-03T00:00:32.041008",
+            "last_retested_at_epoch": 1596412832.041008,
+            "last_retested_at_iso": "2020-08-03T00:00:32.041008",
+            "status": "INACTIVE"
+        },
         "kacangmaspoker.": {
             "included_at_epoch": 1596411340.872089,
             "included_at_iso": "2020-08-02T23:35:40.872089",
@@ -6152,6 +6187,13 @@
             "last_retested_at_epoch": 1596411341.359962,
             "last_retested_at_iso": "2020-08-02T23:35:41.359962",
             "status": "INVALID"
+        },
+        "killerijo.net": {
+            "included_at_epoch": 1596412832.108314,
+            "included_at_iso": "2020-08-03T00:00:32.108314",
+            "last_retested_at_epoch": 1596412832.108314,
+            "last_retested_at_iso": "2020-08-03T00:00:32.108314",
+            "status": "INACTIVE"
         },
         "king368.": {
             "included_at_epoch": 1596411341.374575,
@@ -8063,6 +8105,13 @@
             "last_retested_at_epoch": 1596411347.264107,
             "last_retested_at_iso": "2020-08-02T23:35:47.264107",
             "status": "INVALID"
+        },
+        "oralse.ca": {
+            "included_at_epoch": 1596412832.370835,
+            "included_at_iso": "2020-08-03T00:00:32.370835",
+            "last_retested_at_epoch": 1596412832.370835,
+            "last_retested_at_iso": "2020-08-03T00:00:32.370835",
+            "status": "INACTIVE"
         },
         "orientalpoker.": {
             "included_at_epoch": 1596411347.282515,
@@ -11648,6 +11697,13 @@
             "last_retested_at_iso": "2020-08-02T23:36:01.615368",
             "status": "INVALID"
         },
+        "tubgirl.org": {
+            "included_at_epoch": 1596412832.801456,
+            "included_at_iso": "2020-08-03T00:00:32.801456",
+            "last_retested_at_epoch": 1596412832.801456,
+            "last_retested_at_iso": "2020-08-03T00:00:32.801456",
+            "status": "INACTIVE"
+        },
         "tugupoker.": {
             "included_at_epoch": 1596411361.641468,
             "included_at_iso": "2020-08-02T23:36:01.641468",
@@ -12302,8 +12358,8 @@
         "www.mpo189.org": {
             "included_at_epoch": 1595030939.29449,
             "included_at_iso": "2020-07-18T00:08:59.294490",
-            "last_retested_at_epoch": 1595978475.880414,
-            "last_retested_at_iso": "2020-07-28T23:21:15.880414",
+            "last_retested_at_epoch": 1596412831.107084,
+            "last_retested_at_iso": "2020-08-03T00:00:31.107084",
             "status": "INACTIVE"
         },
         "www.nontondramas.net": {
