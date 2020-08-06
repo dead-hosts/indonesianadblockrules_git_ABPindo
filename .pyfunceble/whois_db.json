@@ -2120,8 +2120,8 @@
         "state": "future"
     },
     "filmdewasaku.org": {
-        "epoch": 1596672000.0,
-        "expiration_date": "06-aug-2020",
+        "epoch": 1628208000.0,
+        "expiration_date": "06-aug-2021",
         "state": "future"
     },
     "filmku.net": {
@@ -2907,7 +2907,7 @@
     "indomovies.club": {
         "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "indomv.net": {
         "epoch": 1611705600.0,
@@ -4730,8 +4730,8 @@
         "state": "future"
     },
     "offerjuice.me": {
-        "epoch": 1596585600.0,
-        "expiration_date": "05-aug-2020",
+        "epoch": 1628121600.0,
+        "expiration_date": "05-aug-2021",
         "state": "future"
     },
     "ofphanpytor.com": {
@@ -5940,8 +5940,8 @@
         "state": "future"
     },
     "situsjudicasino.com": {
-        "epoch": 1596672000.0,
-        "expiration_date": "06-aug-2020",
+        "epoch": 1628208000.0,
+        "expiration_date": "06-aug-2021",
         "state": "future"
     },
     "situstaruhan.com": {
@@ -6852,6 +6852,11 @@
     "wowkeren.com": {
         "epoch": 1609891200.0,
         "expiration_date": "06-jan-2021",
+        "state": "future"
+    },
+    "wp.com": {
+        "epoch": 1616976000.0,
+        "expiration_date": "29-mar-2021",
         "state": "future"
     },
     "xjudi.com": {
