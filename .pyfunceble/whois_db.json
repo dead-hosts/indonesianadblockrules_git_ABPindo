@@ -5474,6 +5474,11 @@
         "expiration_date": "18-mar-2021",
         "state": "future"
     },
+    "qqturbo88.org": {
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
+    },
     "qsng.cn": {
         "epoch": 1602547200.0,
         "expiration_date": "13-oct-2020",
@@ -5905,8 +5910,8 @@
         "state": "future"
     },
     "sinthaistudio.com": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "sitti.co.id": {
