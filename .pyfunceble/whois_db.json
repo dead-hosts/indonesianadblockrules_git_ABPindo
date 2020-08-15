@@ -105,8 +105,8 @@
         "state": "future"
     },
     "2girls1cup.com": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
         "state": "future"
     },
     "2girls1cup.ws": {
@@ -550,8 +550,8 @@
         "state": "future"
     },
     "allvegaspoker.com": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
         "state": "future"
     },
     "amoimovie.com": {
@@ -855,8 +855,8 @@
         "state": "future"
     },
     "bandarbolataruhan.com": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
         "state": "future"
     },
     "bandarjudieuro2012.com": {
@@ -972,7 +972,7 @@
     "bioskop007.club": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "bioskop1080.com": {
         "epoch": 1625529600.0,
@@ -1030,8 +1030,8 @@
         "state": "future"
     },
     "bioskop55.me": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
         "state": "future"
     },
     "bioskop78.com": {
@@ -1860,8 +1860,8 @@
         "state": "future"
     },
     "dunia21.wtf": {
-        "epoch": 1597104000.0,
-        "expiration_date": "11-aug-2020",
+        "epoch": 1628640000.0,
+        "expiration_date": "11-aug-2021",
         "state": "future"
     },
     "dunia21s.fun": {
@@ -1975,8 +1975,8 @@
         "state": "future"
     },
     "eramuslim.com": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
         "state": "future"
     },
     "estoopsi.com": {
@@ -2010,8 +2010,8 @@
         "state": "future"
     },
     "faktabali.com": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
         "state": "future"
     },
     "fanbangho.com": {
@@ -2620,8 +2620,8 @@
         "state": "future"
     },
     "homepokergames.com": {
-        "epoch": 1597449600.0,
-        "expiration_date": "15-aug-2020",
+        "epoch": 1628985600.0,
+        "expiration_date": "15-aug-2021",
         "state": "future"
     },
     "homewares.org": {
@@ -3347,7 +3347,7 @@
     "kabar2.com": {
         "epoch": 1597449600.0,
         "expiration_date": "15-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "kabar24.com": {
         "epoch": 1623974400.0,
@@ -3400,8 +3400,8 @@
         "state": "future"
     },
     "kazefuri.me": {
-        "epoch": 1597104000.0,
-        "expiration_date": "11-aug-2020",
+        "epoch": 1628640000.0,
+        "expiration_date": "11-aug-2021",
         "state": "future"
     },
     "kazefuri.web.id": {
@@ -3820,8 +3820,8 @@
         "state": "future"
     },
     "lk21c.fun": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
         "state": "future"
     },
     "lk21go.fun": {
@@ -4285,8 +4285,8 @@
         "state": "future"
     },
     "mydramalist.com": {
-        "epoch": 1597449600.0,
-        "expiration_date": "15-aug-2020",
+        "epoch": 1660521600.0,
+        "expiration_date": "15-aug-2022",
         "state": "future"
     },
     "mylinkgen.com": {
@@ -4622,7 +4622,7 @@
     "nontonplus.com": {
         "epoch": 1597449600.0,
         "expiration_date": "15-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "nontonserial.com": {
         "epoch": 1626825600.0,
@@ -6342,7 +6342,7 @@
     "tidnqztumpnk.com": {
         "epoch": 1597449600.0,
         "expiration_date": "15-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "tinfunshe.club": {
         "epoch": 1612051200.0,
