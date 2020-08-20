@@ -1,22 +1,22 @@
 {
-    "currently_under_test": false,
+    "currently_under_test": true,
     "custom_pyfunceble_config": {
         "adblock": true
     },
     "days_until_next_test": 4.0,
-    "finish_datetime": "2020-08-15T23:32:38.169368",
-    "finish_timestamp": 1597534358.169368,
-    "last_download_datetime": "2020-08-15T23:31:00.562760",
-    "last_download_timestamp": 1597534260.56276,
-    "latest_part_finish_datetime": "2020-08-15T23:32:38.169368",
-    "latest_part_finish_timestamp": 1597534358.169368,
-    "latest_part_start_datetime": "2020-08-15T23:31:00.566567",
-    "latest_part_start_timestamp": 1597534260.566567,
+    "finish_datetime": "1970-01-01T00:00:00",
+    "finish_timestamp": 0.0,
+    "last_download_datetime": "2020-08-20T23:17:31.095317",
+    "last_download_timestamp": 1597965451.095317,
+    "latest_part_finish_datetime": "2020-08-20T23:34:02.761901",
+    "latest_part_finish_timestamp": 1597966442.761901,
+    "latest_part_start_datetime": "2020-08-20T23:17:31.105438",
+    "latest_part_start_timestamp": 1597965451.105438,
     "live_update": true,
     "name": "indonesianadblockrules_git_ABPindo",
     "own_management": false,
     "ping": [],
     "raw_link": "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt",
-    "start_datetime": "2020-08-15T23:10:26.899526",
-    "start_timestamp": 1597533026.899526
+    "start_datetime": "2020-08-20T23:17:31.101441",
+    "start_timestamp": 1597965451.101441
 }
