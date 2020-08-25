@@ -1956,8 +1956,8 @@
         "bangun3.com": {
             "included_at_epoch": 1596412831.436919,
             "included_at_iso": "2020-08-03T00:00:31.436919",
-            "last_retested_at_epoch": 1597966442.128947,
-            "last_retested_at_iso": "2020-08-20T23:34:02.128947",
+            "last_retested_at_epoch": 1598399725.676196,
+            "last_retested_at_iso": "2020-08-25T23:55:25.676196",
             "status": "INACTIVE"
         },
         "barakjudi.": {
@@ -3006,15 +3006,15 @@
         "copyright-reform.info": {
             "included_at_epoch": 1596412831.59037,
             "included_at_iso": "2020-08-03T00:00:31.590370",
-            "last_retested_at_epoch": 1597966670.552002,
-            "last_retested_at_iso": "2020-08-20T23:37:50.552002",
+            "last_retested_at_epoch": 1598399725.833142,
+            "last_retested_at_iso": "2020-08-25T23:55:25.833142",
             "status": "INACTIVE"
         },
         "cshacks.partycat.us": {
             "included_at_epoch": 1596412831.631416,
             "included_at_iso": "2020-08-03T00:00:31.631416",
-            "last_retested_at_epoch": 1597966670.595017,
-            "last_retested_at_iso": "2020-08-20T23:37:50.595017",
+            "last_retested_at_epoch": 1598399725.859402,
+            "last_retested_at_iso": "2020-08-25T23:55:25.859402",
             "status": "INACTIVE"
         },
         "cyakibet.": {
@@ -4560,8 +4560,8 @@
         "howtotroll.org": {
             "included_at_epoch": 1596412831.959604,
             "included_at_iso": "2020-08-03T00:00:31.959604",
-            "last_retested_at_epoch": 1597966670.924684,
-            "last_retested_at_iso": "2020-08-20T23:37:50.924684",
+            "last_retested_at_epoch": 1598399726.202312,
+            "last_retested_at_iso": "2020-08-25T23:55:26.202312",
             "status": "INACTIVE"
         },
         "hoya-jackpot.": {
@@ -6037,8 +6037,8 @@
         "junecleeland.com": {
             "included_at_epoch": 1596412832.041008,
             "included_at_iso": "2020-08-03T00:00:32.041008",
-            "last_retested_at_epoch": 1597966671.009603,
-            "last_retested_at_iso": "2020-08-20T23:37:51.009603",
+            "last_retested_at_epoch": 1598399726.27238,
+            "last_retested_at_iso": "2020-08-25T23:55:26.272380",
             "status": "INACTIVE"
         },
         "kacangmaspoker.": {
@@ -6226,8 +6226,8 @@
         "killerijo.net": {
             "included_at_epoch": 1596412832.108314,
             "included_at_iso": "2020-08-03T00:00:32.108314",
-            "last_retested_at_epoch": 1597966671.096713,
-            "last_retested_at_iso": "2020-08-20T23:37:51.096713",
+            "last_retested_at_epoch": 1598399726.341862,
+            "last_retested_at_iso": "2020-08-25T23:55:26.341862",
             "status": "INACTIVE"
         },
         "king368.": {
@@ -8144,8 +8144,8 @@
         "oralse.ca": {
             "included_at_epoch": 1596412832.370835,
             "included_at_iso": "2020-08-03T00:00:32.370835",
-            "last_retested_at_epoch": 1597966671.368949,
-            "last_retested_at_iso": "2020-08-20T23:37:51.368949",
+            "last_retested_at_epoch": 1598399726.616334,
+            "last_retested_at_iso": "2020-08-25T23:55:26.616334",
             "status": "INACTIVE"
         },
         "orientalpoker.": {
@@ -11728,8 +11728,8 @@
         "tubgirl.org": {
             "included_at_epoch": 1596412832.801456,
             "included_at_iso": "2020-08-03T00:00:32.801456",
-            "last_retested_at_epoch": 1597966671.831142,
-            "last_retested_at_iso": "2020-08-20T23:37:51.831142",
+            "last_retested_at_epoch": 1598399727.044773,
+            "last_retested_at_iso": "2020-08-25T23:55:27.044773",
             "status": "INACTIVE"
         },
         "tugupoker.": {
@@ -12365,8 +12365,8 @@
         "www.6qpoker99a.com": {
             "included_at_epoch": 1597966440.994281,
             "included_at_iso": "2020-08-20T23:34:00.994281",
-            "last_retested_at_epoch": 1597966440.994281,
-            "last_retested_at_iso": "2020-08-20T23:34:00.994281",
+            "last_retested_at_epoch": 1598399724.614862,
+            "last_retested_at_iso": "2020-08-25T23:55:24.614862",
             "status": "INACTIVE"
         },
         "www.filmdewasa.me": {
@@ -12376,11 +12376,25 @@
             "last_retested_at_iso": "2020-08-25T23:41:46.203943",
             "status": "INACTIVE"
         },
+        "www.gilapoker.asia": {
+            "included_at_epoch": 1598399725.317908,
+            "included_at_iso": "2020-08-25T23:55:25.317908",
+            "last_retested_at_epoch": 1598399725.317908,
+            "last_retested_at_iso": "2020-08-25T23:55:25.317908",
+            "status": "INACTIVE"
+        },
         "www.kozoysnsx.com": {
             "included_at_epoch": 1596538904.361869,
             "included_at_iso": "2020-08-04T11:01:44.361869",
             "last_retested_at_epoch": 1598398901.186717,
             "last_retested_at_iso": "2020-08-25T23:41:41.186717",
+            "status": "INACTIVE"
+        },
+        "www.markasvip.com": {
+            "included_at_epoch": 1598399724.678789,
+            "included_at_iso": "2020-08-25T23:55:24.678789",
+            "last_retested_at_epoch": 1598399724.678789,
+            "last_retested_at_iso": "2020-08-25T23:55:24.678789",
             "status": "INACTIVE"
         },
         "www.nontondramas.net": {
@@ -12393,8 +12407,8 @@
         "www.permainanvip.com": {
             "included_at_epoch": 1596411365.968742,
             "included_at_iso": "2020-08-02T23:36:05.968742",
-            "last_retested_at_epoch": 1597966441.104038,
-            "last_retested_at_iso": "2020-08-20T23:34:01.104038",
+            "last_retested_at_epoch": 1598399724.72223,
+            "last_retested_at_iso": "2020-08-25T23:55:24.722230",
             "status": "INACTIVE"
         },
         "www.zuyejecgb.com": {
