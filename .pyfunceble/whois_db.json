@@ -160,8 +160,8 @@
         "state": "future"
     },
     "3poker855.com": {
-        "epoch": 1598140800.0,
-        "expiration_date": "23-aug-2020",
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
         "state": "future"
     },
     "3r1kwxcd.top": {
@@ -720,8 +720,8 @@
         "state": "future"
     },
     "apkmod.id": {
-        "epoch": 1597968000.0,
-        "expiration_date": "21-aug-2020",
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
         "state": "future"
     },
     "aplikasipc.com": {
@@ -800,8 +800,8 @@
         "state": "future"
     },
     "awsubs.id": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
         "state": "future"
     },
     "awsubs.tv": {
@@ -992,7 +992,7 @@
     "bioskop168.co": {
         "epoch": 1598140800.0,
         "expiration_date": "23-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "bioskop168.online": {
         "epoch": 1627257600.0,
@@ -1075,8 +1075,8 @@
         "state": "past"
     },
     "bioskopgalaxy21.com": {
-        "epoch": 1597968000.0,
-        "expiration_date": "21-aug-2020",
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
         "state": "future"
     },
     "bioskopkeren.club": {
@@ -2105,8 +2105,8 @@
         "state": "future"
     },
     "filmbagus88.net": {
-        "epoch": 1598140800.0,
-        "expiration_date": "23-aug-2020",
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
         "state": "future"
     },
     "filmbioskop.my.id": {
@@ -2234,6 +2234,11 @@
         "expiration_date": "26-feb-2021",
         "state": "future"
     },
+    "fryruejoust.cam": {
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
+        "state": "future"
+    },
     "fuck.org": {
         "epoch": 1625702400.0,
         "expiration_date": "08-jul-2021",
@@ -2312,7 +2317,7 @@
     "ganool.web.id": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "ganool21.watch": {
         "epoch": 1625270400.0,
@@ -2910,8 +2915,8 @@
         "state": "future"
     },
     "indoleads.com": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1755820800.0,
+        "expiration_date": "22-aug-2025",
         "state": "future"
     },
     "indomovies.club": {
@@ -3525,8 +3530,8 @@
         "state": "future"
     },
     "kompasiana.com": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
         "state": "future"
     },
     "kontolterbang.net": {
@@ -4580,8 +4585,8 @@
         "state": "future"
     },
     "nontonganool.net": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
         "state": "future"
     },
     "nontongratis88.com": {
@@ -4950,8 +4955,8 @@
         "state": "future"
     },
     "pasangjudionline.com": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
         "state": "future"
     },
     "pasangtogelonline.com": {
@@ -5275,9 +5280,9 @@
         "state": "future"
     },
     "pondokpoker.com": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
-        "state": "past"
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
+        "state": "future"
     },
     "pondoktogel.com": {
         "epoch": 1620345600.0,
@@ -5952,7 +5957,7 @@
     "situshp.com": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "situsiklanbaris.com": {
         "epoch": 1627257600.0,
@@ -6150,9 +6155,9 @@
         "state": "future"
     },
     "tambahketinggian.com": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
-        "state": "past"
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
+        "state": "future"
     },
     "tangkas.gold": {
         "epoch": 1624752000.0,
