@@ -1,13 +1,13 @@
 {
     "/home/travis/build/dead-hosts/indonesianadblockrules_git_ABPindo/domains.list": {
         "base": {
-            "datetime_iso": "2020-08-30T23:19:25.020519",
-            "hash": "e41c1e6e943c35d9c53d76d5513631537a1f78c5d51a4674080be593"
+            "datetime_iso": "2020-09-04T23:22:11.648728",
+            "hash": "55d13a1031ae95f77d7854fec11f2349e4b833784d4a1a98557ef03a"
         },
         "latest": {
-            "datetime_iso": "2020-08-30T23:19:25.020519",
-            "hash": "e41c1e6e943c35d9c53d76d5513631537a1f78c5d51a4674080be593"
+            "datetime_iso": "2020-09-04T23:22:11.648728",
+            "hash": "55d13a1031ae95f77d7854fec11f2349e4b833784d4a1a98557ef03a"
         },
-        "position": 0
+        "position": 51444
     }
 }
