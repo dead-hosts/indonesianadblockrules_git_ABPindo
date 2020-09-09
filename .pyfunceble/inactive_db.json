@@ -3788,10 +3788,10 @@
             "status": "INVALID"
         },
         "dzbx8qv1at614.cloudfront.net": {
-            "included_at_epoch": 1597102264.229274,
-            "included_at_iso": "2020-08-10T23:31:04.229274",
-            "last_retested_at_epoch": 1598398899.172413,
-            "last_retested_at_iso": "2020-08-25T23:41:39.172413",
+            "included_at_epoch": 1599694601.130093,
+            "included_at_iso": "2020-09-09T23:36:41.130093",
+            "last_retested_at_epoch": 1599694601.130093,
+            "last_retested_at_iso": "2020-09-09T23:36:41.130093",
             "status": "INACTIVE"
         },
         "earneasycash.": {
@@ -6572,6 +6572,13 @@
             "last_retested_at_epoch": 1599262591.070754,
             "last_retested_at_iso": "2020-09-04T23:36:31.070754",
             "status": "INVALID"
+        },
+        "layarxxi.online": {
+            "included_at_epoch": 1599694602.38632,
+            "included_at_iso": "2020-09-09T23:36:42.386320",
+            "last_retested_at_epoch": 1599694602.38632,
+            "last_retested_at_iso": "2020-09-09T23:36:42.386320",
+            "status": "INACTIVE"
         },
         "lazabet.": {
             "included_at_epoch": 1599262591.086998,

@@ -785,8 +785,9 @@
         "state": "future"
     },
     "astroawani.com": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "auredzeon.com": {
@@ -974,6 +975,12 @@
         "expiration_date": "24-may-2021",
         "state": "future"
     },
+    "betflix.id": {
+        "epoch": 1697068800.0,
+        "expiration_date": "12-oct-2023",
+        "server": "whois.id",
+        "state": "future"
+    },
     "betjudionline.com": {
         "epoch": 1614643200.0,
         "expiration_date": "02-mar-2021",
@@ -1078,8 +1085,9 @@
         "state": "future"
     },
     "bioskopbokep21.com": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bioskopbos.com": {
@@ -1895,8 +1903,9 @@
         "state": "future"
     },
     "dunia21s.fun": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.nic.fun",
         "state": "future"
     },
     "dunia21tv.com": {
@@ -1917,7 +1926,8 @@
     "duniasex.co": {
         "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
-        "state": "future"
+        "server": "whois.nic.co",
+        "state": "past"
     },
     "duniasex.ws": {
         "epoch": 1742342400.0,
@@ -3340,8 +3350,9 @@
         "state": "future"
     },
     "juraganfilm.com": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "juraganmovie.net": {
@@ -3660,8 +3671,9 @@
         "state": "future"
     },
     "layarcinema.tv": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "tvwhois.verisign-grs.com",
         "state": "future"
     },
     "layarindo21.pro": {
@@ -4709,7 +4721,8 @@
     "nontonsub.com": {
         "epoch": 1599609600.0,
         "expiration_date": "09-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "nontonsub.top": {
         "epoch": 1611360000.0,
@@ -5164,8 +5177,9 @@
         "state": "future"
     },
     "pokerbonuscodes.com": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pokerbonusguy.com": {
@@ -5444,8 +5458,9 @@
         "state": "future"
     },
     "publish.web.id": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.id",
         "state": "future"
     },
     "pulsk.com": {
@@ -6053,8 +6068,9 @@
         "state": "future"
     },
     "solopos.com": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sourmath.com": {
@@ -6310,8 +6326,9 @@
         "state": "future"
     },
     "tempo.co": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.nic.co",
         "state": "future"
     },
     "tempointeraktif.com": {
@@ -6977,8 +6994,9 @@
         "state": "future"
     },
     "yesads.com": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "yhig.info": {
