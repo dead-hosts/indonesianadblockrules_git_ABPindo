@@ -4053,13 +4053,6 @@
             "last_retested_at_iso": "2020-09-04T23:36:24.914737",
             "status": "INVALID"
         },
-        "ganool.st": {
-            "included_at_epoch": 1597966367.499762,
-            "included_at_iso": "2020-08-20T23:32:47.499762",
-            "last_retested_at_epoch": 1598398911.498855,
-            "last_retested_at_iso": "2020-08-25T23:41:51.498855",
-            "status": "INACTIVE"
-        },
         "ganoollk21.info": {
             "included_at_epoch": 1600126831.07751,
             "included_at_iso": "2020-09-14T23:40:31.077510",
@@ -12370,10 +12363,10 @@
             "status": "INVALID"
         },
         "www.6qpoker99a.com": {
-            "included_at_epoch": 1597966440.994281,
-            "included_at_iso": "2020-08-20T23:34:00.994281",
-            "last_retested_at_epoch": 1598399724.614862,
-            "last_retested_at_iso": "2020-08-25T23:55:24.614862",
+            "included_at_epoch": 1600558861.73913,
+            "included_at_iso": "2020-09-19T23:41:01.739130",
+            "last_retested_at_epoch": 1600558861.73913,
+            "last_retested_at_iso": "2020-09-19T23:41:01.739130",
             "status": "INACTIVE"
         },
         "www.cosmogirl.co.id": {
@@ -12423,6 +12416,20 @@
             "included_at_iso": "2020-09-04T23:36:55.250620",
             "last_retested_at_epoch": 1599262615.25062,
             "last_retested_at_iso": "2020-09-04T23:36:55.250620",
+            "status": "INACTIVE"
+        },
+        "www.urnkawsxxh.com": {
+            "included_at_epoch": 1600558858.626255,
+            "included_at_iso": "2020-09-19T23:40:58.626255",
+            "last_retested_at_epoch": 1600558858.626255,
+            "last_retested_at_iso": "2020-09-19T23:40:58.626255",
+            "status": "INACTIVE"
+        },
+        "www.xrqrpdxqpm.com": {
+            "included_at_epoch": 1600558858.651587,
+            "included_at_iso": "2020-09-19T23:40:58.651587",
+            "last_retested_at_epoch": 1600558858.651587,
+            "last_retested_at_iso": "2020-09-19T23:40:58.651587",
             "status": "INACTIVE"
         },
         "www.zuyejecgb.com": {
