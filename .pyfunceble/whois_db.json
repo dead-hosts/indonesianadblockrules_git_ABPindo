@@ -995,8 +995,9 @@
         "state": "future"
     },
     "bestshockers.com": {
-        "epoch": 1601251200.0,
-        "expiration_date": "28-sep-2020",
+        "epoch": 1632787200.0,
+        "expiration_date": "28-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bet4dtoto.com": {
@@ -1917,8 +1918,9 @@
         "state": "future"
     },
     "drewpickles.com": {
-        "epoch": 1602374400.0,
-        "expiration_date": "11-oct-2020",
+        "epoch": 1633910400.0,
+        "expiration_date": "11-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "drtuber.com": {
@@ -3976,8 +3978,9 @@
         "state": "future"
     },
     "lemonparty.org": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "lendir.org": {
@@ -5277,8 +5280,9 @@
         "state": "future"
     },
     "painolympics.org": {
-        "epoch": 1601251200.0,
-        "expiration_date": "28-sep-2020",
+        "epoch": 1632787200.0,
+        "expiration_date": "28-sep-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "pakbos21.org": {
@@ -6766,8 +6770,9 @@
         "state": "future"
     },
     "thatsphucked.com": {
-        "epoch": 1602374400.0,
-        "expiration_date": "11-oct-2020",
+        "epoch": 1633910400.0,
+        "expiration_date": "11-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "theclickers.net": {
