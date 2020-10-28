@@ -2000,6 +2000,12 @@
         "expiration_date": "19-mar-2025",
         "state": "future"
     },
+    "dutafilm.us": {
+        "epoch": 1616803200.0,
+        "expiration_date": "27-mar-2021",
+        "server": "whois.nic.us",
+        "state": "future"
+    },
     "dutaislam.com": {
         "epoch": 1667260800.0,
         "expiration_date": "01-nov-2022",
