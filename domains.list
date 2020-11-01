@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202010261235
+! Version: 202011011208
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 26 Oct 2020 12:35 UTC
+! Last modified: 01 Nov 2020 12:08 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -402,7 +402,6 @@ $xmlhttprequest,domain=mangacanblog.com
 ||cat3movie.us/popup.js
 ||cdn.detik.net.id/detik2/mobile/js/it.mobile.js$script
 ||cdn.kaskus.com/img/skin/*.gif$image
-||cdn.livechatinc.com/tracking.js
 ||cdn.newparadise.xyz/ezgif-*.gif$image,domain=layarcinema.tv|lk21tv.com
 ||cdn.rawgit.com/sdnime09/Ngewe-om/f8cad426/sayang.js$script,domain=myanimeindo.net
 ||cdn.staticaly.com/gh/sotazer/sotazone/*/kurazoneAdblock.js
@@ -734,7 +733,7 @@ $xmlhttprequest,domain=mangacanblog.com
 @@||omahkpop.com^$generichide
 @@||oploverz.in^$generichide
 @@||otakuindo.net^$generichide
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ad4msan.win|aksensei.com|animenyus.com|animexin.jin-7.com|belajarbro.id|datasekolah.co.id|dukun-cit.com|gembelcit.net|illyasave.com|indozone.me|infolokerserang.com|lewat.club|modecepat.com|nekopoi.web.id|pugam.com|sedot.link
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ad4msan.win|aksensei.com|animenyus.com|animexin.jin-7.com|belajarbro.id|datasekolah.co.id|dukun-cit.com|gembelcit.net|illyasave.com|indozone.me|infolokerserang.com|lewat.club|modecepat.com|nekopoi.web.id|pugam.com|sedot.link|www.download.web.id
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||radarlombok.co.id^$generichide
 @@||rawcdn.githack.com/KecoaTerbank/safelink/$script,domain=eleventhlevelinteractive.com
@@ -752,6 +751,7 @@ $xmlhttprequest,domain=mangacanblog.com
 @@||unpkg.com/flickity@2.0/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||updatetribun.^$generichide
 @@||virtualdata.me/webroot/js/ads.js$script,~third-party
+@@||www.googletagmanager.com/gtm.js$script,domain=inet.detik.com
 @@||zaqe.xyz^$generichide
 aktual.id,datasekolah.co.id#@#.adsbygoogle
 animanganews.com#@#.iklan
@@ -6810,9 +6810,11 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[title="MURNIQQ" i]
 ##a[title="MUTIARAPOKER" i]
 ##a[title="MacauBet" i]
+##a[title="Macauslot188" i]
 ##a[title="Makauqq" i]
 ##a[title="Mandala Toto" i]
 ##a[title="ManiaQQ" i]
+##a[title="Masterslot88" i]
 ##a[title="MemekMonyet"]
 ##a[title="ModalQQ" i]
 ##a[title="NAGAPOKERQQ" i]
@@ -7231,6 +7233,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[title^="Agen togel" i]
 ##a[title^="Bandar Poker" i]
 ##a[title^="Bandar Togel" i]
+##a[title^="CMD368" i]
 ##a[title^="Judi Bola" i]
 ##a[title^="Judi Online" i]
 ##a[title^="Judi bola" i]
@@ -7593,9 +7596,11 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##img[alt="MURNIQQ" i]
 ##img[alt="MUTIARAPOKER" i]
 ##img[alt="MacauBet" i]
+##img[alt="Macauslot188" i]
 ##img[alt="Makauqq" i]
 ##img[alt="Mandala Toto" i]
 ##img[alt="ManiaQQ" i]
+##img[alt="Masterslot88" i]
 ##img[alt="MemekMonyet"]
 ##img[alt="ModalQQ" i]
 ##img[alt="NAGAPOKERQQ" i]
@@ -8014,6 +8019,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##img[alt^="Agen togel" i]
 ##img[alt^="Bandar Poker" i]
 ##img[alt^="Bandar Togel" i]
+##img[alt^="CMD368" i]
 ##img[alt^="Judi Bola" i]
 ##img[alt^="Judi Online" i]
 ##img[alt^="Judi bola" i]
