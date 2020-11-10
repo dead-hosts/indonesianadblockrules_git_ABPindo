@@ -228,8 +228,9 @@
         "state": "future"
     },
     "90animax.com": {
-        "epoch": 1604275200.0,
-        "expiration_date": "02-nov-2020",
+        "epoch": 1611360000.0,
+        "expiration_date": "23-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "9411532.com": {
@@ -418,8 +419,9 @@
         "state": "future"
     },
     "adslop.com": {
-        "epoch": 1604966400.0,
-        "expiration_date": "10-nov-2020",
+        "epoch": 1636502400.0,
+        "expiration_date": "10-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adstars.co.id": {
@@ -453,8 +455,9 @@
         "state": "future"
     },
     "afbcashidr.com": {
-        "epoch": 1604707200.0,
-        "expiration_date": "07-nov-2020",
+        "epoch": 1636243200.0,
+        "expiration_date": "07-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "agen-togelonline.com": {
@@ -608,8 +611,9 @@
         "state": "future"
     },
     "anekataruhan.com": {
-        "epoch": 1604707200.0,
-        "expiration_date": "07-nov-2020",
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "anibatch.id": {
@@ -648,8 +652,9 @@
         "state": "future"
     },
     "animeindo.co": {
-        "epoch": 1603584000.0,
-        "expiration_date": "25-oct-2020",
+        "epoch": 1635120000.0,
+        "expiration_date": "25-oct-2021",
+        "server": "whois.nic.co",
         "state": "future"
     },
     "animeindo.id": {
@@ -1017,8 +1022,9 @@
         "state": "future"
     },
     "bingofreebonus.net": {
-        "epoch": 1603929600.0,
-        "expiration_date": "29-oct-2020",
+        "epoch": 1635465600.0,
+        "expiration_date": "29-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bintangmawar.net": {
@@ -1457,8 +1463,9 @@
         "state": "future"
     },
     "chip.co.id": {
-        "epoch": 1604966400.0,
-        "expiration_date": "10-nov-2020",
+        "epoch": 1636502400.0,
+        "expiration_date": "10-nov-2021",
+        "server": "whois.id",
         "state": "future"
     },
     "chqspuonctkgz.com": {
@@ -1483,8 +1490,9 @@
         "state": "future"
     },
     "cinema-indo.net": {
-        "epoch": 1604793600.0,
-        "expiration_date": "08-nov-2020",
+        "epoch": 1636329600.0,
+        "expiration_date": "08-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cinema-indo.web.id": {
@@ -1509,8 +1517,9 @@
         "state": "future"
     },
     "cinemaindo.pro": {
-        "epoch": 1604707200.0,
-        "expiration_date": "07-nov-2020",
+        "epoch": 1636243200.0,
+        "expiration_date": "07-nov-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "cinemaindo.stream": {
@@ -1544,8 +1553,9 @@
         "state": "future"
     },
     "cjsab.com": {
-        "epoch": 1604534400.0,
-        "expiration_date": "05-nov-2020",
+        "epoch": 1636070400.0,
+        "expiration_date": "05-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clc.la": {
@@ -1867,8 +1877,9 @@
         "state": "future"
     },
     "drakorindo.fun": {
-        "epoch": 1604534400.0,
-        "expiration_date": "05-nov-2020",
+        "epoch": 1636070400.0,
+        "expiration_date": "05-nov-2021",
+        "server": "whois.nic.fun",
         "state": "future"
     },
     "drakorindo.tv": {
@@ -2274,8 +2285,9 @@
         "state": "future"
     },
     "filmxy.cc": {
-        "epoch": 1604275200.0,
-        "expiration_date": "02-nov-2020",
+        "epoch": 1635811200.0,
+        "expiration_date": "02-nov-2021",
+        "server": "ccwhois.verisign-grs.com",
         "state": "future"
     },
     "fivestarsbet.com": {
@@ -3050,13 +3062,15 @@
         "state": "future"
     },
     "indochanger.com": {
-        "epoch": 1603670400.0,
-        "expiration_date": "26-oct-2020",
+        "epoch": 1635206400.0,
+        "expiration_date": "26-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "indocinema21.com": {
-        "epoch": 1603670400.0,
-        "expiration_date": "26-oct-2020",
+        "epoch": 1635206400.0,
+        "expiration_date": "26-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "indofiles.web.id": {
@@ -3158,8 +3172,9 @@
         "state": "future"
     },
     "indoxx1.com": {
-        "epoch": 1604275200.0,
-        "expiration_date": "02-nov-2020",
+        "epoch": 1635811200.0,
+        "expiration_date": "02-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "indoxx1.pw": {
@@ -3184,8 +3199,9 @@
         "state": "future"
     },
     "indoxxi.tv": {
-        "epoch": 1604275200.0,
-        "expiration_date": "02-nov-2020",
+        "epoch": 1635811200.0,
+        "expiration_date": "02-nov-2021",
+        "server": "tvwhois.verisign-grs.com",
         "state": "future"
     },
     "indoxximovie.com": {
@@ -3267,8 +3283,9 @@
         "state": "future"
     },
     "istanaiklan.com": {
-        "epoch": 1604188800.0,
-        "expiration_date": "01-nov-2020",
+        "epoch": 1612310400.0,
+        "expiration_date": "03-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "istanaimpian1.com": {
@@ -3359,8 +3376,9 @@
         "state": "future"
     },
     "javaiklan.com": {
-        "epoch": 1604793600.0,
-        "expiration_date": "08-nov-2020",
+        "epoch": 1636329600.0,
+        "expiration_date": "08-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "javapic.com": {
@@ -3886,8 +3904,9 @@
         "state": "future"
     },
     "layarkaca21.com": {
-        "epoch": 1604275200.0,
-        "expiration_date": "02-nov-2020",
+        "epoch": 1635811200.0,
+        "expiration_date": "02-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "layarkaca21.net": {
@@ -4096,8 +4115,9 @@
         "state": "future"
     },
     "lk21.web.id": {
-        "epoch": 1604534400.0,
-        "expiration_date": "05-nov-2020",
+        "epoch": 1636070400.0,
+        "expiration_date": "05-nov-2021",
+        "server": "whois.id",
         "state": "future"
     },
     "lk21.world": {
@@ -4132,8 +4152,9 @@
         "state": "future"
     },
     "lk21tv.com": {
-        "epoch": 1603670400.0,
-        "expiration_date": "26-oct-2020",
+        "epoch": 1635206400.0,
+        "expiration_date": "26-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "lk21xxi.co": {
@@ -4307,8 +4328,9 @@
         "state": "future"
     },
     "manganime.in": {
-        "epoch": 1604966400.0,
-        "expiration_date": "10-nov-2020",
+        "epoch": 1668038400.0,
+        "expiration_date": "10-nov-2022",
+        "server": "whois.registry.in",
         "state": "future"
     },
     "mangapark.net": {
@@ -4801,8 +4823,9 @@
         "state": "future"
     },
     "nobartv.com": {
-        "epoch": 1603584000.0,
-        "expiration_date": "25-oct-2020",
+        "epoch": 1635120000.0,
+        "expiration_date": "25-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "nobrain.dk": {
@@ -4841,8 +4864,9 @@
         "state": "future"
     },
     "nonton33.tv": {
-        "epoch": 1603411200.0,
-        "expiration_date": "23-oct-2020",
+        "epoch": 1634947200.0,
+        "expiration_date": "23-oct-2021",
+        "server": "tvwhois.verisign-grs.com",
         "state": "future"
     },
     "nonton789.com": {
@@ -4861,8 +4885,9 @@
         "state": "future"
     },
     "nontonbokeps.com": {
-        "epoch": 1603497600.0,
-        "expiration_date": "24-oct-2020",
+        "epoch": 1635033600.0,
+        "expiration_date": "24-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "nontonbp.com": {
@@ -4918,8 +4943,9 @@
         "state": "future"
     },
     "nontonfilm88.com": {
-        "epoch": 1603584000.0,
-        "expiration_date": "25-oct-2020",
+        "epoch": 1635120000.0,
+        "expiration_date": "25-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "nontonfilmdrama.com": {
@@ -4998,10 +5024,10 @@
         "state": "future"
     },
     "nontonsub.co": {
-        "epoch": 1601596800.0,
-        "expiration_date": "02-oct-2020",
+        "epoch": 1633132800.0,
+        "expiration_date": "02-oct-2021",
         "server": "whois.nic.co",
-        "state": "past"
+        "state": "future"
     },
     "nontonsub.com": {
         "epoch": 1631145600.0,
@@ -5151,8 +5177,9 @@
         "state": "future"
     },
     "onclkds.com": {
-        "epoch": 1603670400.0,
-        "expiration_date": "26-oct-2020",
+        "epoch": 1635206400.0,
+        "expiration_date": "26-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "online5poker.com": {
@@ -5249,8 +5276,9 @@
         "state": "future"
     },
     "oxhax.com": {
-        "epoch": 1604188800.0,
-        "expiration_date": "01-nov-2020",
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "oxload.icu": {
@@ -6074,8 +6102,9 @@
         "state": "future"
     },
     "rumahbokep.org": {
-        "epoch": 1603670400.0,
-        "expiration_date": "26-oct-2020",
+        "epoch": 1635206400.0,
+        "expiration_date": "26-oct-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "rumahtaruhan.com": {
@@ -6143,7 +6172,8 @@
     "satujiwa.org": {
         "epoch": 1604880000.0,
         "expiration_date": "09-nov-2020",
-        "state": "future"
+        "server": "whois.pir.org",
+        "state": "past"
     },
     "sawnowepage.com": {
         "epoch": 1624320000.0,
@@ -6525,8 +6555,9 @@
         "state": "future"
     },
     "sukanonton.online": {
-        "epoch": 1604102400.0,
-        "expiration_date": "31-oct-2020",
+        "epoch": 1635638400.0,
+        "expiration_date": "31-oct-2021",
+        "server": "whois.nic.online",
         "state": "future"
     },
     "sukatoro.com": {
@@ -6829,8 +6860,9 @@
         "state": "future"
     },
     "thirdstarfilm.com": {
-        "epoch": 1603756800.0,
-        "expiration_date": "27-oct-2020",
+        "epoch": 1635292800.0,
+        "expiration_date": "27-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "tidnqztumpnk.com": {
@@ -6986,8 +7018,9 @@
         "state": "future"
     },
     "topsurfer.com": {
-        "epoch": 1604793600.0,
-        "expiration_date": "08-nov-2020",
+        "epoch": 1636329600.0,
+        "expiration_date": "08-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "toptogel.com": {
@@ -7001,8 +7034,9 @@
         "state": "future"
     },
     "totalgame.online": {
-        "epoch": 1601856000.0,
-        "expiration_date": "05-oct-2020",
+        "epoch": 1633392000.0,
+        "expiration_date": "05-oct-2021",
+        "server": "whois.nic.online",
         "state": "future"
     },
     "totalpoker.com": {
@@ -7135,8 +7169,9 @@
         "state": "future"
     },
     "tummiarunzpf.com": {
-        "epoch": 1603929600.0,
-        "expiration_date": "29-oct-2020",
+        "epoch": 1635465600.0,
+        "expiration_date": "29-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "turdgasm.com": {
