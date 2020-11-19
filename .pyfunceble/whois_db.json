@@ -238,6 +238,12 @@
         "expiration_date": "25-jun-2021",
         "state": "future"
     },
+    "978bet13.com": {
+        "epoch": 1662249600.0,
+        "expiration_date": "04-sep-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "99capsamu99.com": {
         "epoch": 1624147200.0,
         "expiration_date": "20-jun-2021",

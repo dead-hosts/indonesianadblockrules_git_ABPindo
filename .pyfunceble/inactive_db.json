@@ -784,6 +784,13 @@
             "last_retested_at_iso": "2020-11-10T01:06:06.333369",
             "status": "ACTIVE"
         },
+        "978bet13.com": {
+            "included_at_epoch": 1605746982.957368,
+            "included_at_iso": "2020-11-19T00:49:42.957368",
+            "last_retested_at_epoch": 1605746982.957368,
+            "last_retested_at_iso": "2020-11-19T00:49:42.957368",
+            "status": "ACTIVE"
+        },
         "988bet.": {
             "included_at_epoch": 1604274711.77621,
             "included_at_iso": "2020-11-01T23:51:51.776210",
@@ -21631,10 +21638,10 @@
             "status": "INVALID"
         },
         "www.6qpoker99a.com": {
-            "included_at_epoch": 1603064519.183209,
-            "included_at_iso": "2020-10-18T23:41:59.183209",
-            "last_retested_at_epoch": 1603064519.183209,
-            "last_retested_at_iso": "2020-10-18T23:41:59.183209",
+            "included_at_epoch": 1605746983.021231,
+            "included_at_iso": "2020-11-19T00:49:43.021231",
+            "last_retested_at_epoch": 1605746983.021231,
+            "last_retested_at_iso": "2020-11-19T00:49:43.021231",
             "status": "INACTIVE"
         },
         "www.6qpoker99c.com": {
@@ -21652,10 +21659,10 @@
             "status": "ACTIVE"
         },
         "www.angelpoker.com": {
-            "included_at_epoch": 1603064519.328164,
-            "included_at_iso": "2020-10-18T23:41:59.328164",
-            "last_retested_at_epoch": 1603064519.328164,
-            "last_retested_at_iso": "2020-10-18T23:41:59.328164",
+            "included_at_epoch": 1605746983.162229,
+            "included_at_iso": "2020-11-19T00:49:43.162229",
+            "last_retested_at_epoch": 1605746983.162229,
+            "last_retested_at_iso": "2020-11-19T00:49:43.162229",
             "status": "ACTIVE"
         },
         "www.apktiga.com": {
@@ -21729,10 +21736,10 @@
             "status": "INACTIVE"
         },
         "www.gudang.poker": {
-            "included_at_epoch": 1603064519.231854,
-            "included_at_iso": "2020-10-18T23:41:59.231854",
-            "last_retested_at_epoch": 1603064519.231854,
-            "last_retested_at_iso": "2020-10-18T23:41:59.231854",
+            "included_at_epoch": 1605746983.065864,
+            "included_at_iso": "2020-11-19T00:49:43.065864",
+            "last_retested_at_epoch": 1605746983.065864,
+            "last_retested_at_iso": "2020-11-19T00:49:43.065864",
             "status": "ACTIVE"
         },
         "www.hobikartu.xyz": {
@@ -21946,10 +21953,10 @@
             "status": "ACTIVE"
         },
         "www.ubcpoker.online": {
-            "included_at_epoch": 1603064519.280274,
-            "included_at_iso": "2020-10-18T23:41:59.280274",
-            "last_retested_at_epoch": 1603064519.280274,
-            "last_retested_at_iso": "2020-10-18T23:41:59.280274",
+            "included_at_epoch": 1605746983.114581,
+            "included_at_iso": "2020-11-19T00:49:43.114581",
+            "last_retested_at_epoch": 1605746983.114581,
+            "last_retested_at_iso": "2020-11-19T00:49:43.114581",
             "status": "ACTIVE"
         },
         "www.untungvip.com": {
