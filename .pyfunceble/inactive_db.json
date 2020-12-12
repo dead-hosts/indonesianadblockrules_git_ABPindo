@@ -17969,6 +17969,13 @@
             "last_retested_at_iso": "2020-12-03T04:01:41.050466",
             "status": "INVALID"
         },
+        "serbada.com": {
+            "included_at_epoch": 1607752985.233957,
+            "included_at_iso": "2020-12-12T06:03:05.233957",
+            "last_retested_at_epoch": 1607752985.233957,
+            "last_retested_at_iso": "2020-12-12T06:03:05.233957",
+            "status": "ACTIVE"
+        },
         "serbakas88.": {
             "included_at_epoch": 1606968101.09211,
             "included_at_iso": "2020-12-03T04:01:41.092110",

@@ -6358,6 +6358,12 @@
         "expiration_date": "18-oct-2019",
         "state": "past"
     },
+    "serbada.com": {
+        "epoch": 1637798400.0,
+        "expiration_date": "25-nov-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "serbapromo.com": {
         "epoch": 1606521600.0,
         "expiration_date": "28-nov-2020",
