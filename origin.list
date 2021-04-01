@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202101212215
+! Version: 202103171233
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 21 Jan 2021 22:15 UTC
+! Last modified: 17 Mar 2021 12:33 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -368,6 +368,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||animeindo.*/wp-content/uploads/*.gif$image
 ||animekompi.web.id/wp-content/uploads/*/ANTIBLOCKER2.jpg
 ||animekompi.web.id/wp-content/uploads/*/antiblocker3-1.jpg
+||animexin.*/wp-content/uploads/*.gif$image,~third-party
 ||api.winnetnews.com/api/*/banner/
 ||armylookfashion.com/728.swf
 ||awnime.net/popup.htm$popup
@@ -386,7 +387,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||bioskopkeren.guru/images/*.gif$image
 ||bioskopkeren.xyz/images/*.gif$image
 ||bioskopxxi.*/wp-content/uploads/*.gif$image
-||bp.blogspot.com/*.gif$image,domain=animeindo.moe|anoboy.org|anoboy.video|awnime.net|awsubs.co|awsubs.tv|bioskopgalaxy21.com|bioskoptigalima.com|bokepman.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.pro|drakorindo.tv|drakorindofilms.net|duniasex.ws|dwanonton.com|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|idkomik.com|juragantomatx.com|kawanfilm21.org|kawanfilm21.pro|kawanfilm21.win|kazefuri.me|kazefuri.web.id|kombatch.com|komikcast.com|lapakfilm.club|layarkeren.com|layarkeren.info|layarkeren.site|layarkeren.xyz|layarmovie21.co|lk21id.com|mangaindo.net|mangashiro.co|movie303.com|movie76.net|moviebaru21.com|nekopoi.care|neonime.com|neonime.net|neumanga.tv|nonton-streaming.com|nonton.club|nonton33.com|nonton33.net|nonton33.org|nonton33.tv|nontonbp.com|nontondrama.me|nontonfilm.mobi|nontonfilm21.club|nontonin.co|nontonmovie33.net|oploverz.in|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
+||bp.blogspot.com/*.gif$image,domain=139.99.33.192|animeindo.moe|anoboy.org|anoboy.video|awnime.net|awsubs.co|awsubs.tv|bioskopgalaxy21.com|bioskoptigalima.com|bokepman.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.pro|drakorindo.tv|drakorindofilms.net|duniasex.ws|dwanonton.com|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|idkomik.com|juragantomatx.com|kawanfilm21.org|kawanfilm21.pro|kawanfilm21.win|kazefuri.me|kazefuri.web.id|kombatch.com|komikcast.com|lapakfilm.club|layarkeren.com|layarkeren.info|layarkeren.site|layarkeren.xyz|layarmovie21.co|lk21id.com|mangaindo.net|mangashiro.co|movie303.com|movie76.net|moviebaru21.com|nekopoi.care|neonime.com|neonime.net|neumanga.tv|nonton-streaming.com|nonton.club|nonton33.com|nonton33.net|nonton33.org|nonton33.tv|nontonbp.com|nontondrama.me|nontonfilm.mobi|nontonfilm21.club|nontonin.co|nontonmovie33.net|oploverz.in|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
 ||bp.blogspot.com/*/iklan_landscape.jpg$image,domain=mangacanblog.com
 ||budiarto.id/bausastra/assets/img/*.jpg
 ||budiarto.id/bausastra/assets/img/banner
@@ -1125,6 +1126,7 @@ layarkeren.site###ouibounce-modal
 kricom.id###overlay
 dunia21.me,dunia21.net,dunia21.org,dunia21.wtf###overlay-pop
 lihat.co.id###overlay[style="display: block;"]
+oploverz.bz###overplay
 cinema-indo.com,cinemaindo.web.id,layarkaca21.net,layarkaca21.web.id,lk21.org,nonton21.net,nontonmovie.web.id###pbanner
 eramuslim.com###peluang
 idxx1.top###player-side-left
@@ -1321,7 +1323,7 @@ kompas.com##.boxBanner3
 kompas.com##.boxBannerR1akt
 kompas.com##.boxSkinAd
 otakuindo.org##.box_banner
-neonime.com##.box_item_berlangganan
+neonime.com,neonime.vip##.box_item_berlangganan
 46.166.167.16##.breadBoxBottom
 inilah.com##.bt-g1.b-g3.wb-300x100
 inilah.com##.bt-g1.b-g3.wb-300x250
@@ -1362,6 +1364,7 @@ dewanontons.com##.dewa_floating_bottom
 layarkaca21.tv,lk21.tv##.fancybox-skin
 dapurpacu.com##.fixed-ads-atas
 readwebtoons.com##.float-ck
+drakorasia.net##.floatingads
 teknoup.com##.footer_banner
 manganime.id##.ftadss
 myasiantv.se##.glx-link
@@ -1443,6 +1446,8 @@ ibugil.net##.semprotpokemon_1
 ibugil.net##.semprotpokemon_2
 republika.co.id##.set-ads-468
 kazemanga.xyz##.sg-popup-builder-content
+oploverz.bz##.sg-popup-content
+oploverz.bz##.sgpb-popup-overlay
 drakorindo.fun##.sgpb-popup-overlay.sgpb-popup-overlay-3560.sgpb-theme-6-overlay
 cinemaindo.com##.side:nth-of-type(7)
 cinemaindo.com##.side:nth-of-type(8)
@@ -1576,12 +1581,12 @@ jakbos.com##img:nth-of-type(2)
 tribunnews.com##img[src*=".pgi.tribunnews.com/"]
 lihat.co.id##img[style="border:0;display:block;"]
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
-lihat.co.id##img[width="300"][height="250"]
+lihat.co.id,oploverz.bz##img[width="300"][height="250"]
+oploverz.bz##img[width="300"][height="300"]
 animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-||bp.blogspot.com/*.gif$image,domain=139.99.33.192
 ! --------------------------- annoyances ------------------------------!
 ! *** abpindo:src/annoyances/annoyance_thirdparty.txt ***
 ||24hpoker.com^$third-party
@@ -4638,7 +4643,9 @@ bioskop78.com##td:nth-of-type(3)
 ##.judi
 ##.togel
 ##[href$="/bandarpokerpulsa"]
+##[href$="/rajasloto"]
 ##[href="http://probet228.com"]
+##[href="https://superitc.biz/"]
 ##[href^="//zukxd6fkxqn.com/"]
 ##[href^="Http://ApiBet."]
 ##[href^="Http://ApiKartu."]
@@ -4686,6 +4693,7 @@ bioskop78.com##td:nth-of-type(3)
 ##[href^="http://8mpoker."]
 ##[href^="http://8togel."]
 ##[href^="http://978bet13.com"]
+##[href^="http://978bet31.com"]
 ##[href^="http://988bet."]
 ##[href^="http://99abgqq."]
 ##[href^="http://99capsaqq99.com/"]
@@ -5385,6 +5393,7 @@ bioskop78.com##td:nth-of-type(3)
 ##[href^="http://prediksitogeljitu."]
 ##[href^="http://premier188."]
 ##[href^="http://probet.biz"]
+##[href^="http://probet228.com"]
 ##[href^="http://probet24.site/"]
 ##[href^="http://probet99."]
 ##[href^="http://promodewa."]
@@ -5488,6 +5497,7 @@ bioskop78.com##td:nth-of-type(3)
 ##[href^="http://sevenbola."]
 ##[href^="http://shiokambing2."]
 ##[href^="http://shiokuda."]
+##[href^="http://shiro888slot.com"]
 ##[href^="http://siapbet."]
 ##[href^="http://sifubet."]
 ##[href^="http://sifujudi."]
@@ -6133,6 +6143,7 @@ bioskop78.com##td:nth-of-type(3)
 ##[href^="https://fivestarsbet.com"]
 ##[href^="https://fundomino."]
 ##[href^="https://fundominoqq."]
+##[href^="https://habaneroslot."]
 ##[href^="https://hahatogel.net"]
 ##[href^="https://hokianda.com"]
 ##[href^="https://id.maindulu77.com"]
@@ -6207,6 +6218,7 @@ bioskop78.com##td:nth-of-type(3)
 ##[href^="https://wahanabet."]
 ##[href^="https://warnaqqpkv.com"]
 ##[href^="https://www.2capsaqq."]
+##[href^="https://www.33s.com"]
 ##[href^="https://www.365capsa."]
 ##[href^="https://www.Aon-bet."]
 ##[href^="https://www.ArmaniQQ."]
@@ -6263,6 +6275,9 @@ bioskop78.com##td:nth-of-type(3)
 ##[href^="https://zetapoker99.com"]
 ##[href^="https://zeuspkv.com"]
 ##[src$="/assets/kdslot.gif"]
+##[title="ALIENBOLA" i]
+##[title="Inidewa365" i]
+##[title="okeplay777" i]
 ##a[href$="/77megabet"]
 ##a[href$="/LonteQQ"]
 ##a[href$="/adscantikqq"]
@@ -6340,6 +6355,7 @@ bioskop78.com##td:nth-of-type(3)
 ##a[title="1xbet" i]
 ##a[title="33sbet" i]
 ##a[title="381bet" i]
+##a[title="388HERO" i]
 ##a[title="388hero"]
 ##a[title="526betclub" i]
 ##a[title="5Starsbet" i]
@@ -7038,6 +7054,7 @@ bioskop78.com##td:nth-of-type(3)
 ##a[title="pokercip" i]
 ##a[title="pokerlounge99" i]
 ##a[title="promo togel" i]
+##a[title="promosi kdslots" i]
 ##a[title="qqangpao" i]
 ##a[title="qqturbo" i]
 ##a[title="rajajudiQQ" i]
@@ -7838,6 +7855,7 @@ bioskop78.com##td:nth-of-type(3)
 ##img[alt="pokercip" i]
 ##img[alt="pokerlounge99" i]
 ##img[alt="promo togel" i]
+##img[alt="promosi kdslots" i]
 ##img[alt="qqangpao" i]
 ##img[alt="qqturbo" i]
 ##img[alt="rajajudiQQ" i]
@@ -7930,7 +7948,6 @@ bioskop78.com##td:nth-of-type(3)
 ##img[alt^="togel online" i]
 ##img[class="happypoker" i]
 ##img[src="http://livesgp."]
-##img[title="ALIENBOLA" i]
 ! *** abpindo:src/annoyances/annoyance_general_block.txt ***
 -abgqq.$image
 -agen-judi-$image
