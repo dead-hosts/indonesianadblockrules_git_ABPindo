@@ -1,15 +1,17 @@
-{
-    "abs_source": "/home/runner/work/indonesianadblockrules_git_ABPindo/indonesianadblockrules_git_ABPindo/origin.list",
-    "checker_type": "AVAILABILITY",
-    "destination": "origin.list",
-    "hash": "af5fd809b54cb06ddab6ca1763078d6a01630264e889501b7a103eb4",
-    "line_number": 8530,
-    "output_dir": "/home/runner/work/indonesianadblockrules_git_ABPindo/indonesianadblockrules_git_ABPindo/output/origin.list",
-    "previous_hash": "af5fd809b54cb06ddab6ca1763078d6a01630264e889501b7a103eb4",
-    "rel_source": "origin.list",
-    "session_id": "8addf83bb0e9a48e5f3f4097",
-    "source": "origin.list",
-    "subject": "origin.list",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/indonesianadblockrules_git_ABPindo/indonesianadblockrules_git_ABPindo/origin.list",
+        "checker_type": "AVAILABILITY",
+        "destination": "origin.list",
+        "hash": "63a83e1dd1486c06c5ff7b87ddd3f91afe1c3e907e0ecd9a8139c383",
+        "line_number": 8531,
+        "output_dir": "/home/runner/work/indonesianadblockrules_git_ABPindo/indonesianadblockrules_git_ABPindo/output/origin.list",
+        "previous_hash": "63a83e1dd1486c06c5ff7b87ddd3f91afe1c3e907e0ecd9a8139c383",
+        "rel_source": "origin.list",
+        "session_id": "8addf83bb0e9a48e5f3f4097",
+        "source": "origin.list",
+        "subject": "origin.list",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]
