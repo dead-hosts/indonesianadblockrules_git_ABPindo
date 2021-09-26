@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202109102154
+! Version: 202109260027
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 10 Sep 2021 21:54 UTC
+! Last modified: 26 Sep 2021 00:27 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -608,6 +608,9 @@ $xmlhttprequest,domain=mangacanblog.com
 ||semuaberita.com/banner/
 ||senimovies.*/wp-content/uploads/*.gif$image
 ||serunonton.*/wp-content/uploads/*.gif$image
+||sextgem.com/banner/*.gif$image
+||snacklink.id/js/web-script.js$script
+||snacklink.id/js/web-script.js$script,third-party
 ||sobatkeren.club/img/banner/*.gif$image
 ||sodasusu.com/banner/
 ||solopos.com/banner/
@@ -2334,6 +2337,7 @@ bioskop78.com##td:nth-of-type(3)
 /tangkaspro.$image,third-party
 /tatacasino.$image,third-party
 /tatobet.$image,third-party
+/TelurQQ.$image
 /texaspoker.$image,third-party
 /texasqq.$image,third-party
 /togel212.$image,third-party
@@ -7213,6 +7217,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="1POKER" i]
 ##img[alt="1xbet" i]
 ##img[alt="33sbet" i]
+##img[alt="365agen" i]
 ##img[alt="381bet" i]
 ##img[alt="388hero"]
 ##img[alt="526betclub" i]
@@ -7749,6 +7754,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="TajirQQ" i]
 ##img[alt="Tangkas Online" i]
 ##img[alt="Taruhan Bola" i]
+##img[alt="Telurqq" i]
 ##img[alt="Texaspoker" i]
 ##img[alt="Texaspokercc" i]
 ##img[alt="Togel Domino" i]
@@ -8138,6 +8144,7 @@ leon.bet#@#a[href$="/slots"]
 /1xbet250.gif|$image
 /1xbetnew.gif|$image
 /28bet.$image
+/365agen-$image
 /365qiuqiu-$image
 /526bet-$image
 /720x90-jkt2u-$image
@@ -8147,10 +8154,12 @@ leon.bet#@#a[href$="/slots"]
 /Banner-Poker$image,third-party
 /Banner-Suhubola-$image,third-party
 /Betcoin-$image
+/DEWABANDAR-$image
 /Dazbet.gif$image
 /ITCBET.gif|$image
 /JuaraCapsa.gif|$image
 /NIKMATIQQ.$image
+/PESBOLA-$image
 /PKVHOKI.gif|$image
 /PURIBET.gif|$image
 /Poker228.gif|$image
