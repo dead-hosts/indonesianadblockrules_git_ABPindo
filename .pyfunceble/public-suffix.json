@@ -1871,7 +1871,8 @@
     ],
     "goog": [
         "cloud.goog",
-        "translate.goog"
+        "translate.goog",
+        "usercontent.goog"
     ],
     "gp": [
         "app.gp",
@@ -5635,7 +5636,6 @@
         "cdn77-ssl.net",
         "centralus.azurestaticapps.net",
         "channelsdvr.net",
-        "clic2000.net",
         "clickrising.net",
         "cloudaccess.net",
         "cloudapp.net",
@@ -5781,7 +5781,8 @@
         "westeurope.azurestaticapps.net",
         "westus2.azurestaticapps.net",
         "yandexcloud.net",
-        "za.net"
+        "za.net",
+        "zapto.xyz"
     ],
     "network": [
         "alces.network",
@@ -7914,6 +7915,9 @@
         "rdv.to",
         "vpnplus.to"
     ],
+    "today": [
+        "prequalifyme.today"
+    ],
     "top": [
         "now-dns.top",
         "ntdll.top"
@@ -8492,8 +8496,7 @@
         "blogsite.xyz",
         "crafting.xyz",
         "localzone.xyz",
-        "telebit.xyz",
-        "zapto.xyz"
+        "telebit.xyz"
     ],
     "ye": [
         "com.ye",
