@@ -5781,8 +5781,7 @@
         "westeurope.azurestaticapps.net",
         "westus2.azurestaticapps.net",
         "yandexcloud.net",
-        "za.net",
-        "zapto.xyz"
+        "za.net"
     ],
     "network": [
         "alces.network",
@@ -8496,7 +8495,8 @@
         "blogsite.xyz",
         "crafting.xyz",
         "localzone.xyz",
-        "telebit.xyz"
+        "telebit.xyz",
+        "zapto.xyz"
     ],
     "ye": [
         "com.ye",
