@@ -1,28 +1,22 @@
 {
     "counter": {
-        "Dynadot LLC": 1,
-        "GoDaddy.com, LLC": 1,
+        "DYNADOT, LLC": 1,
+        "Dynadot, LLC": 1,
+        "Firstround Names LLC": 1,
+        "GoDaddy.com, LLC": 2,
         "Jagat Informasi Solusi (int)": 1,
-        "NameCheap, Inc.": 9,
-        "Namecheap": 1,
-        "Namecheap, Inc.": 2,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
-        "PT Registrasi Nama Domain": 1,
-        "Porkbun": 1,
-        "Porkbun LLC": 1,
-        "total": 19
+        "Name.com, Inc.": 5,
+        "NameCheap, Inc.": 2,
+        "total": 13
     },
     "percentage": {
-        "Dynadot LLC": 5.2631578947368425,
-        "GoDaddy.com, LLC": 5.2631578947368425,
-        "Jagat Informasi Solusi (int)": 5.2631578947368425,
-        "NameCheap, Inc.": 47.36842105263158,
-        "Namecheap": 5.2631578947368425,
-        "Namecheap, Inc.": 10.526315789473685,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 5.2631578947368425,
-        "PT Registrasi Nama Domain": 5.2631578947368425,
-        "Porkbun": 5.2631578947368425,
-        "Porkbun LLC": 5.2631578947368425,
-        "total": 100.00000000000003
+        "DYNADOT, LLC": 7.6923076923076925,
+        "Dynadot, LLC": 7.6923076923076925,
+        "Firstround Names LLC": 7.6923076923076925,
+        "GoDaddy.com, LLC": 15.384615384615385,
+        "Jagat Informasi Solusi (int)": 7.6923076923076925,
+        "Name.com, Inc.": 38.46153846153846,
+        "NameCheap, Inc.": 15.384615384615385,
+        "total": 100.0
     }
 }
