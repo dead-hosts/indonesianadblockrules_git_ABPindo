@@ -1,0 +1,20 @@
+{
+    "counter": {
+        "Dynadot LLC": 1,
+        "Jagat Informasi Solusi (int)": 2,
+        "NameCheap, Inc.": 8,
+        "Namecheap": 1,
+        "Namecheap, Inc.": 2,
+        "Web Commerce Communications Limited dba WebNic.cc": 1,
+        "total": 15
+    },
+    "percentage": {
+        "Dynadot LLC": 6.666666666666667,
+        "Jagat Informasi Solusi (int)": 13.333333333333334,
+        "NameCheap, Inc.": 53.333333333333336,
+        "Namecheap": 6.666666666666667,
+        "Namecheap, Inc.": 13.333333333333334,
+        "Web Commerce Communications Limited dba WebNic.cc": 6.666666666666667,
+        "total": 100.00000000000001
+    }
+}
