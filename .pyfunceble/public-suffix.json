@@ -5601,7 +5601,6 @@
         "steiermark.museum",
         "stjohn.museum",
         "stockholm.museum",
-        "stpetersburg.museum",
         "stuttgart.museum",
         "suisse.museum",
         "surgeonshall.museum",
@@ -5767,6 +5766,7 @@
         "nom.nc"
     ],
     "net": [
+        "1.azurestaticapps.net",
         "a.prod.fastly.net",
         "a.ssl.fastly.net",
         "adobeaemcloud.net",
@@ -6634,6 +6634,7 @@
         "stord.no",
         "stordal.no",
         "storfjord.no",
+        "stpetersburg.museum",
         "strand.no",
         "stranda.no",
         "stryn.no",
