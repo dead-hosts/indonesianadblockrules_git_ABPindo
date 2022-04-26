@@ -1048,6 +1048,7 @@
         "de.com",
         "demo.datadetect.com",
         "demo.jelastic.com",
+        "deno-staging.dev",
         "dev-myqnapcloud.com",
         "dev.adobeaemcloud.com",
         "devcdnaccesso.com",
@@ -1623,7 +1624,6 @@
     ],
     "dev": [
         "curv.dev",
-        "deno-staging.dev",
         "deno.dev",
         "deta.dev",
         "fly.dev",
@@ -7013,7 +7013,6 @@
         "accesscam.org",
         "ae.org",
         "al.eu.org",
-        "al.leg.br",
         "altervista.org",
         "app.os.fedoraproject.org",
         "app.os.stg.fedoraproject.org",
