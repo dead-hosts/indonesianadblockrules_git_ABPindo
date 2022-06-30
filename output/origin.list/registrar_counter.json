@@ -1,24 +1,10 @@
 {
     "counter": {
-        "101domain GRS Limited": 1,
-        "Dynadot, LLC": 1,
-        "Firstround Names LLC": 1,
-        "GoDaddy.com, LLC": 2,
-        "Hongkong Domain Name Information Management Co., Limited": 1,
-        "Jagat Informasi Solusi (int)": 1,
-        "Name.com, Inc.": 5,
-        "NameCheap, Inc.": 2,
-        "total": 14
+        "NameCheap, Inc.": 1,
+        "total": 1
     },
     "percentage": {
-        "101domain GRS Limited": 7.142857142857143,
-        "Dynadot, LLC": 7.142857142857143,
-        "Firstround Names LLC": 7.142857142857143,
-        "GoDaddy.com, LLC": 14.285714285714286,
-        "Hongkong Domain Name Information Management Co., Limited": 7.142857142857143,
-        "Jagat Informasi Solusi (int)": 7.142857142857143,
-        "Name.com, Inc.": 35.714285714285715,
-        "NameCheap, Inc.": 14.285714285714286,
-        "total": 100.00000000000001
+        "NameCheap, Inc.": 100.0,
+        "total": 100.0
     }
 }
