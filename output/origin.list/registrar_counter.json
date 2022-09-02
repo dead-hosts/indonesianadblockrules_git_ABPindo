@@ -1,14 +1,26 @@
 {
     "counter": {
-        "NameCheap, Inc.": 6,
-        "Namecheap, Inc.": 1,
-        "Web Commerce Communications Limited dba WebNic.cc": 2,
-        "total": 9
+        "101domain GRS Limited": 1,
+        "Dynadot, LLC": 1,
+        "Firstround Names LLC": 1,
+        "Go Daddy, LLC": 1,
+        "GoDaddy.com, LLC": 1,
+        "Hongkong Domain Name Information Management Co., Limited": 1,
+        "Jagat Informasi Solusi (int)": 1,
+        "Name.com, Inc.": 4,
+        "NameCheap, Inc.": 4,
+        "total": 15
     },
     "percentage": {
-        "NameCheap, Inc.": 66.66666666666667,
-        "Namecheap, Inc.": 11.11111111111111,
-        "Web Commerce Communications Limited dba WebNic.cc": 22.22222222222222,
-        "total": 100.0
+        "101domain GRS Limited": 6.666666666666667,
+        "Dynadot, LLC": 6.666666666666667,
+        "Firstround Names LLC": 6.666666666666667,
+        "Go Daddy, LLC": 6.666666666666667,
+        "GoDaddy.com, LLC": 6.666666666666667,
+        "Hongkong Domain Name Information Management Co., Limited": 6.666666666666667,
+        "Jagat Informasi Solusi (int)": 6.666666666666667,
+        "Name.com, Inc.": 26.666666666666668,
+        "NameCheap, Inc.": 26.666666666666668,
+        "total": 100.00000000000001
     }
 }
