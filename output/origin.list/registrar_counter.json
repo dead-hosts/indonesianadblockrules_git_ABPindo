@@ -1,14 +1,16 @@
 {
     "counter": {
-        "Media Elite Holdings Limited": 1,
-        "Namesilo, LLC": 1,
-        "PT ARDH GLOBAL INDONESIA": 1,
-        "total": 3
+        "NameCheap, Inc.": 5,
+        "Namecheap": 1,
+        "Namecheap, Inc.": 1,
+        "Web Commerce Communications Limited dba WebNic.cc": 2,
+        "total": 9
     },
     "percentage": {
-        "Media Elite Holdings Limited": 33.333333333333336,
-        "Namesilo, LLC": 33.333333333333336,
-        "PT ARDH GLOBAL INDONESIA": 33.333333333333336,
+        "NameCheap, Inc.": 55.55555555555556,
+        "Namecheap": 11.11111111111111,
+        "Namecheap, Inc.": 11.11111111111111,
+        "Web Commerce Communications Limited dba WebNic.cc": 22.22222222222222,
         "total": 100.0
     }
 }
