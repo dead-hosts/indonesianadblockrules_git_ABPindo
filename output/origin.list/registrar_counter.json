@@ -1,12 +1,10 @@
 {
     "counter": {
-        "Jagat Informasi Solusi (int)": 1,
-        "PDR Ltd": 1,
-        "total": 2
+        "NameCheap, Inc.": 1,
+        "total": 1
     },
     "percentage": {
-        "Jagat Informasi Solusi (int)": 50.0,
-        "PDR Ltd": 50.0,
+        "NameCheap, Inc.": 100.0,
         "total": 100.0
     }
 }
