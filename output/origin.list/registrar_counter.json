@@ -1,0 +1,14 @@
+{
+    "counter": {
+        "NameCheap, Inc.": 3,
+        "URL Solutions Inc.": 4,
+        "URL Solutions, Inc.": 1,
+        "total": 8
+    },
+    "percentage": {
+        "NameCheap, Inc.": 37.5,
+        "URL Solutions Inc.": 50.0,
+        "URL Solutions, Inc.": 12.5,
+        "total": 100.0
+    }
+}
