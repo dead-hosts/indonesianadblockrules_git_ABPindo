@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202301301133
+! Version: 202302131400
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 30 Jan 2023 11:33 UTC
+! Last modified: 13 Feb 2023 14:00 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1373,6 +1373,7 @@ dramaqu.net##.cfmonitor
 sindonews.com##.clear.size-wide-custom.dummy
 filmku.net##.clearfix.act2-970x90:nth-of-type(1)
 filmku.net##.clearfix.act2-970x90:nth-of-type(3)
+grid.id##.clearfix.ads__horizontal
 gridoto.com##.clearfix.ads__top-big250
 kompas.com##.clearfix.kcm__big.kcm
 kompas.com##.clearfix.kcm__horizontal.kcm
@@ -1415,6 +1416,7 @@ bisnis.com##.flying_carpet_show
 bisnis.com##.flying_carpet_show_inner
 cnnindonesia.com,teknoup.com##.footer_banner
 manganime.id##.ftadss
+komikindo.id##.gambar_pemanis
 samehadaku.win##.gambarku
 myasiantv.se##.glx-link
 myasiantv.se##.glx-teaser
@@ -1449,7 +1451,7 @@ kompas.com##.kcm__stick--left
 kompas.com##.kcm__stick--right
 kompas.com##.kcm__superbig.kcm
 apk.miuiku.com,lewat.club##.klikdisini
-15.235.11.45,45.12.2.2,anichin.vip,anoboy.id,kazefuri.net,kiryuu.id,komikindo.me,mangakita.net,mangashiro.net,manhwaindo.id,mareceh.com,nontondramaseri.com,oploverz.co.in##.kln
+15.235.11.45,45.12.2.2,anichin.vip,anoboy.id,kazefuri.net,kiryuu.id,komikindo.me,mangakita.net,mangashiro.net,manhwaindo.id,mareceh.com,nontondramaseri.com,oploverz.co.in,westmanga.info##.kln
 mangaceng.com##.kln.mlb.blox
 awsubs.co##.klnrec
 indonesiamovies21.com##.ktz-banneraftercontent
@@ -1635,6 +1637,7 @@ bioskop19.com##a[href="http://162.144.35.114/"]
 kshowid.com##a[href="http://kshowid.com/advertising/"]
 filmxy.cc##a[href="http://www.filmxy.cc/download/"]
 filmxy.cc##a[href="http://www.filmxy.cc/watch/"]
+westmanga.info##a[href="https://klik.fun/Kp7S5"]
 sinemaindo.web.id##a[href^="//angel4d.com/"]
 seri168.net##a[href^="//bit.ly/"]
 sinemaindo.web.id##a[href^="//telolet4d.com/"]
