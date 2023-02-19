@@ -1,16 +1,12 @@
 {
     "counter": {
-        "Firstround Names LLC": 1,
-        "Hongkong Domain Name Information Management Co., Limited": 1,
-        "Jagat Informasi Solusi (int)": 1,
-        "PDR Ltd": 1,
-        "total": 4
+        "Amazon Registrar, Inc.": 1,
+        "NameCheap, Inc.": 1,
+        "total": 2
     },
     "percentage": {
-        "Firstround Names LLC": 25.0,
-        "Hongkong Domain Name Information Management Co., Limited": 25.0,
-        "Jagat Informasi Solusi (int)": 25.0,
-        "PDR Ltd": 25.0,
+        "Amazon Registrar, Inc.": 50.0,
+        "NameCheap, Inc.": 50.0,
         "total": 100.0
     }
 }
