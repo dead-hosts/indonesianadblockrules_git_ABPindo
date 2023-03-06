@@ -1,16 +1,10 @@
 {
     "counter": {
-        "Name.com, Inc.": 1,
-        "TLD Registrar Solutions Ltd.": 1,
-        "URL Solutions, Inc.": 1,
-        "eNom, LLC": 1,
-        "total": 4
+        "URL Solutions, Inc.": 2,
+        "total": 2
     },
     "percentage": {
-        "Name.com, Inc.": 25.0,
-        "TLD Registrar Solutions Ltd.": 25.0,
-        "URL Solutions, Inc.": 25.0,
-        "eNom, LLC": 25.0,
+        "URL Solutions, Inc.": 100.0,
         "total": 100.0
     }
 }
