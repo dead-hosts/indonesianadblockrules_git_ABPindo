@@ -1,10 +1,14 @@
 {
     "counter": {
-        "URL Solutions, Inc.": 2,
-        "total": 2
+        "NameCheap, Inc.": 1,
+        "ResellerCamp": 1,
+        "URL Solutions Inc.": 1,
+        "total": 3
     },
     "percentage": {
-        "URL Solutions, Inc.": 100.0,
+        "NameCheap, Inc.": 33.333333333333336,
+        "ResellerCamp": 33.333333333333336,
+        "URL Solutions Inc.": 33.333333333333336,
         "total": 100.0
     }
 }
