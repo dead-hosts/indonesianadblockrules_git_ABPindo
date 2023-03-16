@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202303101305
+! Version: 202303150511
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 10 Mar 2023 13:05 UTC
+! Last modified: 15 Mar 2023 05:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -184,6 +184,7 @@
 ||abrts.pro^$popup,third-party
 ||adeumssp.com^
 ||afbcashidr.com^$popup,third-party
+||afdashrafi.com^
 ||ahcnxuepput.com^$popup
 ||aj1052.online^$popup
 ||aopxnvrugx.com^$popup
@@ -1118,7 +1119,7 @@ kabargames.id###main-banner-middle
 dewabioskop21.org,dwa21.org###main-popup
 sindonews.com###me-div-gpt-ad-parallax
 dapurpacu.com###mid-banner
-dunia21.cx,ganool.watch,lk21tv.com,movies21.co###middle-banner
+dunia21.cx,ganool.watch,lk21tv.com,movies21.co,terbit21.cafe###middle-banner
 fastdrama.co,hkfree.co###modal
 indotelko.com###more_stories
 fastdrama.co###myModal
@@ -1149,6 +1150,7 @@ dunia21s.fun,fb21.tv,lk21.li,nonton21.tv###previewBox3
 dunia21s.fun,fb21.tv,lk21.li,nonton21.tv,nontonserial.com###previewBox4
 185.231.223.76,gomunime.biz###promoContainer
 ayononton.co,dunia21.cx,layarkaca21.com,layarkaca21.web.id,lk21tv.com,terbit21.cool###ptbanner
+terbit21.cafe###ptbanner.row
 zonabola.com###rAds
 utusan.com.my###rec_ad4
 193.178.172.113###repop
@@ -1181,7 +1183,7 @@ dunia21.top,lk21.cc###tengah > span
 indoxx1.club###tengahaa
 hotabis.com###text-28 > .textwidget
 indotelko.com###title_kanal
-bioskopkerenin.com,dunia21.cx,ganool.watch,ganool21.watch,kebioskop21.com,kebioskop21.online,lk21.web.id,lk21tv.com,movies21.co,sinemaindo.web.id,terbit21.in###top-banner
+bioskopkerenin.com,dunia21.cx,ganool.watch,ganool21.watch,kebioskop21.com,kebioskop21.online,lk21.web.id,lk21tv.com,movies21.co,sinemaindo.web.id,terbit21.cafe,terbit21.in###top-banner
 layarxxi.online###top-banner-content
 orami.co.id###top-banner-parallax
 indoxxi.tv,xx1.tv###top-bnner-content
@@ -1218,7 +1220,9 @@ terkini.id##.adbox
 bharian.com.my##.adbtm
 file.rocks##.add
 suara.com##.adds-top.add
-192.99.70.18,22cinema.com,95.216.163.177,dapurpacu.com,dewanontons.com,download-lagu-mp3.com,dunia21.ltd,duniafilm21.com,embed.dramacool.es,embed.dramanices.com,k-vid.net,kompas.com,neumanga.tv,otakuindo.net,smallencode.com,topgans.blogspot.com##.ads
+192.99.70.18,22cinema.com,95.216.163.177,dapurpacu.com,dewanontons.com,download-lagu-mp3.com,dunia21.ltd,duniafilm21.com,embed.dramacool.es,embed.dramanices.com,k-vid.net,kompas.com,neumanga.tv,otakuindo.net,republika.co.id,smallencode.com,topgans.blogspot.com##.ads
+republika.co.id##.ads-120__left
+republika.co.id##.ads-120__right
 republika.co.id##.ads-160
 republika.co.id##.ads-160-600
 republika.co.id##.ads-300-video
@@ -1243,6 +1247,8 @@ dapurpacu.com##.ads2-home
 drakorasia.us##.ads728-slot-panjang
 kompas.com##.adsMR1Lipsus1
 bisnis.com##.adsPushdown
+republika.co.id##.ads_160x600
+republika.co.id##.ads_970x250
 gridoto.com,motorplus-online.com##.ads__boxr
 grid.id##.ads__skyscraper
 bolasport.com,gridoto.com##.ads__stick--left
@@ -1253,6 +1259,7 @@ grid.id##.ads_sky
 duwitmu.com##.ads_square_banner
 inews.id##.ads_sticky_footer
 apkmod.id,hightech.web.id,nama.web.id,novelgo.id,paraedu.id,radarlombok.co.id##.adsbygoogle
+107.152.37.223##.adscenter
 pontianakpost.co.id##.adsense
 gamebrott.com##.adsense-header-in-article
 ganol.si##.adsincenter
@@ -1438,9 +1445,7 @@ awsubs.co##.iklansamping
 ld2tv.com##.img-banner
 dutafilm.cfd,dutafilm.observer,dutafilm.us##.imgbanner
 animeindo.video,animeindo.web.id##.in_up_ad-area
-idntimes.com##.inarticle-ads.wrapper-ads
 alona.co.id##.inf_infusionsoft_popup
-kompas.com##.js-giant-wp-top1.clearfix.kcm__big.kcm
 motorplus-online.com,www.sonora.id##.js-tower-sticky.clearfix.kcm__tower.kcm
 indoxx1.art,indoxxi.bz##.jwseed
 nobartv.com##.jx-ads.nobar-ads
@@ -1451,7 +1456,7 @@ kompas.com##.kcm__stick--left
 kompas.com##.kcm__stick--right
 kompas.com##.kcm__superbig.kcm
 apk.miuiku.com,lewat.club##.klikdisini
-15.235.11.45,45.12.2.2,anichin.vip,animasu.nl,anoboy.id,kazefuri.net,kiryuu.id,komikindo.co,komikindo.me,mangakita.net,mangashiro.net,manhwaindo.id,mareceh.com,nontondramaseri.com,oploverz.co.in,oploverz.info,oploverz.tv,westmanga.info##.kln
+107.152.37.223,15.235.11.45,45.12.2.2,anichin.vip,animasu.nl,anoboy.id,kazefuri.net,kiryuu.id,komikindo.co,komikindo.me,mangakita.net,mangashiro.net,manhwaindo.id,mareceh.com,nontondramaseri.com,oploverz.co.in,oploverz.info,oploverz.tv,westmanga.info##.kln
 mangaceng.com##.kln.mlb.blox
 awsubs.co##.klnrec
 indonesiamovies21.com##.ktz-banneraftercontent
@@ -1460,7 +1465,6 @@ faktabali.com##.ktzsingle-bannerright
 kumpulmanga.org##.kzl-header.kzl
 188.166.39.172##.lazyloaded.ls-is-cached.bannerdua
 188.166.39.172##.lazyloaded.ls-is-cached.bannersatu
-idntimes.com##.leaderboard-ads-wrapper.wrapper-ads
 dwanonton.com##.left.banner-vertical
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 kabargames.id##.legend_banner-container
@@ -1496,7 +1500,6 @@ detik.com##.normalbanner
 animeindo.id##.nyaa300
 animeindo.id##.nyaa728
 kompas.com##.ol_big_inner
-kompas.com##.osmplaceonsite.ads-partner-wrap
 detik.com##.otp_banner_close
 dutaislam.com##.outer-wrapper:style(margin-top:60px!important;)
 tribunnews.com##.ovh[style="width:468px;height:60px"]
@@ -1572,7 +1575,7 @@ dutafilm.observer##.swal-overlay--show-modal.swal-overlay
 hijabista.com.my,majalahpama.my,nona.my,vanillakismis.my##.td-banner-bg.td-banner-wrap-full
 nontondramaonline.co,nontondramaonline.net##.td-banner-wrap-full
 mediapermata.com.bn,terkini.id##.td-header-rec-wrap
-film21terbaru.org##.teaser3
+107.152.37.223,film21terbaru.org##.teaser3
 internetpositif.uzone.id##.text-align-center.box-ads-content
 stocksetup.kontan.co.id##.text-center.center.width-px-1100
 bioskopgalaxy21.com,indostreamings.xyz,oploverz.tv,semi168.xyz,tvkabel.net##.textwidget
@@ -1819,9 +1822,7 @@ bioskop78.com##td:nth-of-type(3)
 /ITCBET.gif|$image
 /Indotogel-$image
 /JAYAPOKER_*.gif$image
-/JUDIKARTU.gif$image
 /JuaraCapsa.gif|$image
-/KLIKHOKI-720x$image
 /KaikoSlot.gif|$image
 /Luxury777.mp4|$media
 /MACAU442NET.gif$image
@@ -1903,12 +1904,14 @@ bioskop78.com##td:nth-of-type(3)
 /betsaja-$image
 /bigwin-banner-$image
 /bijitogel-$image
+/bisnis4d-
 /bokep-update.gif|$image
 /bolagila-$image
 /bolavegas-$image
 /bolavita-$image
 /bosqq.$image
 /bursabet-$image
+/buyspinslot-
 /buyspinslot.gif$image
 /cantikqq-$image
 /capsa365.gif|$image
@@ -2000,6 +2003,7 @@ bioskop78.com##td:nth-of-type(3)
 /jpslot88-$image
 /jual_obat_aborsi_$image
 /juaracapsa-$image
+/kaikoslot-
 /kartu-online.gif|
 /kartuhoki-$image
 /kd777.gif|$image
@@ -2074,6 +2078,7 @@ bioskop78.com##td:nth-of-type(3)
 /pancatoto.gif|$image
 /pemainkasino-$image
 /pendekarqq-$image
+/pentaslot-$image
 /pentaslot.gif$image
 /pkutama2-$image
 /poker24s-$image
@@ -2094,7 +2099,6 @@ bioskop78.com##td:nth-of-type(3)
 /qq-simpati-$image
 /qq101_$image
 /qq188_$image
-/qq39-$image
 /qqangpao-$image
 /qqhok-gif$image
 /qqholic-$image
@@ -2571,7 +2575,7 @@ totojitu.gif|$image
 /pasangnomor2.$image,third-party
 /pemaintogel.$image,third-party
 /pendekarqq.$image,third-party
-/Pentaslot.webp$image
+/Pentaslot.$image
 /pesonaqq.$image,third-party
 /pialabet.$image,third-party
 /pialaqq.$image,third-party

@@ -1,14 +1,46 @@
 {
     "counter": {
-        "NameCheap, Inc.": 1,
+        "DYNADOT, LLC": 3,
+        "Digital Registra": 1,
+        "Dynadot LLC": 2,
+        "Dynadot, LLC": 1,
+        "Gname.com Pte. Ltd.": 2,
+        "Go Daddy, LLC": 1,
+        "GoDaddy.com, LLC": 2,
+        "Name.com, Inc.": 1,
+        "NameCheap, Inc.": 4,
+        "NameSilo, LLC": 2,
+        "Namecheap": 4,
+        "Porkbun LLC": 1,
+        "Registrar of Domain Names REG.RU, LLC": 1,
+        "Registrasi Neva Angkasa": 1,
         "ResellerCamp": 1,
-        "URL Solutions Inc.": 1,
-        "total": 3
+        "Sav.com, LLC - 45": 1,
+        "URL Solutions, Inc.": 3,
+        "Zone of Domains LLC": 1,
+        "eNom, LLC": 1,
+        "total": 33
     },
     "percentage": {
-        "NameCheap, Inc.": 33.333333333333336,
-        "ResellerCamp": 33.333333333333336,
-        "URL Solutions Inc.": 33.333333333333336,
-        "total": 100.0
+        "DYNADOT, LLC": 9.090909090909092,
+        "Digital Registra": 3.0303030303030303,
+        "Dynadot LLC": 6.0606060606060606,
+        "Dynadot, LLC": 3.0303030303030303,
+        "Gname.com Pte. Ltd.": 6.0606060606060606,
+        "Go Daddy, LLC": 3.0303030303030303,
+        "GoDaddy.com, LLC": 6.0606060606060606,
+        "Name.com, Inc.": 3.0303030303030303,
+        "NameCheap, Inc.": 12.121212121212121,
+        "NameSilo, LLC": 6.0606060606060606,
+        "Namecheap": 12.121212121212121,
+        "Porkbun LLC": 3.0303030303030303,
+        "Registrar of Domain Names REG.RU, LLC": 3.0303030303030303,
+        "Registrasi Neva Angkasa": 3.0303030303030303,
+        "ResellerCamp": 3.0303030303030303,
+        "Sav.com, LLC - 45": 3.0303030303030303,
+        "URL Solutions, Inc.": 9.090909090909092,
+        "Zone of Domains LLC": 3.0303030303030303,
+        "eNom, LLC": 3.0303030303030303,
+        "total": 100.00000000000001
     }
 }
