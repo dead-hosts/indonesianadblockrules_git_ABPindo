@@ -1,12 +1,14 @@
 {
     "counter": {
-        "CV. Rumahweb Indonesia": 1,
-        "Jagat Informasi Solusi (int)": 1,
-        "total": 2
+        "TLD Registrar Solutions Ltd.": 1,
+        "URL Solutions, Inc.": 1,
+        "eNom, LLC": 1,
+        "total": 3
     },
     "percentage": {
-        "CV. Rumahweb Indonesia": 50.0,
-        "Jagat Informasi Solusi (int)": 50.0,
+        "TLD Registrar Solutions Ltd.": 33.333333333333336,
+        "URL Solutions, Inc.": 33.333333333333336,
+        "eNom, LLC": 33.333333333333336,
         "total": 100.0
     }
 }
