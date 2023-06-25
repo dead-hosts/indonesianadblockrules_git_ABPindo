@@ -1,14 +1,30 @@
 {
     "counter": {
-        "Gname.com Pte. Ltd.": 2,
-        "GoDaddy.com, LLC": 2,
-        "Jagat Informasi Solusi (int)": 2,
-        "total": 6
+        "Gname 040 Inc": 2,
+        "Go Daddy, LLC": 2,
+        "GoDaddy.com, LLC": 8,
+        "NameCheap, Inc.": 2,
+        "NameSilo, LLC": 4,
+        "Namecheap": 2,
+        "Top Pick Names LLC": 2,
+        "Tucows Domains Inc.": 2,
+        "TurnCommerce, Inc. DBA NameBright.com": 4,
+        "URL Solutions, Inc.": 4,
+        "eNom, LLC": 2,
+        "total": 34
     },
     "percentage": {
-        "Gname.com Pte. Ltd.": 33.333333333333336,
-        "GoDaddy.com, LLC": 33.333333333333336,
-        "Jagat Informasi Solusi (int)": 33.333333333333336,
+        "Gname 040 Inc": 5.882352941176471,
+        "Go Daddy, LLC": 5.882352941176471,
+        "GoDaddy.com, LLC": 23.529411764705884,
+        "NameCheap, Inc.": 5.882352941176471,
+        "NameSilo, LLC": 11.764705882352942,
+        "Namecheap": 5.882352941176471,
+        "Top Pick Names LLC": 5.882352941176471,
+        "Tucows Domains Inc.": 5.882352941176471,
+        "TurnCommerce, Inc. DBA NameBright.com": 11.764705882352942,
+        "URL Solutions, Inc.": 11.764705882352942,
+        "eNom, LLC": 5.882352941176471,
         "total": 100.0
     }
 }
