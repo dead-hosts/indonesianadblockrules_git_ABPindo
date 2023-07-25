@@ -1,12 +1,20 @@
 {
     "counter": {
+        "Above.com Pty Ltd.": 2,
+        "Gname.com Pte. Ltd.": 4,
+        "GoDaddy.com, LLC": 2,
+        "Jagat Informasi Solusi (int)": 2,
         "NameCheap, Inc.": 2,
-        "URL Solutions, Inc.": 4,
-        "total": 6
+        "URL Solutions, Inc.": 2,
+        "total": 14
     },
     "percentage": {
-        "NameCheap, Inc.": 33.333333333333336,
-        "URL Solutions, Inc.": 66.66666666666667,
-        "total": 100.0
+        "Above.com Pty Ltd.": 14.285714285714286,
+        "Gname.com Pte. Ltd.": 28.571428571428573,
+        "GoDaddy.com, LLC": 14.285714285714286,
+        "Jagat Informasi Solusi (int)": 14.285714285714286,
+        "NameCheap, Inc.": 14.285714285714286,
+        "URL Solutions, Inc.": 14.285714285714286,
+        "total": 100.00000000000001
     }
 }
