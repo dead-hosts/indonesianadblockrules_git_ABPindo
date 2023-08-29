@@ -1,18 +1,14 @@
 {
     "counter": {
-        "Dynadot Inc": 2,
+        "Gname.com Pte. Ltd.": 4,
         "GoDaddy.com, LLC": 2,
-        "NameCheap, Inc.": 4,
-        "Tucows Domains Inc.": 2,
-        "URL Solutions, Inc.": 4,
-        "total": 14
+        "Jagat Informasi Solusi (int)": 2,
+        "total": 8
     },
     "percentage": {
-        "Dynadot Inc": 14.285714285714286,
-        "GoDaddy.com, LLC": 14.285714285714286,
-        "NameCheap, Inc.": 28.571428571428573,
-        "Tucows Domains Inc.": 14.285714285714286,
-        "URL Solutions, Inc.": 28.571428571428573,
+        "Gname.com Pte. Ltd.": 50.0,
+        "GoDaddy.com, LLC": 25.0,
+        "Jagat Informasi Solusi (int)": 25.0,
         "total": 100.0
     }
 }
