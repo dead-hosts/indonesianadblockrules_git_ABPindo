@@ -1,28 +1,10 @@
 {
     "counter": {
-        "101domain GRS Limited": 2,
-        "Danesco Trading Ltd.": 2,
-        "GoDaddy.com, LLC": 4,
-        "Google LLC": 2,
-        "Hostinger, UAB": 2,
-        "MarkMonitor Inc.": 2,
-        "NameCheap, Inc.": 4,
-        "REGISTRAR OF DOMAIN NAMES REG.RU LLC": 2,
-        "URL Solutions Inc.": 6,
-        "URL Solutions, Inc.": 2,
-        "total": 28
+        "NameCheap, Inc.": 2,
+        "total": 2
     },
     "percentage": {
-        "101domain GRS Limited": 7.142857142857143,
-        "Danesco Trading Ltd.": 7.142857142857143,
-        "GoDaddy.com, LLC": 14.285714285714286,
-        "Google LLC": 7.142857142857143,
-        "Hostinger, UAB": 7.142857142857143,
-        "MarkMonitor Inc.": 7.142857142857143,
-        "NameCheap, Inc.": 14.285714285714286,
-        "REGISTRAR OF DOMAIN NAMES REG.RU LLC": 7.142857142857143,
-        "URL Solutions Inc.": 21.428571428571427,
-        "URL Solutions, Inc.": 7.142857142857143,
+        "NameCheap, Inc.": 100.0,
         "total": 100.0
     }
 }
