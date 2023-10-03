@@ -1,16 +1,14 @@
 {
     "counter": {
-        "Above.com Pty Ltd.": 2,
-        "MYNIC Berhad": 2,
-        "NameCheap, Inc.": 4,
-        "URL Solutions, Inc.": 6,
-        "total": 14
+        "Gname.com Pte. Ltd.": 4,
+        "GoDaddy.com, LLC": 2,
+        "Jagat Informasi Solusi (int)": 2,
+        "total": 8
     },
     "percentage": {
-        "Above.com Pty Ltd.": 14.285714285714286,
-        "MYNIC Berhad": 14.285714285714286,
-        "NameCheap, Inc.": 28.571428571428573,
-        "URL Solutions, Inc.": 42.857142857142854,
+        "Gname.com Pte. Ltd.": 50.0,
+        "GoDaddy.com, LLC": 25.0,
+        "Jagat Informasi Solusi (int)": 25.0,
         "total": 100.0
     }
 }
