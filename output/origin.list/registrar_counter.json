@@ -1,32 +1,12 @@
 {
     "counter": {
-        "Gname 040 Inc": 2,
-        "Go Daddy, LLC": 2,
-        "GoDaddy.com, LLC": 8,
-        "NameCheap, Inc.": 2,
-        "NameSilo, LLC": 4,
-        "Namecheap": 2,
-        "Namecheap Inc.": 2,
-        "Top Pick Names LLC": 2,
-        "Tucows Domains Inc.": 2,
-        "TurnCommerce, Inc. DBA NameBright.com": 4,
-        "URL Solutions, Inc.": 4,
+        "Porkbun, LLC": 2,
         "eNom, LLC": 2,
-        "total": 36
+        "total": 4
     },
     "percentage": {
-        "Gname 040 Inc": 5.555555555555555,
-        "Go Daddy, LLC": 5.555555555555555,
-        "GoDaddy.com, LLC": 22.22222222222222,
-        "NameCheap, Inc.": 5.555555555555555,
-        "NameSilo, LLC": 11.11111111111111,
-        "Namecheap": 5.555555555555555,
-        "Namecheap Inc.": 5.555555555555555,
-        "Top Pick Names LLC": 5.555555555555555,
-        "Tucows Domains Inc.": 5.555555555555555,
-        "TurnCommerce, Inc. DBA NameBright.com": 11.11111111111111,
-        "URL Solutions, Inc.": 11.11111111111111,
-        "eNom, LLC": 5.555555555555555,
-        "total": 100.00000000000001
+        "Porkbun, LLC": 50.0,
+        "eNom, LLC": 50.0,
+        "total": 100.0
     }
 }
