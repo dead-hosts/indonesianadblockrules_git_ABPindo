@@ -1,12 +1,14 @@
 {
     "counter": {
-        "Porkbun, LLC": 2,
-        "eNom, LLC": 2,
-        "total": 4
+        "Firstround Names LLC": 2,
+        "Hongkong Domain Name Information Management Co., Limited": 2,
+        "MarkMonitor Inc.": 2,
+        "total": 6
     },
     "percentage": {
-        "Porkbun, LLC": 50.0,
-        "eNom, LLC": 50.0,
+        "Firstround Names LLC": 33.333333333333336,
+        "Hongkong Domain Name Information Management Co., Limited": 33.333333333333336,
+        "MarkMonitor Inc.": 33.333333333333336,
         "total": 100.0
     }
 }
