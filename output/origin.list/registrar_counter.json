@@ -1,14 +1,10 @@
 {
     "counter": {
-        "Firstround Names LLC": 2,
-        "Hongkong Domain Name Information Management Co., Limited": 2,
-        "MarkMonitor Inc.": 2,
-        "total": 6
+        "NameCheap, Inc.": 2,
+        "total": 2
     },
     "percentage": {
-        "Firstround Names LLC": 33.333333333333336,
-        "Hongkong Domain Name Information Management Co., Limited": 33.333333333333336,
-        "MarkMonitor Inc.": 33.333333333333336,
+        "NameCheap, Inc.": 100.0,
         "total": 100.0
     }
 }
