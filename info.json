@@ -16,6 +16,7 @@
     "name": "indonesianadblockrules_git_ABPindo",
     "own_management": false,
     "ping": [],
+    "ping_enabled": false,
     "platform_container_id": null,
     "platform_container_name": "indonesianadblockrules_git_abpindo",
     "platform_description": "Imported from Dead-Hosts legacy infrastructure.",
