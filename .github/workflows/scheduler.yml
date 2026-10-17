@@ -44,22 +44,6 @@ jobs:
         run: |
           pip install dead-hosts-launcher
 
-      # WORKAROUND 2026-10: the upstream PyFunceble/user_agents generator is
-      # broken and ships an empty dataset ("@modern": {}), which makes any
-      # PyFunceble command fail with
-      #   ValueError: The given name ('chrome') or platform ('linux') is not supported.
-      # We restore the last known-good dataset (commit 4afb1fc, Oct 3 2026)
-      # into PyFunceble's cache before running anything.
-      # TODO: remove once https://github.com/PyFunceble/user_agents is fixed
-      # (watch for "Generation of the User-Agents file" runs to succeed again).
-      - name: Restore last known-good PyFunceble user_agents dataset
-        run: |
-          mkdir -p "$PYFUNCEBLE_CONFIG_DIR"
-          curl -fsSL \
-            "https://raw.githubusercontent.com/PyFunceble/user_agents/4afb1fc68b0e8ed229b29e1d70c58f638ade8b5f/user_agents.json" \
-            -o "$PYFUNCEBLE_CONFIG_DIR/user_agents.json"
-          cat "$PYFUNCEBLE_CONFIG_DIR/user_agents.json" | python -c "import json,sys; d=json.load(sys.stdin); assert d['chrome']['linux'], 'dataset still empty'"
-
       - name: Get PyFunceble version
         run: |
           PyFunceble --version
