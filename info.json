@@ -2,9 +2,7 @@
     "currently_under_test": false,
     "custom_pyfunceble_config": {
         "cli_decoding.adblock": true,
-        "user_agent": {
-            "custom": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
-        }
+        "user_agent.custom": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
     },
     "days_until_next_test": 4.0,
     "finish_datetime": "2023-11-07T05:41:23.396423",
