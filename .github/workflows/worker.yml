@@ -56,11 +56,11 @@ jobs:
       # (watch for "Generation of the User-Agents file" runs to succeed again).
       - name: Restore last known-good PyFunceble user_agents dataset
         run: |
-          mkdir -p ~/.config/PyFunceble
+          mkdir -p "$PYFUNCEBLE_CONFIG_DIR"
           curl -fsSL \
             "https://raw.githubusercontent.com/PyFunceble/user_agents/4afb1fc68b0e8ed229b29e1d70c58f638ade8b5f/user_agents.json" \
-            -o ~/.config/PyFunceble/user_agents.json
-          cat ~/.config/PyFunceble/user_agents.json | python -c "import json,sys; d=json.load(sys.stdin); assert d['chrome']['linux'], 'dataset still empty'"
+            -o "$PYFUNCEBLE_CONFIG_DIR/user_agents.json"
+          cat "$PYFUNCEBLE_CONFIG_DIR/user_agents.json" | python -c "import json,sys; d=json.load(sys.stdin); assert d['chrome']['linux'], 'dataset still empty'"
 
       - name: Get PyFunceble version
         run: |
